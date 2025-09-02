@@ -1,0 +1,228 @@
+2024003717 2025 08 26 60b52718 384b 44de abeb c7e7a9816963
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/903,012 06/16/2020 Eugene I. Kelton P201902378AUS01 6901
+105995 7590 08/27/2025
+IBM CORPORATION - PATENTS+ TEAM
+2800 37th Street NW
+Rochester, MN 55901
+EXAMINER
+O'SHEA, BRENDAN S
+ART UNIT PAPER NUMBER
+3626
+NOTIFICATION DATE DELIVERY MODE
+08/27/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+IBMPatentsTeam@us.ibm.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+——————
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+——————
+Ex parte EUGENE I. KELTON and WILLIE R. PATTEN, JR.
+——————
+Appeal 2024-003717
+Application 16/903,012
+Technology Center 3600
+——————
+
+Before MICHAEL C. ASTORINO, NINA L. MEDLOCK, and
+BRADLEY B. BAYAT, Administrative Patent Judges.
+BAYAT, Administrative Patent Judge.
+DECISION ON APPEAL
+STATEMENT OF THE CASE
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the
+Examiner’s decision to reject claims 1–20, which constitute all pending
+claims in the application. See Final Act. 1. We have jurisdiction under
+35 U.S.C. § 6(b).
+We AFFIRM.
+
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant
+identifies the real party in interest as International Business Machines
+Corporation. Appeal Br. 2.
+
+Appeal 2024-003717
+Application 16/903,012
+2
+CLAIMED SUBJECT MATTER
+The claims are directed to a comprehensive real estate tracking system
+having security features. Claim 1, reproduced below, illustrates the claimed
+subject matter:
+1. A computer implemented method in a data processing system
+comprising a processor and a memory comprising instructions,
+which are executed by the processor, causing the processor to
+implement a method for tracking real estate property
+information, the method comprising:
+receiving, at a first computing device, first real estate
+property information;
+identifying a real estate immutable record, comprising
+history information stored in a first blockchain that comprises a
+series of blocks that each contain a cryptographic hash of a
+previous block and transaction information, based on the first
+real estate property information;
+updating the history information in the blockchain of the
+real estate immutable record with the first real estate property
+information;
+creating a first transaction tag associated with updating
+the real estate immutable record;
+distributing the first transaction tag to a plurality of
+second computing devices;
+providing the real estate immutable record to a cognitive
+advisor system; and
+determining, by the cognitive advisor system, a match
+between the real estate immutable record and a buyer based on
+a buyer immutable record stored in a buyer blockchain
+associated with the buyer and a buyer need profile, wherein the
+history information of the first blockchain comprises
+information describing at least one of repair history, services
+history, insurance history, governmental impact history, and
+environmental history
+Appeal Br. (Claims App.)
+
+Appeal 2024-003717
+Application 16/903,012
+3
+REFERENCES
+The Examiner relies on the following references to reject the claims:
+Name Reference Date
+Wang US 2018/0253780 A1 Sept. 6, 2018
+Sher US 2018/0322597 A1 Nov. 8, 2018
+Howie US 2020/0175623 A1 June 4, 2020
+Davison US 2021/0012443 A1 Jan. 14, 2021
+REJECTIONS
+The Examiner maintains the following rejections:
+Claim(s) Rejected 35 U.S.C. § Reference(s)/ Basis
+1, 4–8, 11–20 103 Howie, Davison, Wang
+2, 3, 9, 10 103 Howie, Davison, Wang, Sher
+OPINION
+Independent claims 1, 8, and 15 and dependent claims 4–7, 11–14, and 16–
+20
+In contesting the rejection of independent claims 1, 8, and 15 as
+unpatentable over Howie, Davison, and Wang, Appellant only argues that
+Howie, on which the Examiner relies, fails to disclose “receiving . . . first
+real estate property information” because “‘recording’ real estate
+information on [a] distributed ledger, as allegedly taught by Howie, is
+different from ‘receiving’ real estate information.” Appeal Br. 8. In
+particular, Appellant argues that Howie teaches using the user computational
+device 102 to receive user commands and display information to the user
+instead of receiving real estate information. Id. (citing Howie ¶¶ 66, 69).
+The Examiner disagrees because Howie does not only teach that the
+user computational device receives user commands but paragraph 68 of
+
+Appeal 2024-003717
+Application 16/903,012
+4
+“Howie clarifies [that] the user interface in the user computational device
+allows a customer to input commands and data.” Id.
+We are not persuaded by Appellant’s argument.
+Howie is directed to a distributed ledger based system and method for
+the settlement and transfer of title to real estate “for management of parcel
+title through a distributed ledger.” Howie ¶ 1. By using blockchain
+technology to securely store and manage real estate property ownership and
+parcel boundaries, Howie’s invention addresses shortcomings in existing
+real estate systems that fail to provide a reliable and computational way to
+determine parcel boundaries especially when multiple units within the same
+parcel are owned by different entities. Id. ¶¶ 3–10. “User computational
+device 102 operates user interface 108 for receiving one or more user
+commands and for displaying information to the user.” Id. ¶ 66. Indeed,
+paragraph 68 of Howie expressly discloses that “[t]he user interface employs
+certain input and output devices to input data received from a user or output
+data to a user,” which in the context of the invention requires real estate
+information such as property/parcel coordinates. Id. ¶ 69. We disagree that
+“Howie does not teach that the ‘commands and data’ input by a customer is
+real estate information.” Reply Br. 3. For example, Figure 14 of Howie
+shows the step of receiving real estate property information because a real
+estate parcel “title to be searched is received at 1402” and “[t]he title
+information may for example relate to a traditional mailing or physical
+address” (Howie ¶ 163). See also Howie Figure 15 (1504) (“property details
+are preferably provided online”).
+
+Appeal 2024-003717
+Application 16/903,012
+5
+Accordingly, we sustain the rejection of claims 1, 8, and 15 and
+remaining dependent claims 4–7, 11–14, and 16–20, which are not argued
+separately.
+Dependent claims 2, 3, 9, and 10
+With respect to dependent claims 3 and 10, Appellant argues that
+Sher, on which the Examiner relies, does not teach a buyer immutable record
+that comprises a purchase history because Sher relates to renters and renters
+are different than buyers. Appeal Br. 9 (“Buyers purchase ownership of the
+real estate property through purchase payment while renters rent to use the
+real estate property through rental payment.”).
+The Examiner “disagrees Sher only relates to renters because Sher
+explicitly involves buyers. Specifically, ¶[0025] of Sher states the disclosure
+involves ‘…renter conversion to buyer, tenant conversion to buyer…’ Thus
+Sher does not only relate to renters because Sher explicitly contemplates the
+renters becoming buyers.” Ans. 4–5.
+We are not persuaded by Appellant’s argument.
+Sher “relates to a decentralized cryptographic real estate transaction
+assistance system and method for “facilitating matching, engaging,
+contracting, and communicating between parties to a real estate and/or
+property rental transaction by a decentralized system.” Sher ¶ 2. As the
+Examiner points out, Sher is not limited to renters because paragraph 25
+discusses “renter conversion to buyer” and “tenant conversion to buyer.” See
+Sher ¶ 291 (“Same may be applied to use in real estate buy/sell transactions
+as renters transition to becoming homebuyers, car buyers, etc.”).
+Paragraph 65 of Sher discloses that real estate transactions “include[]
+buying, selling, trading, transferring, and other transactional activities” and
+
+Appeal 2024-003717
+Application 16/903,012
+6
+that “[i]n applications relating [to] the sale of real property, the landlord term
+may be substituted with seller and the renter term may be substituted with
+buyer.” Moreover, Sher discloses:
+In an example of a decentralized cryptographic platform
+for real estate transaction assistance enabled by this disclosure,
+the blockchain may include data relating to renters, tenants,
+landlords, owners, buyers, sellers, agents, brokers, and other
+parties related to a real estate transaction. The blockchain may
+additionally include information related to rental units,
+apartments, condominiums, houses, commercial real estate, and
+other properties that may be bought, sold, rented, leased, or
+otherwise possessed by a party.
+
+Sher ¶ 282.
+For these reasons, we are not apprised of Examiner error and sustain
+the rejection of dependent claims 3 and 10. We also sustain the rejection of
+dependent claims 2 and 9, which are not argued separately.
+CONCLUSION
+The Examiner’s rejections are AFFIRMED.
+
+
+Appeal 2024-003717
+Application 16/903,012
+7
+DECISION SUMMARY
+The following table summarizes our decision:
+Claim(s)
+Rejected
+35 U.S.C.
+§ Reference(s)/ Basis Affirmed Reversed
+1, 4–8, 11–20 103 Howie, Davison, Wang 1, 4–8, 11–
+20
+
+2, 3, 9, 10 103 Howie, Davison, Wang,
+Sher
+2, 3, 9, 10
+Overall
+Outcome
+1–20
+
+TIME PERIOD FOR RESPONSE
+No time period for taking any subsequent action in connection with
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R.
+§ 1.136(a)(1)(iv).
+AFFIRMED

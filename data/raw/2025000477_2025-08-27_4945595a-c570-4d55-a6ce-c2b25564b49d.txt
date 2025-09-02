@@ -1,0 +1,380 @@
+2025000477 2025 08 27 4945595a c570 4d55 a6ce c2b25564b49d
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/519,342 11/04/2021 Mayank SHARMA 2020P00311
+US01 (945US2)
+9842
+114292 7590 08/28/2025
+Troutman Pepper Locke LLP
+IP Docket Department
+P.O. BOX 55874
+Boston, MA 02205
+EXAMINER
+CHOI, MICHAEL W
+ART UNIT PAPER NUMBER
+2116
+NOTIFICATION DATE DELIVERY MODE
+08/28/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+Patent-Docketing@schneider-electric.com
+patentdocket@troutman.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD  
+Ex parte MAYANK SHARMA and HUBERT THOMPSON LINDSAY 
+Appeal 2025-000477 
+Application 17/519,342 
+Technology Center 2100 
+Before ALLEN R. MacDONALD, DANIEL J. GALLIGAN, and 
+JOYCE CRAIG, Administrative Patent Judges. 
+GALLIGAN, Administrative Patent Judge.  
+DECISION ON APPEAL 
+STATEMENT OF THE CASE 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the 
+Examiner’s decision to reject claims 1–21.  We have jurisdiction under 
+35 U.S.C. § 6(b). 
+We AFFIRM. 
+ 
+1 We use the word “Appellant” to refer to “applicant” as defined in 
+37 C.F.R. § 1.42(a).  Appellant identifies the real party in interest as 
+Schneider Electric Buildings Americas, Inc.  Appeal Br. 2. 
+
+
+Appeal 2025-000477 
+Application 17/519,342 
+2 
+ CLAIMED SUBJECT MATTER 
+Claims 1, 10, and 16 are independent claims.  Claim 1 is reproduced 
+below. 
+1. A method of implementing a building-related service in a 
+building automation management system (BAMS) comprising a 
+plurality of building automation systems (BASs), the method 
+comprising: 
+receiving a request to create a building -related service 
+involving dynamic coordination between at least two BASs, the 
+at least two BASs configured to control different functions from 
+one another for a building, the request including a workflow 
+comprising a set of actions and configurations specified by a user 
+that define the building-related service; 
+generating, from the workflow, system description data; 
+instantiating, from the system description data, a blueprint 
+for the building -related service, the blueprint defining data 
+exchanges with the at least two BASs, information about target 
+hosts, and any dependencies to be resolved; 
+parsing the blueprint to resolve any dependencies; 
+building a deployment plan that includes a sequence of 
+steps and configurations for implementing the building -related 
+service; and 
+executing the deployment plan to implement the building-
+related service; 
+wherein the building-related service is a software program 
+that interacts with one or more building sub -systems associated 
+with a building, and wherein the user is provided with an option 
+to save the building-related service for subsequent reuse to create 
+another building-related service. 
+Appeal Br. 21 (Claims App.). 
+
+Appeal 2025-000477 
+Application 17/519,342 
+3 
+REJECTIONS 
+The Examiner maintains the following rejections: 
+Claim(s) Rejected 35 U.S.C. § Reference(s)/Basis 
+1, 2, 4, 6, 10, 11, 
+13, 14, 16, 17, 19, 
+20 
+103 Park,2 Jacobson3 
+3, 7–9, 15, 21 103 Park, Jacobson, Ma4 
+5, 12, 18 103 Park, Jacobson, Agrusa5 
+ 
+OPINION 
+Independent Claims 1, 10, and 16 
+Appellant argues claims 1, 10, and 16 together, focusing on the 
+subject matter recited in claim 1, which is similarly recited in claims 10 and 
+16.  See Appeal Br. 9–16.   
+Claim 1 recites a “workflow comprising a set of actions and 
+configurations specified by a user that define the building-related service.”  
+Appeal Br. 21 (Claims App.).  Appellant argues “the process used by the 
+workflow engine to carry out the command in Park cannot be specified by a 
+user, as the Office contends via Jacobson,” and that the “combination would 
+entirely defeat the purpose of Park.”  Appeal Br. 11. 
+The Examiner explains that Jacobson teaches allowing a user to 
+preprogram setting presets, schemes, building rules, and a schedule of 
+events, which could be used by Park’s rules and policies.  Final Act. 13–14; 
+ 
+2 US 2012/0011126 A1, published Jan. 12, 2012. 
+3 US 2018/0005195 A1, published Jan. 4, 2018. 
+4 US 2020/0234590 A1, published July 23, 2020. 
+5 US 2009/0210814 A1, published Aug. 20, 2009. 
+
+Appeal 2025-000477 
+Application 17/519,342 
+4 
+Ans. 11.  Appellant’s conclusory assertion that the process used by Park’s 
+workflow engine cannot be specified by a user is unpersuasive of Examiner 
+error.  See Appeal Br. 11.  Appellant’s challenges to Park alone further fails 
+to sufficiently show error in the Examiner’s obviousness rejection, which is 
+based on the combined teachings of Park and Jacobson.  See Appeal Br. 11; 
+In re Keller, 642 F.2d 413, 426 (CCPA 1981). 
+In Reply, Appellant argues that the claimed “workflow” refers to a 
+“sequence of actions and configurations” and that Jacobson’s scheduling 
+system does not link the scheduling of electronic devices into a sequence 
+that defines a particular building-related service.  Reply Br. 7–8.  
+Appellant’s argument that Jacobson does not teach the claimed “workflow” 
+is untimely and deemed waived.  See 37 C.F.R. § 41.41(b)(2); In re Hyatt, 
+211 F.3d 1367, 1373 (Fed. Cir. 2000) (noting that an argument not first 
+raised in the brief to the Board is waived on appeal).  Even considering 
+Appellant’s untimely argument, we find it unpersuasive of error.  
+Appellant’s construction of “workflow” to require a “sequence of actions 
+and configurations” is unsupported by the claim language, which merely 
+recites “a workflow comprising a set of actions and configurations.”  
+Compare Reply Br. 8 (emphasis added), with Appeal Br. 21 (Claims App.) 
+(emphasis added). 
+Claim 1 further recites “receiving a request to create a building-related 
+service involving dynamic coordination between at least two BASs, the at 
+least two BASs configured to control different functions from one another 
+for a building.”  Appeal Br. 21 (Claims App.).  Appellant argues Park 
+teaches controlling “two BASs that control the same function for a building, 
+namely, two HVAC subsystems.”  Appeal Br. 12. 
+
+Appeal 2025-000477 
+Application 17/519,342 
+5 
+The Examiner explains that Park teaches many types of BAS systems, 
+including HVAC systems, lighting systems, and access control systems.  
+Final Act. 7–10; Ans. 13–16.  The Examiner further identifies an example in 
+Park of coordinating the building HVAC system with its access control 
+system.  Final Act. 9–10 (citing Park ¶ 52); Ans. 14–16 (citing Park ¶ 52).  
+In particular, Park discloses a natural language query stating the following:  
+“Receive priority notifications about temperature increases outside comfort 
+levels in the executive offices area while any of the executives are there.”  
+Park ¶ 52.  Park discloses that “such a query may be resolved by accessing 
+two subsystems (e.g., an HVAC system and an access control system).”  
+Park ¶ 52. 
+Appellant’s arguments do not sufficiently address Park’s coordination 
+between an HVAC system as one BAS and a building’s access control 
+system as a second BAS.  Appeal Br. 12; see also Park ¶ 56 (“Referring now 
+to FIG. 6E, a process 650 for implementing a cross-subsystem command is 
+shown . . . .”). 
+In Reply, Appellant asserts that Park “simply correlates the data” but 
+does not “coordinate operation of the HVAC system with operation of the 
+access control system.”  Reply Br. 9.  Appellant’s argument that Park does 
+not teach the claimed “dynamic coordination” is untimely and deemed 
+waived.  See 37 C.F.R. § 41.41(b)(2); In re Hyatt, 211 F.3d at 1373.  
+Appellant’s conclusory assertion is also unpersuasive of error because it 
+merely asserts that the cited passages of Park do not teach or suggest the 
+“dynamic coordination” limitation without sufficient explanation.  Reply 
+Br. 9; see 37 C.F.R. § 41.37(c)(1)(iv); In re Lovin, 652 F.3d 1349, 1357 
+(Fed. Cir. 2011).  Appellant does not sufficiently explain why Park’s 
+
+Appeal 2025-000477 
+Application 17/519,342 
+6 
+teaching of accessing two subsystems, correlating their data, and taking an 
+action is different from the claimed “dynamic coordination.”  Reply Br. 9. 
+Claim 1 additionally recites “generating, from the workflow, system 
+description data.”  Appeal Br. 21 (Claims App).  The Examiner finds Park’s 
+“looking up of appropriate rules and polices for a specific subsystem” 
+teaches generating the claimed system description data.  Final Act. 10 (citing 
+Park ¶ 56, Fig. 6E); Ans. 18.  Appellant asserts that the steps of looking up 
+and finding a process as taught by Park do not teach generating data that 
+describes a system.  Appeal Br. 13. 
+The Examiner explains that Park looks up “appropriate rules and 
+policies for a specific subsystem.”  Ans. 18 (emphasis added).  Appellant 
+does not address the Examiner’s Answer in its Reply Brief, and Appellant’s 
+conclusory assertions in its Appeal Brief are not persuasive of Examiner 
+error because they do not sufficiently explain why Park’s data for a “specific 
+subsystem” differs from the claimed “system description data.”  Appeal Br. 
+13; In re Lovin, 652 F.3d at 1357. 
+Claim 1 also recites “instantiating, from the system description data, a 
+blueprint for the building-related service, the blueprint defining data 
+exchanges with the at least two BASs, information about target hosts, and 
+any dependencies to be resolved.”  Appeal Br. 21 (Claims App).  Appellant 
+argues Park’s fact database cannot be the claimed “blueprint” because it is 
+pre-existing and does not define any dependencies to be resolved.  Appeal 
+Br. 13–14.  Appellant construes “dependencies” as requiring one BAS to 
+receive input from another, Appeal Br. 14, and construes “instantiating” as 
+“creat[ing] an instance or a realization of that thing.”  Reply Br. 9–10. 
+The Examiner explains that Appellant’s arguments rely on overly 
+narrow constructions of the terms “dependencies” and “instantiating.”  
+
+Appeal 2025-000477 
+Application 17/519,342 
+7 
+Ans. 18–20.  The Examiner finds that Park describes dependencies in the 
+form of queries that “may be resolved by accessing two subsystems,” noting 
+that “an action by one BAS is dependent on another BAS,” even if one BAS 
+does not receive input from another BAS.  Ans. 20 (citing Park ¶ 52).  The 
+Examiner further finds that “nothing in the claim recites that such blueprint 
+cannot be pre-existing.”  Ans. 18.   
+In its Reply, Appellant relies on extrinsic evidence to argue 
+“instantiating” in computer science refers to “the creation of a real instance 
+or particular realization of an abstraction or template, such as a class of 
+objects or a computer process.”  Reply Br. 9–10 (quoting the “techtarget” 
+website).  We are unpersuaded that Appellant’s extrinsic evidence supports 
+Appellant’s narrow construction or excludes pre-existing blueprints.  The 
+Specification explains that “a blueprint may be instantiated from the saved 
+system description,” suggesting the blueprint may be instantiated from pre-
+existing data.  Spec. ¶ 87 (emphasis added).  Even Appellant’s dictionary 
+definition suggests “instantiating” relies on a pre-existing “abstraction or 
+template.”  Accordingly, Appellant has not shown error in the Examiner’s 
+construction of this challenged limitation under its broadest reasonable 
+interpretation. 
+Claim 1 further recites “building a deployment plan that includes a 
+sequence of steps and configurations for implementing the building-related 
+service” and “executing the deployment plan to implement the building-
+related service.”  Appeal Br. 21 (Claims App).  Appellant argues the 
+Examiner merged these two “limitations into a single step of executing the 
+Park process.”  Appeal Br. 14–15; Reply Br. 10–11. 
+The Examiner explains that Park’s generation of subsystem-specific 
+commands teaches “building a deployment plan” and that providing those 
+
+Appeal 2025-000477 
+Application 17/519,342 
+8 
+commands to a subsystem teaches “executing the deployment plan.”  Final 
+Act. 12; Ans. 24–25.  The Examiner maps these two claim limitations to two 
+separate teachings in Park.  Accordingly, Appellant has not sufficiently 
+shown that the Examiner ignored either claim limitation or erred in mapping 
+them to Park. 
+Appellant argues that the Examiner has not shown a motivation to 
+combine Park and Jacobson because there is no suggestion that a 
+communication system in Park would benefit from Jacobson’s 
+individualized scheduling system.  Appeal Br. 15–16.  The Examiner finds 
+that a person of ordinary skill would have been motivated to combine the 
+teachings of Park and Jacobson to “allow for creating more individualized 
+automated scheduled events.”  Final Act. 14–15 (citing Jacobson ¶¶ 3, 5, 
+200); Ans. 26.  Jacobson explains that its invention “improve[s] 
+understanding and efficiency” and “provide[s] users with intuitive and easily 
+comprehensible programming tools to build scheduled events of a building 
+automation system.”  Jacobson ¶ 200. 
+Other than characterizing Park as a communication system and 
+Jacobson as a scheduling system, Appellant has not sufficiently explained 
+why the teachings of Jacobson are incompatible with Park.  The Examiner 
+finds, and we agree, that Appellant does “not provide any evidentiary 
+support as to why both systems are not combinable other than the naming 
+scheme of both systems.”  Ans. 26.  Accordingly, Appellant has not 
+sufficiently shown error in the Examiner’s rationale to combine the 
+teachings of Park and Jacobson. 
+In view of the foregoing, we sustain the Examiner’s rejection of 
+claims 1, 10, and 16. 
+ 
+
+Appeal 2025-000477 
+Application 17/519,342 
+9 
+Claims 8 and 9 
+Claim 8 recites “receiving from a user, via a graphical user interface 
+of a building automation management system tool suite, the workflow for 
+the frictionless entry/exit.”  Appeal Br. 22 (Claims App.).  Appellant argues 
+Ma does not teach receiving a workflow from a user or frictionless entry/exit 
+into a building.  Appeal Br. 18. 
+Appellant does not sufficiently address the Examiner’s finding that 
+Park, not Ma, teaches receiving a workflow from a user.  Final Act. 38 
+(citing Park ¶ 32).  As to the “frictionless entry/exit” limitation, Appellant’s 
+assertion that Ma is limited to parking lots fails to persuasively address the 
+Examiner’s finding that Ma also facilities access to buildings.  See Final Act. 
+37; Ma ¶ 75 (describing embodiments that “facilitate[] frictionless access to 
+a campus, building, parking lot, and/or parking space” (emphasis added)). 
+Claim 8 also recites “dynamically identifying, based on information in 
+the workflow, the at least two BASs and the set of operations and/or services 
+involved in executing the dynamic scheduling service to configure the 
+frictionless entry/exit.”  Appeal Br. 22 (Claims App).  Appellant asserts that 
+Ma does not teach “dynamically identifying at least two BASs involved in 
+the frictionless entry/exit” and that the only interaction between Ma’s 
+parking lot system and building management system involves emissions 
+monitoring.  Appeal Br. 18–19 (citing Ma ¶ 76, Fig. 4B). 
+Beyond an emissions monitoring system, the Examiner finds that Ma 
+teaches dynamically identifying other BASs including a security system, a 
+lighting system, and a transportation system.  Final Act. 39–40 (citing Ma 
+¶¶ 2, 76); Ans. 29–32 (citing Ma ¶¶ 2, 76,81,  91); see Ma ¶¶ 2 (disclosing 
+that a building management system (BMS) “can include, for example, an 
+HVAC system, a security system, a lighting system, a fire alerting system, 
+
+Appeal 2025-000477 
+Application 17/519,342 
+10 
+and any other system that is capable of managing building functions or 
+devices, or any combination thereof”), 91 (“For example, smart parking lot 
+system 1100 may control lights within smart parking lot 1110 to guide users 
+to an exit in the event of an emergency.  As a further example, smart parking 
+lot system 1100 may control lights to illuminate a parking space assigned to 
+an individual.”).  Appellant’s arguments are unpersuasive of Examiner error 
+because they do not sufficiently address these findings by the Examiner.   
+Claim 9 recites that the two BASs comprise  
+at least two of  (a) an access control system to authenticate a 
+visitor and provide access to one or more areas of a building, (b) 
+HVAC system to control environmental conditions to optimize 
+comfort and/or air quality[,] (c) a light and blinds control system 
+to control lighting and operation of blinds, (d) a transportation 
+system or (e) external service(s)/system(s).   
+Appeal Br. 22 (Claims App.).  Appellant asserts that Ma does not teach at 
+least two of the enumerated BASs.  Appeal Br. 19.  As explained above, 
+Appellant does not persuasive address the Examiner’s findings that Ma 
+teaches lighting system and transportation system BASs.  Ans. 31–32 (citing 
+Ma ¶¶ 2, 76, 81, 91); see Ma ¶ 81 (disclosing “lighting control” and 
+“transportation management”). 
+Appellant argues the Examiner does not provide a rationale to 
+combine Park, Jacobson, and Ma because the Examiner “does not specify 
+which user experience” would be improved by the teachings of Ma.  Appeal 
+Br. 19–20.  Appellant’s assertions are unpersuasive of Examiner error as the 
+Examiner identifies multiple rationales for combining the teachings of the 
+prior art with evidentiary support from Ma itself.  Final Act. 37; Ans. 33–34 
+(citing Ma ¶¶ 75, 114).  Ma describes improved user experiences for 
+building visitors and more efficient building energy usage.  Ma ¶¶ 75, 114. 
+
+Appeal 2025-000477 
+Application 17/519,342 
+11 
+In view of the foregoing, we sustain the Examiner’s rejections of 
+claims 8 and 9. 
+Remaining Claims 
+Appellant does not separately argue the rejections of the remaining 
+claims (2–7, 11–15, and 17–21); therefore, we sustain the rejections of these 
+claims. 
+CONCLUSION 
+We affirm the Examiner’s obviousness rejections of claims 1–21. 
+DECISION SUMMARY 
+In summary: 
+Claim(s) 
+Rejected 
+35 U.S.C. 
+§ 
+Reference(s)/Basis Affirmed Reversed 
+1, 2, 4, 6, 
+10, 11, 13, 
+14, 16, 17, 
+19, 20 
+103 Park, Jacobson 1, 2, 4, 6, 
+10, 11, 13, 
+14, 16, 17, 
+19, 20 
+ 
+3, 7–9, 15, 
+21 
+103 Park, Jacobson, Ma 3, 7–9, 15, 
+21 
+ 
+5, 12, 18 103 Park, Jacobson, Agrusa 5, 12, 18  
+Overall 
+Outcome 
+  1–21  
+ 
+TIME PERIOD FOR RESPONSE 
+No time period for taking any subsequent action in connection with 
+this appeal may be extended under 37 C.F.R. § 1.136(a).  See 37 C.F.R. 
+§ 1.136(a)(1)(iv). 
+AFFIRMED 
+ 
+ 

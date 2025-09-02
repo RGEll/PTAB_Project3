@@ -1,0 +1,208 @@
+2024003977 2025 08 27 94f3e88e 18f4 49b2 a88b 568eba5a9448
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/153,891 10/08/2018 Revital Erez IL820170028US01 5051
+105995 7590 08/28/2025
+IBM CORPORATION - PATENTS+ TEAM
+2800 37th Street NW
+Rochester, MN 55901
+EXAMINER
+OBISESAN, AUGUSTINE KUNLE
+ART UNIT PAPER NUMBER
+2156
+NOTIFICATION DATE DELIVERY MODE
+08/28/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+IBMPatentsTeam@us.ibm.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+
+Ex parte REVITAL EREZ, MICHAEL FACTOR,
+MOSHIK HERSHCOVITCH, RONEN I. KAT, ELLIOT K. KOLODNER,
+and JOEL K. NIDER
+——————
+Appeal 2024-003977
+Application 16/153,891
+Technology Center 2100
+——————
+
+Before JENNIFER S. BISK, CHRISTA P. ZADO, and
+PHILLIP A. BENNETT, Administrative Patent Judges.
+BISK, Administrative Patent Judge.
+
+Appeal 2024-003977
+Application 16/153,891
+2
+DECISION ON APPEAL1
+STATEMENT OF THE CASE
+Pursuant to 35 U.S.C. § 134, Appellant2 appeals from the Examiner’s
+decision to reject all the claims remaining in the application—claims 1–20.
+We have jurisdiction under 35 U.S.C. § 6(b).
+We affirm.
+CLAIMED SUBJECT MATTER
+The claims are directed to restoring a database index following a
+failure. Spec. ¶ 1. Claim 1, reproduced below, illustrates the claimed subject
+matter:
+1. A method for recovering a database and restoring an index
+following a failure of the database comprising:
+receiving a change to a document in a database, the database having
+a plurality of documents;
+storing the change to the document in the database in a persistent
+data store, the persistent data store divided into a plurality of
+segments;
+updating a volatile index in volatile memory with a pointer to the
+document in the persistent data store;
+generating a shadow index in the persistent data store, wherein the
+shadow index is a persistent copy of the volatile index, and is
+not updated at the same time as the volatile index; and
+
+1 Throughout this Decision, we have considered the Specification filed
+October 8, 2018 (“Spec.”), the Final Office Action mailed November 8,
+2023 (“Final Act.”), the Appeal Brief filed April 2, 2024 (“Appeal Br.”), and
+the Examiner’s Answer mailed July 10, 2024 (“Ans”).
+2 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant
+identifies the real party in interest as International Business Machines
+Corporation. Appeal Br. 1.
+
+Appeal 2024-003977
+Application 16/153,891
+3
+executing a shadow thread on the plurality of documents wherein
+the shadow thread scans each record in the persistent storage
+device to populate and update the shadow index, wherein the
+shadow thread operates as a background operation on the
+persistent data store.
+Appeal Br. 14 (Claims App.).
+REFERENCES
+The prior art relied upon by the Examiner is:
+Name Reference Date
+Peltonen US 5,685,003 Nov. 4, 1997
+Baird US 7,257,690 B1 Aug. 14, 2007
+Pierce US 10,402,385 B1 Sept. 3, 2019
+Verma US 2007/0233683 A1 Oct. 4, 2007
+Pothoff US 2019/0163579 A1 May 30, 2019
+REJECTIONS
+The Examiner maintains the following rejections:
+Claim(s) Rejected 35 U.S.C. § Reference(s)/ Basis
+1–5, 8, 9, 11–16, 18 103(a) Pothoff, Peltonen, Pierce
+6, 7, 17 103(a) Pothoff, Peltonen, Baird
+10, 19, 20 103(a) Pothoff, Peltonen, Pierce, Verma
+OPINION
+We are not persuaded the Examiner erred in rejecting claims 1–10 and
+14–20 under 35 U.S.C. § 103. Upon consideration of Appellant’s arguments
+(Appeal Br. 6–37; Reply Br. 4–10), we agree with the Examiner’s findings
+and rationales (Final Act. 9–23; Ans. 4–36) as fully responsive to
+Appellant’s arguments. We adopt these findings as our own and highlight
+certain points below.
+A. Claims 1–5, 8, 9, 11–16, and 18
+We select claim 1 as representative. Appellant does not separately
+argue claims 2–5, 8, 9, 11–16, and 18.
+
+Appeal 2024-003977
+Application 16/153,891
+4
+Appellant argues that the proposed combination of teachings of
+Pothoff, Peltonen, and Pierce do not result in the subject matter recited by
+claim 1. Appeal Br. 7–9. In particular, Appellant argues that Peltonen’s
+shadow thread indexes only those documents on a received list of identifiers
+and, therefore, does not “scan[] each record in the persistent storage” as
+recited. Id. According to Appellant, even though the Examiner relies on
+Pierce for teaching the portion of the limitation directed to operating on all
+of the documents in the shadow index, the rejection does not properly
+provide “reasoning that would involve changing the queue of Peltonen” and,
+therefore, the rejection “still maintains the concept of the queue that is in
+Peltonen.” Id. at 8.
+We are not persuaded of error in the rejection by this argument.
+Although Appellant focuses on the fact that Peltonen executes the shadow
+thread using a list of document identifiers instead of indexing every
+document, the rejection also points to Pierce as teaching this limitation. See
+Id. at 8–9 (citing Pierce 7:31–32, 7:45–49). Pierce explicitly discloses a
+“reindex process 320 . . . iterating through all of the information in database
+305.” Pierce 7:45–46. Appellant appears to concede that this is a disclosure
+of “the concept of operating on all the documents by the shadow index,” but
+asserts that “[t]he combination asserted by the Office Action still maintains
+the concept of the queue that is in Peltonen.” Appeal Br. 8.
+We disagree with this characterization of the rejection. The test for
+obviousness is what the combined teachings of the references would have
+suggested to those of ordinary skill in the art. In re Keller, 642 F.2d 413, 425
+(CCPA 1981). We find that a person of ordinary skill in the art would have
+understood, based on the disclosure of Pierce, that the indexing system of
+
+Appeal 2024-003977
+Application 16/153,891
+5
+Peltonen could be modified such that every document is included in the
+queue. KSR Intern. Co. v. Teleflex Inc., 550 U.S. 398, 416 (2007) (“[I]f a
+technique has been used to improve one device, and a person of ordinary
+skill in the art would recognize that it would improve similar devices in the
+same way, using the technique is obvious unless its actual application is
+beyond his or her skill.”). Appellant states that “Peltonen clearly shows that
+not every document is in this queue” (Appeal Br. 8), but that does not mean
+that Peltonen teaches away from such a modification or that the modification
+would change the principle of operation of Peltonen. And Appellant does not
+point to any evidence supporting such a theory. Moreover, the record
+contains no evidence that combining Pothoff, Peltonen, and Pierce as
+proposed would have been uniquely challenging or otherwise beyond the
+level of ordinarily skilled artisans. See Leapfrog Enters., Inc. v. FisherPrice, Inc., 485 F.3d 1157, 1162 (Fed. Cir. 2007).
+We, therefore, agree with the Examiner’s finding that the combined
+teachings of the three references would have suggested that a person of
+ordinary skill in the art “generate a complete index of modified content of a
+database in the system of Pothoff for providing updated information for
+searching and retrieving relevant information from the database, thereby
+providing up-to-date information for [the] requesting entity.” Final Act. 9.
+Accordingly, we sustain the Examiner’s rejection of claims 1–5, 8, 9,
+11–16, and 18.
+B. Claims 6, 7, and 17
+Appellant includes a separate section for claims 6, 7, and 17 in the
+Appeal Brief. Appeal Br. 9–10. However, this section relies on the
+arguments made for the rejections of claims 1 and 12. Id. at 10. For the
+
+Appeal 2024-003977
+Application 16/153,891
+6
+reasons discussed above, we sustain the Examiner’s rejection of claims 6, 7,
+and 17.
+C. Claims 10, 19, and 20
+Appellant separately argues claims 10, 19, and 20. Appeal Br. 10–12.
+However, this section repeats the arguments made for claims 1–5, 8, 9, 11–
+16, and 18. See Appeal Br. 10–12.
+Accordingly, we sustain the Examiner’s rejection of claims 10, 19,
+and 20.
+CONCLUSION
+We affirm the Examiner’s rejections.
+DECISION SUMMARY
+The following table summarizes our decision:
+Claim(s)
+Rejected
+35
+U.S.C. § Reference(s)/ Basis Affirmed Reversed
+1–5, 8, 9,
+11–16, 18
+103(a) Pothoff, Peltonen, Pierce 1–5, 8, 9,
+11–16, 18
+
+6, 7, 17 103(a) Pothoff, Peltonen, Baird 6, 7, 17
+10, 19, 20 103(a) Pothoff, Peltonen, Pierce,
+Verma
+10, 19, 20
+Overall
+Outcome 1–20
+
+TIME PERIOD FOR RESPONSE
+No time period for taking any subsequent action in connection with
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R.
+§ 1.136(a)(1)(iv).
+AFFIRMED

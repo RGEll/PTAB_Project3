@@ -1,0 +1,278 @@
+2024003965 2025 08 27 d8cc0133 42e0 4bb3 bd78 6badfcc759d0
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/009,855 09/02/2020 Guduru Sai Nihas 560-0014USP1 1076
+164991 7590 08/28/2025
+Rowand LLP-Shopify
+390 Bay Street, Suite 1200
+Toronto, ONTARIO M5H 2Y2
+CANADA
+EXAMINER
+WANG, JIN CHENG
+ART UNIT PAPER NUMBER
+2617
+NOTIFICATION DATE DELIVERY MODE
+08/28/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+legalip@shopify.com
+mailbox@rowandlaw.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+—————— 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+—————— 
+Ex parte GUDURU SAI NIHAS and SALIM BATLOUNI 
+—————— 
+Appeal 2024-003965 
+Application 17/009,855 
+Technology Center 2600 
+—————— 
+ 
+Before ALLEN R. MacDONALD, AARON W. MOORE, and 
+PHILLIP A. BENNETT, Administrative Patent Judges. 
+MOORE, Administrative Patent Judge. 
+DECISION ON APPEAL 
+STATEMENT OF THE CASE 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the 
+Examiner’s decision to reject claims 1–22.  See Final Act. 13–43.  We have 
+jurisdiction under 35 U.S.C. § 6(b). 
+We reverse. 
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42.  Appellant 
+identifies the real party in interest as Shopify Inc.  Appeal Br. 3. 
+
+Appeal 2024-003965 
+Application 17/009,855 
+2 
+CLAIMED SUBJECT MATTER 
+The claims are directed to methods and devices for capturing images 
+of items and, in particular, capturing item images for insertion into item 
+display pages.  See Spec. ¶ 1.  
+Claim 1, reproduced below, illustrates the claimed subject matter: 
+1.      A computer-implemented method for capturing product images 
+for online retail using a mobile device having a camera, the method 
+comprising: 
+retrieving an item record for a product item from memory, the item 
+record including data regarding the product item; 
+displaying a product item display page for online retail of the 
+product item in an online merchant store, the product item 
+display page having a defined layout and graphical elements set 
+by a theme selected for the online merchant store, including a 
+designated portion defined for display of an image of the 
+product item and one or more item detail areas displaying the 
+data regarding the product item from the item record for the 
+product item; 
+obtaining a real-time live stream of images from the camera 
+showing the product item; 
+processing the live stream from the camera to create a processed 
+live stream showing the product item; 
+displaying the processed live stream showing a real-time view of 
+the product item displayed within the designated portion in the 
+product item display page; and 
+storing a processed image for the product item in association with 
+the item record for the product item. 
+Appeal Br. 23 (Claims App.). 
+
+Appeal 2024-003965 
+Application 17/009,855 
+3 
+REFERENCES 
+The Examiner relies on the following references2: 
+Name Reference Date 
+Piramuthu US 2017/0163882 A1 June 8, 2017 
+Zverina US 2019/0141410 A1 May 9, 2019 
+Barkas US 2019/0220922 A1 July 18, 2019 
+Stansell US 2019/0244436 A1 Aug. 8, 2019 
+Srikanth US 2021/0174087 A1 Dec. 5, 2019 
+Koci US 2021/0386219 A1 Dec. 16, 2021 
+Yang US 2022/0239988 A1 July 28, 2022 
+REJECTIONS 
+Claims 1, 11, and 21 stand rejected under 35 U.S.C. § 103 as 
+unpatentable over Zverina, Barkas, Yang, Piramuthu, and Stansell.  See 
+Final Act. 13–29. 
+Claim 22 stands rejected under 35 U.S.C. § 103 as unpatentable over 
+Zverina, Barkas, Piramuthu, and Stansell.  See Final Act. 30–31. 
+Claims 2 and 12 stand rejected under 35 U.S.C. § 103 as unpatentable 
+over Zverina, Barkas, Yang, Piramuthu, and Stansell.  See Final Act. 31–32. 
+Claims 3, 5, 6, 13, 15, and 16 stand rejected under 35 U.S.C. § 103 as 
+unpatentable over Zverina, Barkas, Yang, Piramuthu, Stansell, and Koci.  
+See Final Act. 32–36. 
+ 
+2 Yang was filed on April 15, 2022, as a continuation of a US application 
+filed on May 10, 2021, which in turn claimed priority to Chinese Patent 
+Application No. 202010460986.6, filed on May 27, 2020.  See Yang ¶ 1.  
+Appellant does not argue that Yang is not prior art.  The Examiner asserts 
+that Koci and Srikanth are entitled to the filing dates of their provisional 
+applications.  See Final Act. 33, 42.  Appellant does not argue otherwise. 
+
+Appeal 2024-003965 
+Application 17/009,855 
+4 
+Claims 7–10 and 17–20 stand rejected under 35 U.S.C. § 103 as 
+unpatentable over Zverina, Barkas, Yang, Piramuthu, and Stansell.  See 
+Final Act. 36–42. 
+Claims 4 and 14 stand rejected under 35 U.S.C. § 103 as unpatentable 
+over Zverina, Barkas, Yang, Piramuthu, Stansell, Koci, and Srikanth.  See 
+Final Act. 42–43. 
+OPINION 
+The specification describes how “[a]n inventory item record may 
+contain details regarding the physical item, including its name or label and 
+other details regarding the item” and that “[t]here may be an image or 
+images of the physical item stored in the inventory item record or in 
+association with the inventory item record.”  Spec. ¶ 2.  The specification 
+further explains that “[i]t can be time-consuming, wasteful of computing 
+resources, and frustrating for users to capture an image of an item, attempt 
+editing of the image, upload the image for use in developing an item display 
+page only to find the image is unsuitable, and then reattempt to capture a 
+suitable image, iteratively.”  Id. ¶ 3. 
+To address these issues, the specification further describes “a 
+computer-implemented method for capturing product images for online 
+retail using a mobile device having a camera.”  Spec. ¶ 13.  The method 
+includes (a) “obtaining a product item display page for a product item,” 
+where “the product item display page [has] a designated portion defined for 
+display of an image of the product item,” (b) “obtaining a real-time live 
+stream of images from the camera,” (c) “processing the live stream from the 
+camera to create a processed live stream,” (d) “displaying the product item 
+display page with the processed live stream displayed within the designated 
+
+Appeal 2024-003965 
+Application 17/009,855 
+5 
+portion,” and (e) “storing a processed image for the product item in 
+association with an item record for the product item.”  Id. 
+For independent claims 1, 11, and 21, the Final Action first combines 
+Zverina and Yang, citing various passages of the two references as 
+apparently satisfying each of the claim limitations, but not specifically 
+identifying which reference is relied upon for each limitation, without 
+providing an explanation of how the references would be combined, and 
+without identifying a motivation to make the combination.  See Final Act. 
+14–22.  The Final Action then adds Barkas for “a theme selected for the 
+online merchant store.”  Id. at 23. 
+The Final Action next turns to Piramuthu and Stansell and returns to 
+the “displaying a product item display page” limitation, citing passages from 
+both references, and asserting that it “would have been obvious . . . to have 
+customized the color/style of the virtual shelves as well as the layout of the 
+items on the virtual shelves according to the categories of the items” and “to 
+have configured the look and feel of the virtual shelves according to the user 
+preferences.”  Final Act. 23–25.  The Examiner then cites Piramuthu for the 
+“processing the live stream,” “displaying the processed live stream,” and 
+“storing a processed image” limitations, but fails to explain how those 
+citations relate to the portions of Zverina and Yang previously cited for 
+those same limitations, and fails to explain how or why the teachings would 
+be combined.  Id. at 25–28. 
+Appellant argues that the rejections are “deficient in presenting a 
+prima facie case of obviousness” because they do not provide “clear findings 
+of fact, supported by evidence in the form of prior art documents, and to 
+provide a reasoned explanation as to why a person of ordinary skill in the art 
+
+Appeal 2024-003965 
+Application 17/009,855 
+6 
+would have found the claimed invention obvious.”  Appeal Br. 9 (citing 
+MPEP 2143).  We agree, because we are unable to discern from the Final 
+Action which portions of which references are relied upon for the various 
+limitations and what might have motivated one of ordinary skill in the art to 
+combine this prior art to realize the claimed subject matter, suggesting that 
+hindsight may have been involved.  See In re Warner, 379 F.2d 1011, 1017 
+(CCPA 1967) (“The Patent Office has the initial duty of supplying the 
+factual basis for its rejection” and “may not . . . resort to speculation, 
+unfounded assumptions or hindsight reconstruction to supply deficiencies in 
+its factual basis.”); 37 C.F.R. § 1.104(c)(2) (“The pertinence of each 
+reference, if not apparent, must be clearly explained.”). 
+Moreover, beyond the lack of clarity in the Final Action, we fail to see 
+how these references might be combined to result in the claimed invention.  
+As noted above, Appellant’s claims are generally directed to a system that 
+retrieves a record for an item, displays a product display page for online 
+retail of the product in an online merchant store, obtains a real-time live 
+stream of images from the camera showing the product, creates a processed 
+live stream showing the product, displays the processed live stream showing 
+a real-time view of the product displayed within the designated portion in 
+the product display page, and stores a processed image for the product in 
+association with the record for the product item.  Essentially, the product 
+display page is shown and a processed live stream showing the product is 
+displayed in real time in the product display page. 
+Zverina describes a system “to identify one or more of a store or a 
+product depicted in a live stream video,” where “[a]n advertisement 
+associated with the store or the product can be generated [and] inserted into 
+
+Appeal 2024-003965 
+Application 17/009,855 
+7 
+the live stream video.”  Zverina ¶ 4.  Yang similarly discloses a method for 
+“displaying a live stream image, the live stream image comprising a live 
+stream host performing in a live stream environment and at least one item 
+located in the live stream environment” and, “in response to an item 
+recognition operation, displaying an item tag corresponding to the at least 
+one item.”  Yang ¶¶ 8–9.  Neither reference seems particularly pertinent to 
+the claimed method of displaying a product item display page and displaying 
+a processed live stream showing a real-time view of the product item within 
+a designated portion in the product item display page. 
+As Appellant acknowledges, Piramuthu “is aimed at a similar problem 
+as the present application.”  Appeal Br. 16.  However, we agree with 
+Appellant that Piramuthu differs from Appellant’s method in that it does not 
+display a product item webpage for online retail of the product item in an 
+online merchant store, including a designated portion defined for display of 
+an image of the product item, and display a processed live stream showing a 
+real-time view of the product item within the designated portion in the 
+product item display page.  Instead, Piramuthu describes generating an item 
+listing using information inferred from an image during a guided image 
+capture.  See Piramuthu ¶ 31.  The system completes an item listing form, 
+which is then used to display the item “within an augmented reality 
+environment of a seller’s online store.”  Id.  We do not agree that either the 
+unfilled listing form or the augmented virtuality shelves are reasonably 
+equated to the claimed “product item webpage.” 
+For these reasons, we do not sustain the rejection of independent 
+claims 1, 11, and 21, or their dependent claims 2–10, 12–20, and 22. 
+
+Appeal 2024-003965 
+Application 17/009,855 
+8 
+CONCLUSION 
+The Examiner’s rejections are reversed. 
+DECISION SUMMARY 
+The following table summarizes our decision: 
+Claim(s) 
+Rejected 
+35 
+U.S.C. § Reference(s)/Basis Affirmed Reversed 
+1, 11, 21 103 Zverina, Barkas, Yang, 
+Piramuthu, Stansell 
+ 1, 11, 21 
+22 103 Zverina, Barkas, Piramuthu, 
+Stansell 
+ 22 
+2, 12 103 Zverina, Barkas, Yang, 
+Piramuthu, Stansell 
+ 2, 12 
+3, 5, 6, 13, 
+15, 16 
+103 Zverina, Barkas, Yang, 
+Piramuthu, Stansell, Koci 
+ 3, 5, 6, 
+13, 15, 16 
+7–10, 
+17–20 
+103 Zverina, Barkas, Yang, 
+Piramuthu, Stansell 
+ 7–10, 
+17–20 
+4, 14 103 Zverina, Barkas, Yang, 
+Piramuthu, Stansell, Koci, 
+Srikanth 
+ 4, 14 
+Overall 
+Outcome 
+   1–22 
+REVERSED 
+ 

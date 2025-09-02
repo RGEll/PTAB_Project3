@@ -1,0 +1,215 @@
+2025001586 2025 08 26 b798c2dd 0e23 45ab a452 cf5aa9c4a720
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/091,212 10/04/2018 Katerina KARAGIANNI 083490-000036 1024
+190849 7590 08/27/2025
+Vorys, Sater, Seymour and Pease LLP
+1909 K Street NW
+Suite 900
+Washington, DC 20006
+EXAMINER
+RONEY, CELESTE A
+ART UNIT PAPER NUMBER
+1612
+NOTIFICATION DATE DELIVERY MODE
+08/27/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+apventurino@vorys.com
+patlaw@vorys.com
+ybourne@vorys.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+—————— 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+—————— 
+Ex parte KATERINA KARAGIANNI and DENIS BENDEJACQ 
+—————— 
+Appeal 2025-001586 
+Application 16/091,212 
+Technology Center 1600 
+—————— 
+ 
+Before DONALD E. ADAMS, RACHEL H. TOWNSEND, and 
+DAVID COTTA, Administrative Patent Judges. 
+ADAMS, Administrative Patent Judge. 
+DECISION ON APPEAL 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from Examiner’s 
+decision to reject claims 1–7, 9–13, 17–19, and 21–26 (see Final Act.2 1).  
+We have jurisdiction under 35 U.S.C. § 6(b). 
+We REVERSE. 
+  
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42.  Appellant 
+identifies the real party in interest as “SPECIALTY OPERATIONS 
+FRANCE” (Appellant’s March 1, 2024, Appeal Brief (“Appeal Br.”) 2). 
+2 Examiner’s June 1, 2023, Final Office Action. 
+
+Appeal 2025-001586 
+Application 16/091,212 
+2 
+STATEMENT OF THE CASE 
+Appellant’s disclosure “relates to cosmetic compositions exhibiting 
+both conditioning and cleansing properties for the simultaneous care and 
+washing of keratinous materials” (Karagianni3 ¶ 3).  Appellant’s claim 1, the 
+only independent claim on this record, is reproduced below: 
+1.  A cosmetic cleansing composition comprising at least: 
+a) one or more vegetable oil(s), in an amount of at least 0.3 
+pbw relative to the total weight of the composition, 
+b) from about 2 pbw to about 40 pbw, relative to the total 
+weight of the composition, of a surfactant system 
+comprising at least one sultaine surfactant and at least one 
+taurate surfactant, and 
+c) at least 0.1 pbw, relative to the total weight of the 
+composition, of a non-ionic solubilizer which is a mono- or 
+poly- alkyl or alkenyl ester of an alkoxylated fatty acid, 
+with said fatty acid being a saturated or unsaturated 
+hydroxylated C8-C22 fatty acid. 
+(Appeal Br. 33 (emphasis added).) 
+The following grounds of rejection are before us for review: 
+I. Claims 1–7, 9–13, 15–19, and 21–25 stand rejected under 35 
+U.S.C. § 103 as being unpatentable over Bendejacq.4 
+II. Claim 26 stands rejected under 35 U.S.C. § 103 as being 
+unpatentable over the combination of Bendejacq and Hough.5 
+ 
+  
+ 
+3 Karagianni et al., US 2019/0110979 A1, published Apr. 18, 2019. 
+4 Bendejacq et al., US 2012/0021025 A1, published Jan. 26, 2012. 
+5 Hough et al., US 9,090,727 B2, issued July 28, 2015. 
+
+Appeal 2025-001586 
+Application 16/091,212 
+3 
+ISSUE 
+Does the preponderance of evidence on this record support a 
+conclusion of obviousness? 
+ANALYSIS 
+ Appellant’s claim 1, the only independent claim on this record, is 
+reproduced above.  As emphasized above, the cosmetic cleansing 
+composition of Appellant’s claim 1 comprises, inter alia, a non-ionic 
+solubilizer.  For the following reasons, we find that Examiner failed to 
+establish, by a preponderance of evidence, that Bendejacq alone or in 
+combination with Hough supports a conclusion of obviousness.  
+I 
+The rejection over Bendejacq: 
+ Bendejacq discloses:  “[A]queous compositions that are suitable as 
+shampoos,” wherein “[t]he composition comprises an oil and provides an 
+interesting hair treatment, especially an interesting hair treatment targeting 
+damaged hair” (Bendejacq ¶ 1).  In particular, Bendejacq discloses a 
+composition comprising: 
+a) a structured surfactant system comprising: 
+non cationic surfactant(s), and 
+a cationic co-surfactant 
+b) an oil, being 
+b1) a silicone oil, or 
+b2) an oil of mineral origin, and 
+c) optionally a cationic or ampholytic polymer. 
+(Bendejacq ¶¶ 7–11.)  Bendejacq discloses that its “composition might 
+comprise some further ingredients,” that “can impart some further specific 
+properties to the composition,” wherein “one skilled in the art knows such 
+ingredients and/or properties that can be associated to these and/or 
+
+Appeal 2025-001586 
+Application 16/091,212 
+4 
+appropriate amounts (Bendejacq ¶ 170).  “In one embodiment . . . 
+[Bendejacq discloses that its] composition comprises a rheology modifier,” 
+which “are known by the one skilled in the art,” and “can be used to adjust 
+the viscosity and/or the stability of the composition” (Bendejacq ¶ 171). 
+Bendejacq exemplifies a multitude, i.e. nearly four columns worth, of 
+different rheology modifiers, that can be of natural or synthetic origin (see 
+e.g., Bendejacq ¶¶ 173–174).   
+Among Bendejacq’s extensive listing of rheology modifiers, 
+Examiner selects PEG-18 Castor Oil Dioleate (see Ans.6 4 (citing Bendejacq  
+¶ 174)).  Although Bendejacq identifies PEG-18 Castor Oil Dioleate as a 
+rheology modifier, Examiner characterizes this compound as a non-ionic 
+solubilizer and more specifically a non-ionic solubilizer that would have 
+been useful to formulate Appellant’s claimed invention (see id.).  
+Examiner does not identify, and we do not find, a disclosure of a solubilizer 
+of any type in Bendejacq (see generally Appeal Br. 21).  Examiner, 
+however, directs attention to Appellant’s Specification, wherein Appellant 
+disclosed PEG-18 Castor Oil Dioleate, “an oleic acid diester of ethoxylated 
+castor oil,” “as a suitable solubilizer of the invention . . .  that maintains the 
+transparency of the composition” (Ans. 10–11 (citing Karagianni ¶¶ 92, 94–
+96); see also id. at 16 (citing Karagianni ¶¶ 92, 94–96) (Examiner finds that 
+Appellant discloses that “PEG-18 Castor Oil Dioleate, which maintains 
+transparency of the instant composition . . . is the same compound as that of 
+Bendejacq, and has the same properties.”)).  
+ Examiner did not establish an evidentiary basis on this record to 
+support a finding that rheology modifiers in general in Bendejacq’s 
+ 
+6 Examiner’s May 14, 2024, Answer. 
+
+Appeal 2025-001586 
+Application 16/091,212 
+5 
+extensive listing would exhibit the properties of a non-ionic solublizer, 
+which is the component required by Appellant’s claimed invention, or would 
+maintain the transparency of that composition when used.  Examiner also 
+failed to establish an evidentiary basis to support a finding that those of 
+ordinary skill in this art would have recognized PEG-18 Castor Oil Dioleate 
+as a suitable solubilizer for use in a cleansing composition such that it would 
+maintain the transparency of Appellant’s composition (Ans. 10–11 (relying 
+on Appellant’s Specification for a disclosure that PEG-18 Castor Oil 
+Dioleate can be used to maintain the transparency of a composition within 
+the scope of Appellant’s claimed invention.)). 
+“[R]ejections on obviousness grounds cannot be sustained by mere 
+conclusory statements; instead, there must be some articulated reasoning 
+with some rational underpinning to support the legal conclusion of 
+obviousness.”  In re Kahn, 441 F.3d 977, 988 (Fed. Cir. 2006).  Further, 
+“[t]he mere fact that the prior art may be modified in the manner suggested 
+by the Examiner does not make the modification obvious unless the prior art 
+suggested the desirability of the modification.”  In re Fritch, 972 F.2d 1260, 
+1266 (Fed. Cir. 1992) (citing In re Gordon, 733 F.2d 900, 902 (Fed. Cir. 
+1984)).  “It is impermissible to use the claimed invention as an instruction 
+manual or ‘template’ to piece together the teachings of the prior art so that 
+the claimed invention is rendered obvious.”  Fritch, 972 F.2d at 1266 (citing 
+In re Gorman, 933 F.2d 982, 987 (Fed. Cir. 1991)).  
+In sum, we find Examiner findings, rationale, and conclusion on this 
+record to be (i) the epitome of impermissible hindsight bias; (ii) conclusory; 
+and (iii) unsupported by the evidence of record. 
+II 
+
+Appeal 2025-001586 
+Application 16/091,212 
+6 
+The rejection over the combination of Bendejacq and Hough: 
+ Examiner failed to establish an evidentiary basis on this record to 
+support a conclusion that Hough makes up for the deficiencies in Bendejacq 
+discussed in § I above.  Therefore, this rejection fails for the same reasons 
+discussed above. 
+CONCLUSION 
+ The preponderance of evidence on this record fails to support a 
+conclusion of obviousness. 
+Rejection I:  The rejection of claims 1–7, 9–13, 15–19, and 21–25 
+under 35 U.S.C. § 103 as being unpatentable over Bendejacq is reversed. 
+Rejection II:  The rejection of claim 26 under 35 U.S.C. § 103 as 
+being unpatentable over the combination of Bendejacq and Hough is 
+reversed. 
+DECISION SUMMARY 
+The following table summarizes our decision: 
+Claim(s) Rejected 35 U.S.C. 
+§ 
+Reference(s)/ 
+Basis Affirmed Reversed 
+ 1–7, 9–13, 15–19, 
+21–25 
+ 103  Bendejacq   1–7, 9–13, 15–19, 
+21–25 
+ 26  103  Bendejacq, 
+Hough 
+  26 
+Overall Outcome     1–7, 9–13, 15–19, 
+21–26 
+REVERSED 

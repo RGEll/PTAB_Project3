@@ -1,0 +1,317 @@
+2024002039 2025 08 25 8cf23631 8e2c 4060 a7c4 534b97087a2d
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/832,247 06/03/2022 Brock Alan Forrest P62622 1540USC1
+(1012.8)
+9089
+26158 7590 08/26/2025
+WOMBLE BOND DICKINSON (US) LLP
+ATTN: IP DOCKETING
+P.O. Box 570489
+ATLANTA, GA 30357-0037
+EXAMINER
+NG, HENRY
+ART UNIT PAPER NUMBER
+3741
+NOTIFICATION DATE DELIVERY MODE
+08/26/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+BostonDocket@wbd-us.com
+IPDocketing@wbd-us.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+___________________
+
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+___________________
+
+Ex parte BROCK ALAN FORREST,
+JEREMY ERON FETVEDT, and
+PETER MICHAEL McGRODDY
+___________________
+
+Appeal 2024-002039
+Application 17/832,247
+Technology Center 3700
+___________________
+
+
+Before JAMES P. CALVE, BRADLEY B. BAYAT, and
+SHEILA F. McSHANE, Administrative Patent Judges.
+
+CALVE, Administrative Patent Judge.
+
+
+DECISION ON APPEAL
+
+STATEMENT OF THE CASE
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the decision
+of the Examiner to reject claims 27–33 and 35, which are all of the pending
+claims on appeal.2 See Appeal Br. 1; Final Act. 2. We have jurisdiction
+under 35 U.S.C. § 6(b).
+We AFFIRM.
+
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42(a).
+Appellant identifies 8 Rivers Capital, LLC as the real party in interest in this
+appeal. Appeal Br. 1.
+2 Claims 1–26 are cancelled. See Appeal Br. 20 (Claims App.). Claims 34
+and 36–38 are withdrawn from consideration. See Final Act. 2.
+
+Appeal 2024-002039
+Application 17/832,247
+
+2
+CLAIMED SUBJECT MATTER
+Claim 27, the sole independent claim, is reproduced below.
+27. A method for heating a stream, the method
+comprising:
+compressing a stream comprising CO2 to form a
+compressed stream comprising CO2;
+firstly, heating the compressed stream comprising CO2 in
+a recuperator heat exchanger with heat withdrawn from a
+stream of combustion products arising from combustion of a
+first fuel source; and
+secondly, heating the compressed stream comprising CO2
+with heat obtained by oxidizing, without substantial
+combustion, a second fuel source that is a dilute stream of one
+or more gaseous hydrocarbons, said oxidizing being carried out
+separate from the combustion of the first fuel source.
+Appeal Br. 20 (Claims App.).
+
+REJECTIONS
+Claims 27–33 and 35 are rejected under 35 U.S.C. § 112(a) as lacking
+a written description of the claimed subject matter.
+Claims 27–33 and 35 are rejected under 35 U.S.C. § 112(b) as being
+indefinite for failing to particularly point out and distinctly claim the subject
+matter of the invention.
+Claims 27, 30, and 31 are rejected under 35 U.S.C. § 103 as being
+unpatentable over Allam (US 2013/0205746 A1, pub. Aug. 15, 2013) and
+Gerhold (US 2003/0217555 A1, pub. Nov. 27, 2003).
+Claim 28 is rejected under 35 U.S.C. § 103 as being unpatentable over
+Allam, Gerhold, and White (US 7,640,739 B2, iss. Jan. 5, 2010).
+Claim 29 is rejected under 35 U.S.C. § 103 as being unpatentable over
+Allam, Gerhold, and Maslov (US 2013/0236371 A1, pub. Sept. 12, 2013).
+
+
+Appeal 2024-002039
+Application 17/832,247
+
+3
+Claims 32 and 35 are rejected under 35 U.S.C. § 103 as being
+unpatentable over Allam, Gerhold, and Kesseli (US 6,895,760 B2, iss. May
+24, 2005).
+Claim 33 is rejected under 35 U.S.C. § 103 as being unpatentable over
+Allam, Gerhold, Kesseli, and Maslov.
+Claims 27–33 and 35 are rejected on the ground of nonstatutory
+double patenting over claims 1–6 and 8 of Forrest (US 11,359,541 B2, June
+14, 2022) in view of Gerhold.
+ANALYSIS
+Written Description Rejection of Claims 27–33 and 35
+The Examiner determines that “heat obtained by oxidizing, without
+substantial combustion, a second fuel source” is not described sufficiently in
+the Specification. Final Act. 8. The Examiner finds that the Specification
+describes “thermal oxidation takes place without substantial combustion in
+that the conditions do not allow for formation of a sustained flame.” Id.
+(quoting Spec. 14:14–15). The Examiner finds that “there is no disclosure
+of the steps applied to achieve thermal oxidation without formation of a
+sustained flame . . . the specification does not provide enough detail to
+conclude that the [inventors] had possession of the claimed invention.” Id.
+We agree with Appellant that the Specification describes this subject
+matter. Appeal Br. 6–7. A recycle CO2 stream is combined with a dilute
+hydrocarbon stream 171, and the mixture is sent through heat exchanger 120
+where it is heated by turbine exhaust to the point that hydrocarbons in dilute
+hydrocarbon stream 170 undergo thermal oxidation, without substantial
+combustion, which the Specification describes as less than 5% by volume of
+the hydrocarbon compounds may combust. Spec. 13:28–14:22.
+
+Appeal 2024-002039
+Application 17/832,247
+
+4
+The Specification further describes the thermal oxidation process as
+occurring without substantial combustion because conditions for combustion
+are not met. The mixture of recycle CO2 stream and dilute hydrocarbon
+stream is controlled so the total hydrocarbon content of the mixture is below
+the lower explosive level (“LEL”). Spec. 15:4–13. Thus, combustion does
+not occur when the mixture is heated in heat exchanger 120, and the process
+oxidizes the dilute hydrocarbons to CO2 and water and produces sensible
+heat for the recycle CO2 so the heat produced by the turbine exhaust can be
+preserved and used downstream in the heat exchanger. Id. at 15:14–26.
+The Examiner further finds that it is “not clear that applicants
+possessed the invention of oxidizing a hydrocarbon without substantial
+combustion, because once the reaction is started – it will proceed to
+completion in presence of a sufficient amount of oxygen.” Final Act. 8–9.
+We agree with Appellant that the Specification describes a stream of
+dilute hydrocarbons that is maintained at a concentration of hydrocarbons
+that is below the LEL after the stream is mixed with a recycle CO2 stream
+and sent through the heat exchanger with an entrained amount of residual O2
+at a very small concentration. Spec. 7:29–8:5, 14:26–15:26; Appeal Br. 3.
+The thermal oxidation reactions are enabled by operating power cycle
+combustor 100 with an excess of O2 that results in residual O2 in the recycle
+CO2 stream at very small concentrations of about 0.01% by volume to about
+10% by volume, about 0.1% by volume to about 8% by volume, or about
+0.2% by volume to about 5% by volume. This residual O2 causes the
+hydrocarbons in the dilute hydrocarbon stream that is entrained with the
+recycle CO2 stream to begin to oxidize in the channels of the power cycle
+heat exchangers as the hydrocarbons are heated. Spec. 14:26–15:3.
+
+Appeal 2024-002039
+Application 17/832,247
+
+5
+Accordingly, we do not sustain the rejection of claims 27–33 and 35
+for lack of written description.
+Indefiniteness Rejection of Claims 27–33 and 35
+The Examiner determines that claim 27 is indefinite because “heat
+obtained by oxidizing, without substantial combustion, a second fuel source”
+is not understood to what degree “without substantial combustion” occurs,
+and the Specification does not define “substantial” but only gives examples
+of percentages of hydrocarbon compounds that may combust. Final Act. 9.
+We agree with Appellant that the Specification describes oxidation of
+hydrocarbon compounds in a dilute hydrocarbon stream being without
+substantial combustion to mean at least 95% of the hydrocarbon compounds
+by volume undergo thermal oxidation while less than 5% by volume of the
+hydrocarbon compounds may combust. Appeal Br. 7; Spec. 14:12–20. This
+description and the ranges provide objective boundaries and guidance for a
+skilled artisan to understand what is meant by oxidation of the hydrocarbon
+compounds in the dilute hydrocarbon stream “without substantial oxidation.”
+See MPEP § 2173.05(b)(I); see also Niazi Licensing Corp. v. St. Jude Med.
+S.C., Inc., 30 F.4th 1339, 1347–49 (Fed. Cir. 2022) (explaining that terms of
+degree do not have to be defined with mathematical precision where they
+provide enough certainty in the context of the invention). Accordingly, we
+do not sustain the rejection of claims 27–33 and 35 for indefiniteness.
+Obviousness of Claims 27, 30, and 31 Over Allam and Gerhold
+The Examiner takes the position that Allam teaches partial oxidation
+reactor 4 heats a compressed stream of CO2 with heat obtained by oxidizing,
+without substantial combustion, second fuel source 26 that is a dilute stream
+of hydrocarbons. Final Act. 11 (citing Allam ¶ 88, Fig. 1).
+
+Appeal 2024-002039
+Application 17/832,247
+
+6
+We agree with Appellant that Allam’s partial oxidation (“POX”)
+reactor 4 performs a partial oxidation that combusts part of the fuel in the
+reactor to produce a stream of partial oxidation products. Appeal Br. 8–10
+(citing Allam ¶¶ 6, 109). Paragraph 109 of Allam indicates POX reactor 4 is
+a reactor that can combust a carbonaceous fuel. Thus, partial oxidation of a
+fuel in Allam is understood to mean that part of the fuel in POX reactor 4 is
+combusted and the rest of the fuel is not combusted. The Examiner has not
+shown that POX reactor 4 oxidizes a fuel without substantial combustion so
+less than 5% of the fuel is combusted in POX reactor 4.
+Accordingly, we do not sustain the rejection of claims 27, 30, and 31.
+Rejections of Dependent Claims 28, 29, 32, 33, and 35
+The Examiner’s reliance on White to teach the limitations of claim 28,
+Maslov to teach the limitations of claim 29, Kesseli to teach the limitations
+of claims 32 and 35, and Maslov to teach the limitations of claim 33 does
+not cure the above-noted deficiencies in the rejection of independent claim
+27 from which these claims all depend. Accordingly, we do not sustain the
+rejection of claims 28, 29, 32, 33, and 35.
+Double Patenting over Forrest and Gerhold
+We agree with the Examiner that claim 1 of Forest recites a method
+that performs the claimed steps of compressing a stream comprising CO2 to
+form a compressed stream of CO2, heating the compressed stream of CO2 in
+a recuperator heat exchanger with heat withdrawn from a stream of products
+of combustion from a first fuel source, and heating the stream of compressed
+CO2 with heat from a second fuel source of a dilute stream of hydrocarbons
+that is oxidized without substantial combustion, as recited in claim 27. Final
+Act. 5; Ans. 3.
+
+Appeal 2024-002039
+Application 17/832,247
+
+7
+The fact that claim 1 of Forrest recites a power production method
+does not alter the fact that it recites the steps of claim 27 of compressing a
+stream of CO2 and heating the compressed stream in a recuperator heat
+exchanger with the heat of combustion products and by oxidizing a dilute
+hydrocarbon stream without substantial combustion. Ans. 3 (the patented
+claims may be used to anticipate the present claims); Abbvie Inc. v. The
+Mathilda and Terence Kennedy Institute of Rheumatology Trust, 764 F.3d
+1366, 1374(Fed. Cir. 2014) (a later claim that is not patentably distinct from
+or anticipated by an earlier claim is invalid for obviousness-type double
+patenting) (citations omitted). The Examiner also reasonably determines
+that using the method of claim 1 of Forrest to heat a stream would have been
+obvious to a skilled artisan who would know that heating a stream is a step
+required for power production, so the method of claim 1 of Forrest would
+have been obvious to use to perform the method of claim 27. Final Act. 6.
+Accordingly, we sustain the rejection of claim 27, which we select as
+representative of the claims rejected on this ground, where Appellant argues
+the rejected claims as a group. Appeal Br. 4–5; 37 C.F.R. § 41.37(c)(1)(iv)
+(2023). Claims 28–33 and 35 fall with claim 27.
+CONCLUSION
+We reverse the rejection of claims 27–33 and 35 under 35 U.S.C.
+§ 112(a) as lacking a written description of the claimed subject matter.
+We reverse the rejection of claims 27–33 and 35 under 35 U.S.C.
+§ 112(b) as being indefinite for failing to particularly point out and distinctly
+claim the subject matter of the invention.
+We reverse the rejection of claims 27, 30, and 31 under 35 U.S.C.
+§ 103 as being unpatentable over Allam and Gerhold.
+
+Appeal 2024-002039
+Application 17/832,247
+
+8
+We reverse the rejection of claim 28 under 35 U.S.C. § 103 as being
+unpatentable over Allam, Gerhold, and White.
+We reverse the rejection of claim 29 under 35 U.S.C. § 103 as being
+unpatentable over Allam, Gerhold, and Maslov.
+We reverse the rejection of claims 32 and 35 under 35 U.S.C. § 103 as
+being unpatentable over Allam, Gerhold, and Kesseli.
+We reverse the rejection of claim 33 under 35 U.S.C. § 103 as being
+unpatentable over Allam, Gerhold, Kesseli, and Maslov.
+We affirm the rejection of claims 27–33 and 35 on the ground of
+nonstatutory double patenting over claims 1–6 and 8 of Forrest in view of
+Gerhold.
+DECISION SUMMARY
+Claim(s)
+Rejected
+35 U.S.C. § Reference(s)/
+Basis
+Affirmed Reversed
+27–33, 35 112 Written
+Description
+27–33, 35
+27–33, 35 112 Indefiniteness 27–33, 35
+27, 30, 31 103 Allam, Gerhold 27, 30, 31
+28 103 Allam, Gerhold,
+White
+28
+29 103 Allam, Gerhold,
+Maslov
+29
+32, 35 103 Allam, Gerhold,
+Kesseli
+32, 35
+33 103 Allam, Gerhold,
+Kesseli, Maslov
+33
+27–33, 35 Nonstatutory
+Double patenting
+US 11,359,541
+B2, Forrest
+27–33, 35
+Overall
+Outcome
+27–33, 35
+
+Appeal 2024-002039
+Application 17/832,247
+
+9
+TIME PERIOD FOR RESPONSE
+No time period for taking any subsequent action in connection with
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R.
+§ 1.136(a)(1)(iv).
+AFFIRMED

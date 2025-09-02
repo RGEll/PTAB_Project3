@@ -1,0 +1,278 @@
+2024003687 2025 08 25 4d318724 04f0 46ec acb8 3a93d92886bf
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/929,534 07/15/2020 Derek Wong KITTP068 2746
+21912 7590 08/26/2025
+VAN PELT, YI & JAMES LLP
+1 1ST ST, STE 12
+LOS ALTOS, CA 94022
+EXAMINER
+NEDIALKOVA, LILIA V
+ART UNIT PAPER NUMBER
+1724
+NOTIFICATION DATE DELIVERY MODE
+08/26/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+usptocorrespondence@ip-patent.com
+PTOL-90A (Rev. 04/07)
+
+ 
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+____________ 
+ 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+____________ 
+ 
+Ex parte DEREK WONG, 
+ALEXIS SHIMANOFF, and ARUNANSHU ROY 
+____________ 
+ 
+Appeal 2024-003687 
+Application 16/929,534 
+Technology Center 1700 
+____________ 
+Before BEVERLY A. FRANKLIN, GEORGE C. BEST, and 
+MERRELL C. CASHION, JR., Administrative Patent Judges. 
+BEST, Administrative Patent Judge. 
+DECISION ON APPEAL 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals the rejection of 
+claims 1–5, 9, 10, 13–15, and 22 of Application 16/929,534. Final Act. 
+(October 5, 2023). We have jurisdiction under 35 U.S.C. § 6. 
+For the reasons set forth below, we affirm. 
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant 
+identifies Kitty Hawk Corp. as the real party in interest. Appeal Br. 1. 
+
+Appeal 2024-003687 
+Application 16/929,534 
+2 
+I. BACKGROUND 
+The ’534 Application describes a battery system comprising 
+cylindrical battery cells. Spec. ¶ 19. The battery system is intended for use in 
+an electric vertical-off and landing vehicle. Id. ¶¶ 1, 19. Claim 1 is 
+representative of the ’534 Application’s claims and is reproduced below 
+from the Appeal Brief’s Claims Appendix. 
+1. A battery system, comprising: 
+one or more slide-in brackets, wherein the one or more 
+slide-in brackets are attached to a shelf; 
+a battery case system, comprising: 
+a first end plate including a plurality of cutouts; 
+a plurality of cylindrical cells, including a first 
+cylindrical cell, a second cylindrical cell, a third 
+cylindrical cell, and a fourth cylindrical cell; 
+an electrical tab fitting entirely within a cutout of 
+the plurality of cutouts, wherein the cutout is a single 
+cutout, wherein the cutout exposes one terminal end of 
+the first cylindrical cell and one terminal end of the 
+second cylindrical cell, and wherein the electrical tab is 
+connected to the first cylindrical cell and the second 
+cylindrical cell using spot welding; 
+a battery management printed circuit board, 
+wherein the electrical tab provides a connecting surface 
+for a battery management signal between (1) the first 
+cylindrical cell and the second cylindrical cell and (2) the 
+battery management printed circuit board; 
+a case with a handle and a plurality of vertical 
+guide rails, wherein the plurality of vertical guide rails 
+include a first vertical guide rail and a second vertical 
+guide rail, wherein the first vertical guide rail and the 
+second vertical guide rail are on opposite sides of the 
+case, wherein one or more retaining clips are separate 
+from the case and the one or more slide-in brackets, 
+wherein one retaining clip of the one or more retaining 
+
+Appeal 2024-003687 
+Application 16/929,534 
+3 
+clips includes a snap-in clip, wherein one slide-in bracket 
+of the one or more slide-in brackets includes a hole, 
+wherein the case is configured to be vertically lowered 
+into the one or more slide-in brackets, wherein after the 
+case has been vertically lowered into the one or more 
+slide-in brackets, the snap-in clip fits into the 
+corresponding hole, and wherein the one or more 
+retaining clips are used to secure the case to the one or 
+more slide-in brackets after the case has been vertically 
+lowered into the one or more slide-in brackets; a battery 
+management system inside the case; and 
+a display disposed on a top surface of the case, 
+wherein the display is configured to display information 
+from the battery management system, wherein: 
+the first cylindrical cell and the second cylindrical 
+cell are in a first group of in-parallel cells, 
+the third cylindrical cell and the fourth cylindrical 
+cell are in a second group of in-parallel cells, 
+the electrical tab connects: (1) the first cylindrical 
+cell and the second cylindrical cell in parallel, (2) the 
+third cylindrical cell and the fourth cylindrical cell in 
+parallel, and (3) the first group of in-parallel cells and the 
+second group of in-parallel cells in series, 
+the first cylindrical cell and the third cylindrical 
+cell are in a first row of cells, 
+the second cylindrical cell and the fourth 
+cylindrical cell are in a second row of cells, 
+the electrical tab connects a positive terminal of 
+the first cylindrical cell to a positive terminal of the 
+second cylindrical cell, and 
+the electrical tab connects a negative terminal of 
+the third cylindrical cell to a negative terminal of the 
+fourth cylindrical cell. 
+Appeal Br. 8–9. 
+
+Appeal 2024-003687 
+Application 16/929,534 
+4 
+II. REJECTIONS 
+On appeal, the Examiner maintains the following rejections: 
+1. Claims 1–5, 9, 10, and 13–15 under 35 U.S.C. § 103 as 
+unpatentable over the combination of Zeller,2 Bohan,3 Confer,4 and 
+Yamagami.5 Final Act. 2. 
+2. Claim 22 under 35 U.S.C. § 103 as unpatentable over the 
+combination of Zeller, Bohan, Confer, Yamagami, and Shirai.6 Final Act. 
+13. 
+III. DISCUSSION 
+We review the appealed rejections for error based upon the issues 
+identified by Appellant and in light of the arguments and evidence produced 
+thereon. Cf. Ex parte Frye, 94 USPQ2d 1072, 1075 (BPAI 2010) 
+(precedential) (cited with approval in In re Jung, 637 F.3d 1356, 1365 (Fed. 
+Cir. 2011) (“[I]t has long been the Board’s practice to require an applicant to 
+identify the alleged error in the examiner’s rejections . . . .”)). 
+Upon consideration of the appeal record and each of Appellant’s 
+contentions, we determine that Appellant has not identified reversible error 
+in the Examiner’s rejections. Accordingly, we sustain the rejections 
+substantially based on the fact findings and for the reasons expressed by the 
+ 
+2 US 2017/0025717 A1, published January 26, 2017. 
+3 US 2013/0082661 A1, published April 4, 2013. 
+4 US 2020/0321569 A1, published October 8, 2020. 
+5 EP 2 403 031 A1, published January 4, 2012. 
+6 US 5,019,767, issued May 28, 1991. 
+
+Appeal 2024-003687 
+Application 16/929,534 
+5 
+Examiner in the Final Office Action and Examiner’s Answer. We add the 
+following for emphasis. 
+A. Rejection of claims 1–5, 9, 10, and 13–15 over the combination of 
+Zeller, Bohan, Confer, and Yamagami 
+Claims 1 and 13 are independent. See Appeal Br. 8–12. Appellant 
+does not present separate arguments for the patentability of any of the 
+dependent claims but states that the dependent claims are allowable for the 
+same reasons that the independent claims are allowable. Id. at 7. 
+Furthermore, Appellant does not distinguish between claims 1 and 13 in its 
+arguments for reversal of the rejection of each of these claims. Id. at 5–7. 
+In view of the foregoing, we limit our discussion to claim 1 with the 
+understanding that our reasoning applies equally to the rejection of claim 13. 
+Appellant argues that the rejection of claim 1 should be reversed for 
+either of two reasons. Id. We address each argument in turn. 
+First, Appellant argues that the rejection of claim 1 should be reversed 
+because the combination of Zeller, Bohan, Confer, and Yamagami does not 
+describe or suggest each of claim 1’s limitations. Appeal Br. 5–6. In the 
+relevant part, claim 1 recites “an electrical tab . . . the electrical tab is 
+connected to the first cylindrical cell and the second cylindrical cell using 
+spot welding.” Id. at 8 (emphasis added). Appellant argues that the Examiner 
+reversibly erred by finding that Zeller’s paragraph 39 describes or suggests 
+this limitation. Id. at 5–6. 
+We are not persuaded by this argument. 
+In the Final Action, the Examiner found that Zeller’s paragraph 39 
+describes structure that corresponds to the recited electrical tab and which 
+may be welded to the first and second battery cells. Final Act. 3. Spot 
+
+Appeal 2024-003687 
+Application 16/929,534 
+6 
+welding is one type of welding and has advantages relative to other types of 
+welding—e.g., arc-welding—in some circumstances. In the Answer, the 
+Examiner explained that a person having ordinary skill in the art would have 
+known that bonding connector elements such as electrical tabs to battery 
+cells is one such situation. Ans. 15–16.7  
+We do not discern reversible error in the Examiner’s findings and 
+reasoning. 
+Second, Appellant argues that the rejection of claim 1 should be 
+reversed because at least one applied reference, Confer, is not analogous art. 
+Appeal Br. 6–7. 
+We are not persuaded by this argument. 
+For a reference to be used as part of an obviousness rejection of 
+Appellant’s claims, the reference must be analogous art to the claimed 
+invention. In re Kahn, 441 F.3d 977, 986‒87 (Fed. Cir. 2006). A reference is 
+analogous if it is either (1) in the field of the inventor’s endeavor or 
+(2) reasonably pertinent to the particular problem with which the inventor 
+was concerned. Id. 
+For the following reasons, we agree with the Examiner that Confer is 
+within the inventors’ field of endeavor. See Answer. 16–17. 
+As an initial matter, we disagree with Appellant’s characterization of 
+the nature of the claimed invention. Appellant argues that “[t]he claimed 
+invention is directed to ‘electrical take-off and landing (eVTOL) vehicles.’” 
+Appeal Br. 6 (citing Spec. ¶ 19). Claim 1, however, does not recite any 
+limitations incorporating an eVTOL vehicle or making the claimed battery 
+ 
+7 Appellant did not file a Reply Brief. 
+
+Appeal 2024-003687 
+Application 16/929,534 
+7 
+system uniquely suitable for use in such vehicles. As currently written, claim 
+1 is directed to a “battery system” in general. 
+We begin our determination of the inventors’ field of endeavor by 
+referring to the ’534 Application’s Specification. See In re Mettke, 570 F.3d 
+1356, 1359 (Fed. Cir. 2009) (relying on specification to determine 
+applicant’s field of endeavor). The Specification is focused on components 
+for use in eVTOL vehicles. See, e.g., Spec. ¶¶ 1, 19. 
+We, however, do not consider the field of endeavor to be restricted 
+solely to eVTOL vehicles. The scope of analogous art is construed broadly. 
+Wyers v. Master Lock Co., 616 F.3d 1231, 1238 (Fed. Cir. 2010). 
+Battery systems used in electric vehicles of any type face a common 
+set of criteria including the battery size, weight, reliability, charging speed, 
+etc. While the relative importance of these criteria varies according to the 
+specific vehicle type, improvements in battery systems for one or of electric 
+vehicle very likely are equal to battery systems in other types of electric 
+vehicles. In view of these common factors, we identify the Inventors’ field 
+of endeavor as battery systems for use in electric vehicles. Cf. In re 
+Deminski, 796 F.2d 436, 442 (Fed. Cir. 1986) (determining that the cited 
+references were in the same field of endeavor where they “have essentially 
+the same function and structure” as the claimed apparatus). 
+Confer describes battery systems used in industrial material handling 
+vehicles. Confer ¶¶ 3–13. Thus, the Examiner did not reversibly err by 
+finding that Confer is analogous art and may be used in an obviousness 
+rejection of the claimed invention. 
+
+Appeal 2024-003687 
+Application 16/929,534 
+8 
+B. Rejection of claim 22 over the combination of Zeller, Bohan, Confer, 
+Yamagami, and Shirai 
+Claim 22 depends from claim 1. Appeal Br. 12. Appellant does not 
+present separate arguments for reversal of the rejection of claim 22. Id. at 7. 
+Instead, Appellant argues that the rejection of claim 22 should be reversed 
+based on the arguments Appellant presented for reversal of the rejection of 
+claim 1. Id. 
+Because we have affirmed the rejection of claim 1, we also affirm the 
+rejection of claim 22. 
+IV. DECISION SUMMARY 
+The following table summarizes the outcome of this appeal: 
+Claim(s) 
+Rejected 
+35 
+U.S.C. § Reference(s)/Basis Affirmed Reversed 
+1–5, 9, 10, 
+13–15 103 Zeller, Bohan, Confer, Yamagami 1–5, 9, 10, 
+13–15  
+22 103 Zeller, Bohan, Confer, Yamagami, 
+Shirai 22  
+Overall 
+Outcome   1–5, 9, 10, 
+13–15, 22  
+V. TIME PERIOD FOR RESPONSE 
+No time period for taking any subsequent action in connection with 
+this appeal may be extended under 37 C.F.R. § 1.136(a). 
+AFFIRMED 

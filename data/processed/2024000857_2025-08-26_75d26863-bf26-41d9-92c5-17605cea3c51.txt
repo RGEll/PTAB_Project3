@@ -1,0 +1,299 @@
+2024000857 2025 08 26 75d26863 bf26 41d9 92c5 17605cea3c51
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/817,780 08/05/2022 Frank H. Rechberg ACTRN-027C1 8277
+7663 7590 08/27/2025
+STETINA GARRED BRUCKER & NEWBOLES
+75 ENTERPRISE, SUITE 250
+ALISO VIEJO, CA 92656
+EXAMINER
+HANSEN, JAMES ORVILLE
+ART UNIT PAPER NUMBER
+3637
+MAIL DATE DELIVERY MODE
+08/27/2025 PAPER
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+——————
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+——————
+Ex parte FRANK H. RECHBERG and JASON A. RECHBERG
+——————
+Appeal 2024-000857
+Application 17/817,780
+Technology Center 3600
+——————
+
+Before ROBERT L. KINDER, SCOTT C. MOORE, and
+ROBERT J. SILVERMAN, Administrative Patent Judges.
+KINDER, Administrative Patent Judge.
+DECISION ON APPEAL
+STATEMENT OF THE CASE
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the
+Examiner’s decision to reject claims 21 and 22.2 See Final Act. 1. We have
+jurisdiction under 35 U.S.C. § 6(b).
+We AFFIRM.
+
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant
+identifies the real party in interest as Actron Manufacturing, Inc. Appeal
+Br. 4.
+2 Claims 1–20 were cancelled. Appeal Br. 6.
+
+Appeal 2024-000857
+Application 17/817,780
+2
+CLAIMED SUBJECT MATTER
+The claims are directed to drawer slide. Claim 21, reproduced below,
+illustrates the claimed subject matter:
+21. A method of manufacturing a drawer slide, the method
+comprising:
+milling a first elongate linear member from a single piece
+of metal, the first elongate linear member having, as a result of
+the milling, a first end portion including a first edge, a second
+end portion including a wall, and an interior surface defining a
+first channel extending between the first end portion and the
+second end portion, the wall extending transversely across the
+first channel at the second end portion;
+providing a second elongate linear member slidably
+located within the first channel, the second linear member having
+a first end portion including a first edge, a second end portion
+including a second edge, and an interior surface defining a
+second channel extending between the first end portion and the
+second end portion thereof, wherein interior side edges of the
+first elongate linear member and exterior side edges of the second
+elongate linear member further define a first pair of raceways;
+and
+disposing a plurality of ball bearings and bearing spacers
+alternately within each of the first raceways.
+Appeal Br. 17 (“Claims App.”) (emphasis added).
+REFERENCES
+The Examiner relies on the following references to reject the claims:
+Name Reference Date
+Meyer US 3,074,766 Jan. 22, 1963
+Chi US 2004/0130248 July 8, 2004
+Netzer US 2007/0228906 Oct. 4, 2007
+Haxton US 2012/0093445 Apr. 19, 2012
+
+
+Appeal 2024-000857
+Application 17/817,780
+3
+REJECTIONS
+The Examiner maintains the following rejections:
+Claim(s) Rejected 35 U.S.C. § Reference(s)/ Basis
+21, 22 103 Meyer, Haxton, Chi
+21, 22 103 Meyer, Netzer, Chi
+
+Final Act. 2, 4.
+OPINION
+A. Claims 21, 22 Obviousness Over Meyer, Haxton, and Chi
+Appellant directs its arguments to the claim requirement that the first
+elongate member be “‘milled’ in order to produce a single piece of metal
+member.” Appeal Br. 11. The specific claim 21 language referred to states
+“milling a first elongate linear member from a single piece of metal.” Id.
+at 17. Appellant recognizes that the prior art references show each
+individual claimed element, but Appellant first takes issue with the
+rationales for combining Meyer and Haxton. Id. at 11. Specially, Appellant
+contends that Examiner’s reasoning is “incorrect” that a person of ordinary
+skill in the art would be motivated to manufacture the linear member as from
+a single piece of metal to “enable the part to be simply and automatically
+produced (i.e., formed integrally) without an assembly step of coupling the
+wall to the linear member.” Id. (quoting Final Act. 3). Without reference to
+any evidence of record, Appellant contends, “[t]he cost savings in avoiding
+the manual step of fixing Meyer’s stainless steel shock block 40 to the
+innermost extremity of member 10 would be negligible compared to the
+added cost associated with cutting into a solid piece of metal to form the
+member 10 and shock block 40 as a single piece.” Id. For this reason,
+
+Appeal 2024-000857
+Application 17/817,780
+4
+Appellant alleges that “a person having ordinary skill in the art would never
+have modified Meyer’s own manufacturing method, in which the stainless
+steel shock block 40 is simply ‘fixed to’ the innermost extremity of member
+10 as described at col. 2, lines 20-21 of Meyer, for cost savings as alleged.”
+Id. at 11–12.
+Appellant argues that the Examiner’s additional motivation for
+combining Meyer and Haxton is not supported by the cited references. Id.
+at 12. Specifically, the Examiner contends that combining Haxton’s
+teaching of a solid unitary construction into Meyer would “provid[e] a more
+robust linear member due to the solid unitary construction.” Id. (quoting
+Final Act. 4). Appellant contends that “what motivated the Appellant’s own
+claimed invention was the potential for constructions like Meyer’s to fail
+when the shock block 40 becomes dislodged by an impact, a possibility that
+was discovered by the inventors and is nowhere even contemplated by
+Meyer or any of the other references.” Id. Thus, Appellant contends that the
+prior art fails to recognize the advantages of milling a first elongate linear
+member from a single piece of metal to prevent dislodgement and create a
+more robust linear member. Id.
+We disagree with Appellant’s contentions and agree with the
+Examiner that a person of ordinary skill in the art would have been
+motivated to combine Haxton’s teaching of a solid unitary construction into
+Meyer to simplify manufacturing the linear member and achieve a more
+robust linear member. See Ans. 4 (“The aspect of the integral formation also
+providing a more robust drawer slide, due to the solid unitary construction,
+was additionally cited in support of the combined references.”).
+
+Appeal 2024-000857
+Application 17/817,780
+5
+Although typically, “[i]t is elementary that the construction of parts
+integral, instead of by riveting, welding, or otherwise fastening them
+together, does not amount to invention,” Appellant’s claim 1 requires that
+the elongate linear member be formed from a single piece of metal. In re
+Hodgson, 96 F.2d 285, 286 (CCPA 1938) (citation omitted); see also
+Application of Hotte, 475 F.2d 644, 647 (CCPA 1973) (finding “integral” is
+sufficiently broad to embrace constructions united by such means as
+fastening and welding). Indeed, in certain situations forming parts jointly as
+“a single integral and gaplessly continuous piece” may not be obvious in
+light of similar bolted prior art structures. Carl Schenck, A.G. v. Nortron
+Corp., 713 F.2d 782, 785 (Fed. Cir. 1983). The purposes of forming the
+claimed elongate linear member from a single piece of metal construction,
+according to Appellant’s Specification, is to create a more robust design that
+does not become dislodged:
+The wall 17 may prevent the second linear member 20 from
+sliding through the second end portion 13 of the first linear
+member 10. Because the wall 17 is milled and part of the same
+piece from which the entirety of the first linear member 10 is
+milled, the wall 17 may not be dislodged from the impact of the
+second linear member 20 when the second linear member 20 is
+moved to the fully retracted position in the way that a separate
+piece extending across the first channel 11 might be.
+Spec. ¶ 32 (quoted in part by Appellant at Appeal Br. 10–11). Thus, taking
+Appellant’s Specification for what it states, “milling a first elongate linear
+member from a single piece of metal” as claimed may have a specific
+purpose or function.
+Regardless, both Haxton and Meyer achieve this same function. First,
+Haxton recognizes a similar problem and offers the same unitary
+
+Appeal 2024-000857
+Application 17/817,780
+6
+construction for a solution, specifically, “[p]art 10 has stop area 36 at the
+back end to prevent the drawer slide from coming apart through the back of
+part 10,” as depicted below in Figure 2. Haxton ¶ 16.
+
+
+
+Figure 2 of Haxton depicts “[a] perspective view of the drawer slide”
+showing frame part 10 that has unitary stop part 36 at the back part. Id.
+¶¶ 19, 29.
+Second, we also agree with the Examiner “that Meyer already
+provides a secure and solid linear member with an end wall between first
+and second end portions that is able to implicitly withstand dislodgement
+upon impact.” Ans. 7. Accordingly, we do not find Appellant’s contentions
+persuasive. The Examiner presents a persuasive rationale explaining why a
+person of ordinary skill in the art would have integrated Haxton’s teaching
+of a uniformly milled part 10 into Meyer to simplify manufacturing the
+linear member and achieve a more robust linear member from this unitary
+construction. Final Act. 3; Ans. 4.
+Appellant next argues “the alleged modification would further not
+have been obvious considering Haxton’s explicit teaching away from ball
+
+Appeal 2024-000857
+Application 17/817,780
+7
+bearing based mechanical drawer slides like those taught by Meyer.”
+Appeal Br. 12–13 (quoting Haxton ¶ 29 (“no ball bearings are present”)).
+The Examiner responds that Appellant’s argument is moot because
+Haxton “is only being relied upon for the cutting / milling operation that can
+be utilized when manufacturing a solid aluminum linear member of a drawer
+slide,” and Meyer teaches use of ball bearings within the drawer slide
+assembly. Ans. 5.
+We do not find Appellant’s argument persuasive. Appellant has not
+shown how Haxton’s lack of ball bearings would impact the Examiner’s
+proposed combination. First, Examiner only relies on Haxton for its
+teaching of a making a solid aluminum linear member, which is not
+impacted by ball bearings for the slide mechanism. Next, Appellant has not
+persuasively established why a person of ordinary skill in the art would have
+been dissuaded from integrating Haxton’s unitary linear member into Meyer
+as proposed by the Examiner. For example, there is no evidence or
+persuasive argument that Meyer’s ball bearing mechanisms would be
+impacted by Haxton’s unitary linear member.
+We sustain the Examiner’s rejection of claim 21 as obvious over
+Meyer, Haxton, and Chi. We likewise sustain the rejection of claim 22,
+which is not separately argued by Appellant.
+
+B. Claims 21, 22 Obviousness Over Meyer, Netzer, and Chi
+The Examiner substitutes Netzer for Haxton in this combination. See
+Final Act. 5. The Examiner finds that “[a]s to the milling aspect, Netzer is
+cited as an evidence reference for the known technique of milling a solid
+piece of material.” Id. The Examiner notes that Netzer “is relied upon
+
+Appeal 2024-000857
+Application 17/817,780
+8
+solely for the known technique of milling out a cavity within an elongate
+member in order to remove material during a cutting / milling operation for
+the sake of enabling the member to include a recess along a length of the
+member in a simple and automatic manner.” Ans. 5–6. According to the
+Examiner, Netzer teaches machining an elongate member out of a solid
+piece. Id. Further, the Examiner determines that “it would have been
+obvious . . . to modify the manufacture of the first elongate linear member so
+as to include a milling operation in view of Netzer’s teaching because this
+arrangement would provide an alternative process for manufacturing the
+channel / recess within the linear member thereby . . . providing a more
+robust linear member due to the solid unitary construction.” Final Act. 5–6.
+Appellant contends “that Netzer’s recess 6, which is milled out of the
+solid wood of a drawer side wall, is for the insertion of a receiving part 9 for
+the fastening of a front panel to the drawer side wall.” Appeal Br. 14.
+According to Appellant, “[t]his is completely unrelated to the teachings of
+the Meyer reference, which are directed to a slide structure for supporting a
+drawer,” and “[a] person having ordinary skill in the art reading Meyer and
+Netzer would, at best, be motivated to use Netzer’s recess 6 in the side walls
+of a drawer that is supported by Meyer’s slide structure. There is nothing in
+Netzer that would suggest the use of the recess 6 elsewhere.” Id.
+The Examiner persuasively relies on Netzer for its teaching of milling
+a drawer component as a single unitary piece and then incorporating that
+into Meyer. Netzer discloses, “[a]dvantageously, provision is made that the
+base of the recess and the drawer side wall are made unitary from a single
+piece,” and “[m]illing the recess enables the drawer side wall to be simply
+and automatically produced.” Netzer ¶ 9. The Examiner demonstrates
+
+Appeal 2024-000857
+Application 17/817,780
+9
+persuasively that a person of ordinary skill in the art would have recognized,
+based on Netzer’s teachings, that machining Meyer’s elongate member out
+of one solid piece would have created a simpler machining process. Ans. 6.
+Specifically, a person of ordinary skill in the art would have had “a
+reasonable expectation of success, to machine the elongate member out of
+one solid piece in view of Netzer [because] the automated machining of the
+linear member would be simpler than machining / fabricating an incomplete
+linear member and then adding component(s) to the member via an assembly
+step.” Ans. 6. The Examiner has thus provided a persuasive rationale as to
+why a person of ordinary skill in the art would replace Meyer’s member 10
+and shock block 40 assembly with an elongate linear member from a single
+piece of metal based on Netzer’s teachings of milling as a unitary single
+piece (Netzer ¶ 9).
+Accordingly, we sustain the Examiner’s rejection of claims 21 and 22
+based on Meyer, Netzer, and Chi.
+CONCLUSION
+The Examiner’s rejection of claims 21 and 22 is Affirmed.
+DECISION SUMMARY
+The following table summarizes our decision:
+Claim(s) Rejected 35 U.S.C. § Reference(s)/ Basis Affirmed Reversed
+21, 22 103 Meyer, Haxton, Chi 21, 22
+21, 22 103 Meyer, Netzer, Chi 21, 22
+Overall Outcome 21, 22
+
+
+
+Appeal 2024-000857
+Application 17/817,780
+10
+TIME PERIOD FOR RESPONSE
+No time period for taking any subsequent action in connection with
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R.
+§ 1.136(a)(1)(iv).
+AFFIRMED

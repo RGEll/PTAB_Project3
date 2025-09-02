@@ -1,0 +1,303 @@
+2025000819 2025 08 25 7294b159 c4dc 4aa0 a8d9 b9e6eb178bc4
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/857,673 07/05/2022 Thomas J. SMITH SMITH ET AL-11 CONT 1872
+143096 7590 08/26/2025
+COLLARD & ROE, P.C.
+1077 NORTHERN BOULEVARD
+ROSLYN, NY 11576
+EXAMINER
+TRAVERS, MATTHEW P
+ART UNIT PAPER NUMBER
+3726
+NOTIFICATION DATE DELIVERY MODE
+08/26/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+uspto@collardroe.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+—————— 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+—————— 
+Ex parte THOMAS J. SMITH, THOMAS STONG,  
+ANDREA C. PAUL, and ALEXANDER S. COOPER 
+—————— 
+Appeal 2025-000819 
+Application 17/857,673 
+Technology Center 3700 
+—————— 
+ 
+Before LINDA E. HORNER, WILLIAM V. SAINDON, and 
+MICHAEL L. WOODS, Administrative Patent Judges. 
+SAINDON, Administrative Patent Judge. 
+ 
+ 
+DECISION ON APPEAL 
+STATEMENT OF THE CASE 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the 
+Examiner’s decision to reject claims 1–7.  See Final Rej. 1.  We have 
+jurisdiction under 35 U.S.C. § 6(b). 
+We AFFIRM. 
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42.  Appellant 
+identifies the real party in interest as Assignee Mahle International GmbH.  
+App. Br. 1. 
+
+Appeal 2025-000819 
+Application 17/857,673 
+2 
+CLAIMED SUBJECT MATTER 
+The claims on appeal are directed to a method for manufacturing a 
+piston ring.  Claim 1, reproduced below, illustrates the claimed subject 
+matter: 
+1. A method for manufacturing a piston ring, comprising: 
+ providing a piston ring base having an unchamfered face 
+surface, and a gap between two gap surfaces of the ring; 
+ grit blasting the unchamfered face surface to create a 
+roughened texture having an average surface roughness Ra of 
+1.02-1.99 μm and Rz 6.28 to 9.05 μm, with the roughened 
+texture exhibiting peaks and valleys on the unchamfered face 
+surface; 
+ depositing a coating on and over the roughened texture of 
+the face surface via physical vapor deposition, wherein the 
+coating is applied at a thickness of at least 10[ ]μm, and 
+wherein the peaks and valleys of the roughened texture on the 
+face surface telegraph through the coating and are visible on the 
+deposited coating on the face surface; and 
+ lapping the coating to remove the peaks in the deposited 
+coating on the face surface without penetrating the coating, so 
+that the coated face surface contains plateaus from the removed 
+peaks, and valleys telegraphing through the coating by the 
+roughened texture from the grit blasting of the face surface. 
+App. Br. 14 (Claims Appendix). 
+REFERENCES 
+The Examiner relies on the following references to reject the claims: 
+Name Reference Date 
+ Hite  US 5,605,741  Feb. 25, 1997 
+ Herbst-Dederichs  US 8,857,820 B2  Oct. 14, 2014 
+ He  US 2002/0081251 A1  June 27, 2002 
+ Opel  US 2003/0064665 A1  Apr. 3, 2003 
+ Saylor  US 2003/0134956 A1  July 17, 2003 
+ Adam  US 2011/0268944 A1  Nov. 3, 2011 
+ Thompson  US 2015/0111058 A1  Apr. 23, 2015 
+
+Appeal 2025-000819 
+Application 17/857,673 
+3 
+ Banfield  US 2017/0102071 A1  Apr. 13, 2017 
+ Ooya  EP 0 707 092 A1  Apr. 17, 1996 
+ Schuetz  Surface Texture from Ra to Rz, 
+Modern Machine Shop 
+ Nov. 1, 2002 
+REJECTIONS 
+The Examiner maintains the following rejections: 
+Claim(s) 
+Rejected 
+35 
+U.S.C. § Reference(s)/ Basis 
+ 1, 5, 6  103  Herbst-Dederichs, Adam, Schuetz, Banfield 
+ 2  103  Herbst-Dederichs, Adam, Schuetz, Banfield, He, 
+ Ooya 
+ 3  103  Herbst-Dederichs, Adam, Schuetz, Banfield, He, 
+ Ooya, Opel 
+ 4  103  Herbst-Dederichs, Adam, Schuetz, Banfield, 
+ Thompson, Saylor 
+ 7  103  Herbst-Dederichs, Adam, Schuetz, Banfield, Hite 
+OPINION 
+Claim 1 is directed to a piston ring that is grit blasted to a particular 
+average surface roughness, treated with a physical vapor deposition (PVD) 
+coating, and then lapped to remove the peaks of the coating on the face 
+surface.  The Examiner rejects claim 1 in view of Herbst-Dederichs, which 
+teaches a piston ring that is treated with a PVD coating, and then lapped.  
+Final Rej. 2–4 (citing Herbst-Dederichs, 2:44–46, 2:50–52, 2:57–58).  The 
+Examiner asserts that Herbst-Dederichs is silent as to any grit-blast pre-
+treatment, but notes that it was known in the art to treat piston rings with grit 
+blasting prior to applying a coating in order to improve adhesion, citing to 
+Adam.  Id. at 3 (citing Adam ¶¶ 45–47, 50).  Further, the Examiner asserts 
+that Herbst-Dederichs is not clear as to the degree of lapping, but notes that 
+it was known in the art to lap piston ring coatings in the manner claimed in 
+
+Appeal 2025-000819 
+Application 17/857,673 
+4 
+order to reduce contact pressure, citing to Banfield.  Id. at 3–4 (citing 
+Banfield ¶ 49).  Lastly, as to the particular average surface roughness 
+achieved by the grit blast in Adam, when applied to the piston ring of 
+Herbst-Dederichs, the Examiner notes that although Adam suggests a range 
+of average surface roughness values using the Rz measurement similar to the 
+claimed range, Adam does not give the roughness value using the Ra 
+measurement.  Id. at 3.  However, the Examiner notes the two roughness 
+values are known in the art to be related, citing Schuetz, such that knowing 
+one value gives a person of ordinary skill in the art a good idea of what the 
+other value would come out to be (as they are simply two different ways to 
+describe the roughness of a given surface), and finds that Adam’s Ra range 
+would be generally expected to similarly overlap with the claimed range.  
+Id.2 
+Appellant argues that a person of ordinary skill in the art would not 
+look to the grit-blasting process of Adam when considering the piston ring of 
+Herbst-Dederichs, because the coating in Adam is not a PVD coating.  App. 
+Br. 8–10.  However, Adam discloses grit blasting to improve coating 
+adhesion on a piston ring (Adam ¶¶ 45–46), and as the Examiner states, “one 
+of ordinary skill would have reasonably expected success for roughening 
+regardless of the coating material” later applied to the piston ring.  Ans. 5 
+(emphasis added).  We agree with the Examiner on this record, who further 
+states that “[r]oughening a surface to enhance coating adhesion is hardly 
+ 
+2 Surface roughness can be measured in various ways.  The most common 
+method in North America is Ra, which (generally speaking) averages the 
+heights of the peaks and valleys, whereas the most common method in 
+Europe is Rz, which focuses on the differences between the highest peaks 
+and lowest valleys.  Schuetz, 1. 
+
+Appeal 2025-000819 
+Application 17/857,673 
+5 
+new.”  Id.  Appellant merely asserts that the coating applied in Adam is 
+different from the one in Herbst-Dederichs (Reply Br. 2–3), but fails to 
+explain why the generally understood principle of roughening a surface prior 
+to coating in order to improve adhesion is inapplicable here.  See KSR Int’l 
+Co. v. Teleflex, Inc., 550 U.S. 398, 419 (2007) (“if a technique has been used 
+to improve one device, and a person of ordinary skill in the art would 
+recognize that it would improve similar devices in the same way, using the 
+technique is obvious unless its actual application is beyond his or her 
+skill”).3   
+Appellant also argues that Herbst-Dederichs “teaches away” from a 
+piston ring having the claimed surface roughness, citing its smoothed finish.  
+App. Br. 6–7.  However, as the Examiner explains, the surface smoothness 
+values in Herbst-Dederichs are the post-treatment values (Ans. 3–4); the 
+claimed smoothness values are instead pre-treatment values, for which the 
+Examiner relies on Adam (Ans. 5).  Appellant points to no disclosure of 
+Herbst-Dederichs that teaches away from any particular pre-treatment 
+surface roughness value.  In re Fulton, 391 F.3d 1195, 1201 (Fed. Cir. 2004) 
+(prior art does not teach away from claimed subject matter merely by 
+disclosing a different solution to a similar problem unless the prior art also 
+criticizes, discredits, or otherwise discourages the solution claimed).  
+ 
+3 For example, if the surface roughness considerations for coating adhesion 
+were significantly different based on whether the coating to be applied was a 
+resin/polymer (Adam) versus a PVD coating (Herbst-Dederichs), then 
+Appellant should introduce evidence in support of such an assertion for the 
+Examiner to consider, in the event of further prosecution.  Applicant’s 
+present attorney argument “is not evidence and cannot rebut other admitted 
+evidence.”  Elbit Sys. of Am., LLC v. Thales Visionix, Inc., 881 F.3d 1354, 
+1359 (Fed. Cir. 2018) (internal quotation marks and citation omitted). 
+
+Appeal 2025-000819 
+Application 17/857,673 
+6 
+Reviewing the record before us, we credit the Examiner’s position that it 
+would have been obvious to use grit blasting, as taught in Adam, as a pre-
+treatment to the piston ring of Herbst-Dederichs, in order to improve coating 
+adhesion. 
+Appellant also argues that the pre-treatment grit blasting in Adam 
+does not teach the claimed Ra and Rz values.  App. Br. 8–9.  The Examiner 
+had found that Adam teaches an Rz value in the range of 3–8 μm, 
+significantly overlapping with the claimed Rz range of 6.28–9.05 μm.  Final 
+Rej. 3.  This aspect of the rejection is unchallenged.  The Examiner cites 
+evidence explaining that a person of ordinary skill in the art would have 
+understood that the corresponding Ra range of Adam would significantly 
+overlap with the claimed Ra range of 1.02–1.99 μm.4  Id.; see also Ans. 5.  In 
+particular, Schuetz teaches that, although there is not a precise mathematical 
+conversion between the Ra and Rz forms of measuring surface roughness, a 
+person of ordinary skill in the art would have expected the Rz measurement 
+to be about 4 to 7 times larger than the Ra measurement.  Schuetz, 2.  
+Appellant tries to dismiss this relationship as a “rule[] of thumb” (App. Br. 
+8), but it is evidence regarding the knowledge of a person of ordinary skill in 
+the art that supports the Examiner’s finding, and is not contravened by any 
+other evidence proffered by Appellant.  Accordingly, we credit the 
+Examiner’s position that a person of ordinary skill in the art would have 
+understood Adam’s grit-blasting treatment to provide an average surface 
+ 
+4 The Rz lower bound of 3 μm would convert to an Ra of 0.43–0.75 μm and 
+the upper bound of 8 μm would convert to an Ra of 1.14–2 μm.  The range 
+of Ra values recited in claim 1 is 1.02–1.99 μm. 
+
+Appeal 2025-000819 
+Application 17/857,673 
+7 
+roughness of 3–8 μm when measuring using Rz, or 1.14–2 μm when 
+measuring using Ra. 
+Appellant argues that “none of the prior art even mentions the base 
+material roughness telegraphing through the applied coating.”  App. Br. 4 
+(emphasis removed).  However, as the Examiner explains, “where the 
+claimed and prior art products are identical or substantially identical in 
+structure or composition, or are produced by identical or substantially 
+identical processes, a prima facie case of either anticipation or obviousness 
+has been established.”  Final Act. 4 (citing MPEP 2112.01); see In re 
+Best, 562 F.2d 1252, 1255 (CCPA 1977).  Here, in both the Examiner’s 
+proposed combination and independent claim 1, a PVD process is applied to 
+a roughened surface.  It is reasonable for the Examiner to conclude, 
+therefore, that these structures would then be substantially identical, and 
+Appellant offers no technical reason or evidence suggesting otherwise.  In re 
+Spada, 911 F.2d 705, 709 (Fed. Cir. 1990) (“When the PTO shows a sound 
+basis for believing that the products of the applicant and the prior art are the 
+same, the applicant has the burden of showing that they are not.”).  
+Accordingly, we credit the Examiner’s position that a person of ordinary 
+skill in the art would have understood that the piston ring of Herbst-
+Dederichs roughened as taught in Adam would have, after the PVD process, 
+a surface of peaks and valleys that generally matches the shape of the pre-
+treatment surface of peaks and valleys. 
+The remainder of Appellant’s arguments either argue the references in 
+isolation, are not directed to the claimed subject matter or the rejection 
+presented by the Examiner, or are not persuasive for reasons similar to those 
+identified above.  See generally App. Br.; Reply Br. 
+
+Appeal 2025-000819 
+Application 17/857,673 
+8 
+Regarding the rejection of claims 5 and 6, because Appellant only 
+argues claim 1, the remaining claims fall with it.  37 C.F.R. 
+§ 41.37(c)(1)(iv).  Further, Appellant relies on the same arguments presented 
+for claim 1 as the basis for seeking reversal of the remaining obviousness 
+rejections of claims 2–4, and 7.  App. Br. 11–12. For the reasons provided 
+above, we do not find these arguments persuasive. 
+CONCLUSION 
+The Examiner’s decision to reject the claims is AFFIRMED. 
+DECISION SUMMARY 
+The following table summarizes our decision: 
+Claim(s) 
+Rejected 
+35 U.S.C. 
+§ Reference(s)/Basis Affirmed Reversed 
+ 1, 5, 6  103  Herbst-Dederichs, Adam, 
+ Schuetz, Banfield 
+ 1, 5, 6  
+ 2  103  Herbst-Dederichs, Adam, 
+ Schuetz, Banfield, He, 
+ Ooya 
+ 2  
+ 3  103  Herbst-Dederichs, Adam, 
+ Schuetz, Banfield, He, 
+ Ooya, Opel 
+ 3  
+ 4  103  Herbst-Dederichs, Adam, 
+ Schuetz, Banfield, 
+ Thompson, Saylor 
+ 4  
+ 7  103  Herbst-Dederichs, Adam, 
+ Schuetz, Banfield, Hite 
+ 7  
+Overall 
+Outcome 
+   1–7  
+
+Appeal 2025-000819 
+Application 17/857,673 
+9 
+TIME PERIOD FOR RESPONSE 
+No time period for taking any subsequent action in connection with 
+this appeal may be extended under 37 C.F.R. § 1.136(a).  See 37 C.F.R. 
+§ 1.136(a)(1)(iv). 
+AFFIRMED 
+ 

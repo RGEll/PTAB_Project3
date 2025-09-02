@@ -1,0 +1,511 @@
+2025000420 2025 08 26 241188d6 7a7c 414e 8eeb 780db6d139e0
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+15/859,990 01/02/2018 Halil GEVGILILI 085137-572967 3713
+143687 7590 08/27/2025
+POLSINELLI PC (L'Oreal USA)
+PO Box 140310
+Kansas City, MO 64114-0310
+EXAMINER
+MATTISON, LORI K
+ART UNIT PAPER NUMBER
+1619
+NOTIFICATION DATE DELIVERY MODE
+08/27/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+DC-IPDocketing@Polsinelli.com
+LBrabson@Polsinelli.com
+patentdocketing@polsinelli.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+—————— 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+—————— 
+Ex parte HALIL GEVGILILI and SEMRA SENTURK-OZER1 
+—————— 
+Appeal 2025-000420 
+Application 15/859,990 
+Technology Center 1600 
+—————— 
+ 
+Before: ULRIKE W. JENKS, JOHN G. NEW, and  
+CHRISTOPHER G. PAULRAJ, Administrative Patent Judges. 
+ 
+NEW, Administrative Patent Judge. 
+ 
+DECISION ON APPEAL 
+  
+ 
+1  We use the word “Appellant” to refer to “applicant” as defined in 
+37 C.F.R. § 1.42(a) (2021).  Appellant identifies L’Oréal as the real party-
+in-interest.  App. Br. 2. 
+
+Appeal 2025-000420 
+Application 15/859,990 
+2 
+I. SUMMARY 
+Appellant files this appeal under 35 U.S.C. § 134(a) from the 
+Examiner’s Final Rejection of claims 39–45 as unpatentable under 35 U.S.C. 
+§ 103(a) as being obvious over the combination of Molenda et al. (US 
+2011/0165103 A1, July 7, 2011) (“Molenda”), Salvador et al. (US 
+2004/0115155 A1, June 17, 2004) (“Salvador”), Walker et al. (US 
+2016/0175209 A1, June 23, 2016) (“Walker”), Bourdin et al.2 (FR 2 999 077 
+A1, December 11, 2012) (“Bourdin”), and A. Parsons, Does The Reverse 
+Hair Washing Method Really Work?, BUSTLE (March 14, 2016); available 
+at: https://www.bustle.com/articles/143339-i-tried-using-conditioner-before-
+shampoo-for-a-week-heres-what-happened (last visited August 11, 2025) 
+(“Parsons”). 
+We have jurisdiction under 35 U.S.C. § 6(b). 
+We REVERSE. 
+ 
+II. NATURE OF THE CLAIMED INVENTION 
+Appellant’s invention is directed to hair conditioning compositions 
+and to methods for conditioning hair using such hair conditioning 
+compositions.  Spec. 69. 
+ 
+ 
+2 An English-language translation of this reference is of record and used by 
+the Examiner and Appellant, as well as the Board for the purposes of this 
+Decision.  All citations to Bourdin in this Decision are to the English 
+translation of record. 
+
+Appeal 2025-000420 
+Application 15/859,990 
+3 
+III. REPRESENTATIVE CLAIM 
+Independent claim 39 is representative of the claims on appeal and 
+recites: 
+39. A method of treating hair comprising application of a hair 
+conditioning composition to the hair immediately prior to 
+cleansing the hair with a shampoo  according to a reverse wash 
+routine, the reverse wash routine comprising: 
+applying the hair conditioning composition to the hair 
+before applying a shampoo to the hair; 
+optionally rinsing the hair conditioning composition from 
+the hair; 
+after applying the hair conditioning composition to the 
+hair and optionally  rinsing the hair conditioning composition 
+from the hair, cleansing the hair with a shampoo, wherein the hair 
+conditioning composition comprises: 
+(a) about 1 to about 5 wt.%, of Bis(C13 –15 alkoxy) PG -
+amodimethicone; 
+(b) about 1 to about 5 wt.% of divinyldimethicone/  
+dimethicone copolymer; 
+(c) about 0.1 to about 4 wt.% of polyquaternium-53; 
+(d) about 0.1 to about 5 wt.% of at least one cationic 
+surfactant; 
+(e) about 1 to about 15 wt.% of at least one non-silicone fatty 
+compound; 
+(f) about 75 to about 90 wt.% of water; 
+(g) about 1 to about 10 wt.% of one or more water -soluble 
+solvents; 
+(h) about 0.01 to about 3 wt.% of one or more thickening 
+agents; and 
+(i) optionally, about 0.1 to 5 wt.% of one or more nonionic 
+surfactants. 
+App. Br. 24. 
+
+Appeal 2025-000420 
+Application 15/859,990 
+4 
+IV. ISSUES AND ANALYSES 
+We review appealed rejections for reversible error based on the 
+arguments and evidence Appellant provides for each issue Appellant 
+identifies.  37 C.F.R. § 41.37(c)(1)(iv); Ex parte Frye, 94 USPQ2d 1072, 
+1075 (BPAI 2010) (precedential) (cited with approval in In re Jung, 637 
+F.3d 1356, 1365 (Fed. Cir. 2011) (holding that “it has long been the Board’s 
+practice to require an applicant to identify the alleged error in the examiner’s 
+rejections”)).  “After evidence or argument is submitted by the applicant in 
+response, patentability is determined on the totality of the record, by a 
+preponderance of evidence with due consideration to persuasiveness of 
+argument.”  In re Oetiker, 977 F.2d 1443, 1445 (Fed. Cir. 1992). 
+We decline to adopt the Examiner’s findings and conclusions that the 
+claims are obvious over the cited prior art.  We explain our reasoning below. 
+ 
+ The Examiner’s findings and conclusions 
+The Examiner notes that Appellant has elected a species of the 
+composition of independent claim 39 for purposes of prosecution.  Final Act. 
+2.  The elected species names the following constituents: 
+A)  one amino functional silicone-bis(C13-15 alkoxy) PG-
+amodimethicone; 
+B)  nonionic silicone polymer-
+divinyldimethicone/dimethicone copolymer; 
+C)  one ampholytic polymer- polyquaternium-53; 
+D)  at least one cationic surfactant 
+dipalmitoylethylhydroxyethylmonium methosulfate, 
+behentrimonium chloride, and cetrimonium chloride; 
+E)  At least non-silicone fatty compound- cetyl esters, cetyl 
+alcohol, C14-15 alcohols, cetearyl alcohol, isotridecyl 
+alcohol and myristyl alcohol; 
+
+Appeal 2025-000420 
+Application 15/859,990 
+5 
+F)  At least one nonionic surfactant- C1rC13 Pareth-3 and 
+CirC13 Pareth-23; 
+G)  Thickening agent- present: hydroxyethylcellulose; 
+H)  At least one water-soluble solvent- isopropyl alcohol and 
+glycerin; 
+-and- 
+I)  At least one additional component- water, preservatives, 
+pH adjuster and fragrance. 
+Id. at 2–3. 
+The Examiner finds that Molenda teaches aqueous hair conditioning 
+compositions that condition damaged and healthy hair homogeneously, such 
+that the conditioned hair has shine, elasticity, volume, body, and is 
+manageable.  Final Act. 4 (citing Molenda, Abstr., ¶¶ 9, 17).  The Examiner 
+finds that Molenda teaches that its compositions comprise an aqueous 
+emulsion of divinyldimethicone/dimethicone copolymer at a concentration 
+of 0.01 to 10 wt%.  Id. (citing Molenda ¶ 17).  The Examiner also finds that 
+Molenda teaches that the aqueous divinyldimethicone/dimethicone 
+copolymer emulsion further comprises C12–13 Pareth-23 and C12–13 
+Pareth-3 as nonionic emulsifiers, and is sold under the trade name Dow 
+Corning HMW 2220.  Id. (citing Molenda ¶ 18).   
+The Examiner finds that Molenda teaches that the conditioning 
+composition comprises at least one cationic polymer as a conditioning agent, 
+which can be polyquaternium-53, at 0.01–10 wt%.  Final Act. 4 (citing 
+Molenda  ¶¶ 23, 31).  The Examiner finds that Molenda teaches that the 
+conditioning composition used in the method comprises one or more 
+cationic surfactant(s), which may be behentrimonium chloride and/or 
+cetyltrimethyl ammonium chloride (i.e., cetrimonium chloride) at a 
+
+Appeal 2025-000420 
+Application 15/859,990 
+6 
+concentration of 0.01–10 wt%.  Id. (citing Molenda ¶¶ 28, 29, 31).  The 
+Examiner finds that Molenda further teaches that its compositions 
+additionally comprise at least one C8–24 fatty alcohol, which can include 
+myristyl alcohol, cetearyl alcohol, and cetyl alcohol at a concentration that is 
+usually less than 20 wt%.  Id. (citing Molenda ¶ 80).  
+The Examiner also finds that Molenda teaches that its composition 
+comprises: (1) water; (2) nonionic conditioning agents, which can include 
+glycerin, at 3%; (3) organic solvents, including isopropanol, at 10 wt% or 
+less; (4) preservatives, including ethylene diamine tetraacetic acid, at 0.01–
+2.5%; (5) fragrances; (6) salts including sodium chloride; and (7) pH 
+adjusting agents.  Final Act. 4 (citing Molenda, Abstr., ¶¶ 22, 36, 38, 81, 84, 
+88, 128, Ex. 8–10). 
+The Examiner acknowledges that Molenda does not teach or suggest 
+the inclusion of bis-(C13–15 alkoxy) PG-amodimethicone, or the claimed 
+range for the concentration of water, dipalmitoylethylhydroxyethylmonium 
+methosulfate, cetyl esters, CIS alcohols, isotridecyl alcohol, and 
+hydroxyethylcellulose.  Final Act. 5.  The Examiner further acknowledges 
+that Molenda neither teaches nor suggests the claimed step of “after applying 
+the hair conditioning composition to the hair and optionally rinsing the hair 
+conditioning composition from the\ hair, cleansing the hair with a shampoo.”  
+Id.  
+The Examiner therefore points to Salvador, which teaches a hair 
+conditioning composition comprising about 20% to about 95% water, and 
+about 0.01% to about 10% of a hydrophobic silicone compound.  Final 
+Act. 5 (citing Salvador ¶¶ 43, 97).  The Examiner notes that Salvador 
+discloses that bis-(C13–C15 alkoxy) PG amodimethicone is a commercially 
+
+Appeal 2025-000420 
+Application 15/859,990 
+7 
+available hydrophilic silicone for use in the hair conditioner as a silicone 
+conditioning agent.  Id. (citing Salvador  ¶¶ 100, 105, 108).  The Examiner 
+also finds that Salvador teaches that the combination of a high melting point 
+fatty compound, such as cetyl stearate and cetyl palmitate (i.e., cetyl esters) 
+at about 0.1% to about 15%, together with a cationic surfactant and an 
+aqueous carrier, provides a gel matrix.  Id. at 5–6 (citing Salvador ¶ 86, 88, 
+91).  The Examiner finds Salvador teaches that such a gel matrix is suitable 
+for providing various conditioning benefits, such as a slippery and slick feel 
+on wet hair, hair softness, moisturized feel, and fly-away control on dry hair.  
+Id.   
+The Examiner further finds that Salvador teaches that inclusion of a 
+cellulose polymer, hydroxyethyl cellulose, at about 0.001% to about 5%, is 
+useful in providing hair volume control benefits, while not decreasing 
+conditioning benefits, such as fly-away control.  Id. (citing Salvador ¶¶ 46, 
+48, 50). 
+The Examiner next turns to Walker, which teaches a hair conditioning 
+composition comprising from about 0.1% to about 20% of one or more 
+unsaturated fatty materials selected from a group consisting of: (1) an 
+unsaturated fatty acid; (2) an unsaturated fatty alcohol; (3) an unsaturated 
+amine; (4) an unsaturated amide; and (5) an unsaturated phospholipid.  Final 
+Act. 6 (citing Walker Abstr.).  The Examiner finds that Walker teaches 
+inclusion of about 0.05% to 20% of a lipid enhancing agent, including 
+tridecyl alcohol (1-tridecanol, tridecanol, isotridecanol/isotridecyl alcohol), 
+myristyl alcohol (1-tetradecanol), pentadecyl alcohol (1-pentadecanol, 
+pentadecanol, i.e., C-15 alcohol), cetyl alcohol, stearyl alcohol and cetearyl 
+alcohol.  Id. (citing Walker ¶ 31, Tables 1–9).  The Examiner finds that 
+
+Appeal 2025-000420 
+Application 15/859,990 
+8 
+Walker defines a “lipid enhancing agent” as a material which further 
+improves upon the hair fiber benefit provided by the lipid, such as decreased 
+combing.  Id. (citing Walker ¶ 24). 
+The Examiner then points to Bourdin, which teaches hair 
+compositions, preferably conditioners.  Final Act. 6 (citing Bourdin, 10).  
+The Examiner finds that Bourdin teaches surfactants for use in its 
+compositions, including behenyltrimethylammonium chloride, 
+cetyltrimethylammonium chloride, and 
+dipalmitoylethylhydroxyethylammonium methosulphate at between 0.01 and 
+30% by weight.  Id. (citing Bourdin, 4, claims 6, 7). 
+The Examiner finds that Parsons teaches that “the internet’s current 
+favorite hair hack” is the “Reverse Wash System”  Final Act. 6 (quoting 
+Parsons, 2).  The Examiner notes that Parsons states that the “Reverse Wash 
+System” is “a method to achieve more voluminous hair by applying 
+conditioner before shampoo.”  Id. (quoting Parsons, 2 (emphasis in 
+original)).  The Examiner finds that Parsons teaches that the Reverse Wash 
+System consists of the following steps: “1 Apply conditioner to wet hair. Let 
+it soak in for a minute or more. Rinse! 2 Shampoo as you would normally. 
+So there you have it!”  Id. at 7 (quoting Parsons 3).  The Examiner finds that 
+Parsons thus teaches applying a hair conditioner to hair immediately prior to 
+cleansing the hair.  Id.   
+The Examiner finds that Parsons teaches that the Reverse Wash 
+System permits wide-toothed combs to easily comb through hair and that the 
+conditioned hair had noticeably increased volume.  Final Act. 7 (citing 
+Parsons 5, 6).  The Examiner notes that Parsons teaches that the conditioned 
+
+Appeal 2025-000420 
+Application 15/859,990 
+9 
+hair still had volume even after heat styling, and was soft and frizz-free in 
+addition to having more volume.  Id. (citing Parsons, 11, 15). 
+The Examiner concludes that it would have been obvious to a person 
+of ordinary skill in the art to have modified Molenda’s composition and 
+method by modifying the concentration of water to about 20% to about 95%, 
+the concentration of glycerin to 3%, and the concentration of isopropanol to 
+an amount exceeding 10%, and adding about 0.01% to about 10% bis-(C13–
+C15 alkoxy) PG amodimethicone, about 0.1% to about 15% cetyl stearate 
+and cetyl palmitate (i.e., cetyl esters), 0.001% to about 5% 
+hydroxyethylcellulose, about 0.05% to 20% of lipid enhancing agents 
+including tridecyl alcohol (1-tridecanol, tridecanol, isotridecanol/isotridecyl 
+alcohol) and pentadecyl alcohol, and 0.01–30% by weight 
+dipalmitoylethylhydroxyethylammonium methosulphate, and applying the 
+hair conditioning composition to wet hair, letting it soak in for a minute or 
+more, optionally rinsing, and then shampooing, as suggested by the 
+combined teachings of Molenda, Salvador, Walker, Bourdin, and Parsons.  
+Final Act. 7. 
+The Examiner reasons that the prior art references are all directed to 
+hair conditioners which condition and volumize hair and a method to do so.  
+Final Act. 8.  The Examiner notes that bis-(C13–C15 alkoxy) PG 
+amodimethicone is a hydrophilic silicone hair conditioning agent; and that 
+dipalmitoylethylhydroxyethylmonium methosulfate is a preferred surfactant 
+for hair conditioners that is functionally equivalent to Molenda’s 
+behentrimonium chloride and cetyltrimethyl ammonium chloride hair 
+conditioning surfactants.  Id.  The Examiner also finds that cetyl stearate and 
+cetyl palmitate (i.e., cetyl esters) are high melting point fatty compounds 
+
+Appeal 2025-000420 
+Application 15/859,990 
+10 
+used in hair conditioners which interact with other reagents to produce a gel 
+matrix to provide conditioning benefits; and that tridecyl alcohol (1-
+tridecanol, tridecanol, isotridecanol/isotridecyl alcohol) and pentadecyl 
+alcohol (1-pentadecanol, pentadecanol; i.e., C-15 alcohol) are functionally 
+equivalent to Molenda’s fatty alcohols, all of which are taught as lipid 
+enhancing agents in hair conditioners.  Id. 
+Furthermore, the Examiner reasons that hydroxyethylcellulose is 
+cellulose polymer used in hair conditioners to provide hair volume control 
+benefits while not deteriorating conditioning benefits.  Id.  The Examiner 
+reasons that a skilled artisan would have been motivated to combine the 
+references, with a reasonable expectation of success, to meet the needs of 
+consumers by providing a composition and method for conditioning 
+damaged hair which increases conditioning and decreases combing and fly-
+away control, while still providing noticeably increased volume.  Id. 
+ 
+ Analysis 
+We are not persuaded that the Examiner has satisfactorily established 
+a prima facie case that the claims on appeal would have been obvious over 
+the cited prior art. 
+Molenda, Salvador, Walker, and Bourdin, that are relied upon by the 
+Examiner as teaching the constituents, each present large numbers of 
+alternative constituents and/or ranges for each of those that the Examiner 
+relies upon.  By way of example, Molenda teaches over a hundred suitable 
+cationic polymers in addition to the claimed polyquaternium-53, including 
+polyquaternium-1 through polyquaternium-87, twenty-one silicone 
+
+Appeal 2025-000420 
+Application 15/859,990 
+11 
+quaternium species, and “polymers known with their CTFA category name 
+Quaternium” (e.g., 20 species listed), amongst others.  Molenda ¶¶ 23–26. 
+The Examiner concludes that a person of ordinary skill in the art 
+would have found it obvious to modify the composition of Molenda, with 
+the teachings of Salvador, Walker, and Bourdin by: 
+[M]odifying the amount of water to be about 20% to about 95%, 
+the amount of glycerin to be 3%,  and the amount of isopropanol 
+to an amount exceeding 10%, and adding about 0.01% to about 
+10% bis-(C13–C15 alkoxy) PG amodimethicone, about 0.1% to 
+about 15% cetyl stearate and cetyl pa lmitate (i.e. cetyl  esters), 
+0.001 to about 5% hydroxyethylcellulose, about 0.05% to 20%of 
+lipid enhancing agents  including tridecyl alcohol (1 -tridecanol, 
+tridecanol, isotridecanol/isotridecyl alcohol) and pentadecyl  
+alcohol (1-pentadecanol, pentadecanol; i.e. [,] 15 alcohols), and 
+0.01–30% by weight  dipalmitoylethylhydroxyethylammonium 
+methosulphate. 
+Final Act. 7–8.  The Examiner reasons that: 
+Bis-(C13–C15 alkoxy) PG amodimethicone is a hydrophilic 
+silicone hair conditioning agent; dipalmitoylethylhydroxy - 
+ethylmonium methosulfate is a preferred surfactant for hair 
+conditioners that is functionally equivalent to Molenda’s 
+behentrimonium chloride and cetyltrimethyl ammonium chloride 
+hair conditioning surfactants; cetyl stearate and cetyl pa lmitate 
+(i.e.[,] cetyl esters) are high melting point fatty compounds used 
+in hair conditioners which interact with other reagents to produce 
+a gel matrix to provide conditioning benefits; tridecyl alcohol (1-
+tridecanol, tridecanol, isotridecanol/isotridecyl alcohol)  and 
+pentadecyl alcohol (1 -pentadecanol, pentadecanol; i.e. c15 
+alcohol) functionally equivalent to  Molenda’s fatty alcohols all 
+of which are taught as lipid enhancing agents in hair 
+conditioners; and  hydroxyethylcellulose is cellulose polymer 
+used in hair conditioners to provide hair volume control benefits 
+while not deteriorating conditioning benefits. 
+Id. at 8.  The Examiner concludes that: 
+
+Appeal 2025-000420 
+Application 15/859,990 
+12 
+With regard to the recited pH range and amounts of bis-
+(C13–C15 alkoxy) PG amodimethicone/aminofunctional 
+silicone, divinyldimethicone/dimethicone copolymer/nonionic 
+silicone polymer polyquaternium-53/ampholytic polymer, 
+dipalmitoylethylhydroxyethylmonium methosulfat e, 
+behentrimonium chloride+ cetrimonium chloride/cationic 
+surfactant, water, hydroxyethyl cellulose/thickening agent, fatty 
+alcohol/non-silicone fatty compound, glycerin+ isopropanol/ 
+water-soluble solvent, the combined teachings Molenda, 
+Salvador, Walker and Bourdin suggest the  parameters with 
+amounts that overlap or fall within the claimed range. 
+Id. at 8–9. 
+We recognize that Molenda, Salvador, Walker, and Bourdin are all 
+directed to hair conditioner compositions.  Consequently, a mere mixing and 
+matching of known constituents disclosed by the various references as 
+components of hair conditioner compositions would likely be obvious to a 
+person of ordinary skill in the art if the resulting composition yields no more 
+than just another hair conditioner, even if drawing from amongst a diverse 
+possibility of alternatives.  See KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 
+416 (2007) (holding that the “combination of familiar elements according to 
+known methods is likely to be obvious when it does no more than yield 
+predictable results”).  In making such an obviousness determination, the 
+Court explained, “it will be necessary … to look to interrelated teachings of 
+multiple patents … and the background knowledge possessed by a person 
+having ordinary skill in the art, all in order to determine whether there was 
+an apparent reason to combine the known elements in the fashion claimed by 
+the patent at issue.”  Id. at 418. 
+However, we find that there is a larger problem with the Examiner’s 
+rejection of the claims on appeal. 
+
+Appeal 2025-000420 
+Application 15/859,990 
+13 
+Parsons is relied upon by the Examiner as teaching the limitations of 
+claim 39 reciting: 
+[A]pplying the hair conditioning composition to the hair before 
+applying a shampoo to the hair; 
+optionally rinsing the hair conditioning composition from the 
+hair; 
+after applying the hair conditioning composition to the hair and 
+optionally rinsing the hair conditioning composition from the 
+hair, cleansing the hair with a shampoo. 
+App. Br. 24 (Claims App’x). 
+Parsons refers to this procedure as the “Reverse Wash System.”  
+Parsons, 2.  However, Parsons expressly cautions the reader with a 
+“Warning: Not all shampoo and conditioners are created for this purpose. 
+You’re best using a system that’s designed to work in reverse.”  Id.; see also 
+id. at 3 (“[I]t’s recommended to use a shampoo-conditioner combo that’s 
+specifically formulated for this purpose [i.e., the reverse washing method]”).   
+Furthermore, Appellant’s Specification, and the Declaration of Dr. 
+Semra Senturk-Ozer (the “Senturk-Ozer Declaration”), a named inventor of 
+the claimed invention, disclose that hair conditioners formulated for the 
+reverse wash method recited in the claims were well known in the art at the 
+time of filing.  See Spec. Ex. 2(a) (comparing results of the claimed 
+composition “in a reverse wash routine with a commercial benchmark 
+reverse wash conditioner in a home use test.”); Senturk-Ozer Decl. ¶ 9 
+(testifying that the commercial benchmark reverse wash conditioner used in 
+Example 2(a) of the Specification was TRESemmé Beauty-Full Volume 
+Shampoo and Conditioner, which is also disclosed by Parsons as being “a 
+system that’s designed to work in reverse.”  Id. (citing Parsons 2–3)). 
+
+Appeal 2025-000420 
+Application 15/859,990 
+14 
+To summarize, hair conditioners formulated to work in the claimed 
+reverse wash method were known in the art at the time of Appellant’s filing.  
+However, none of the other references cited by the Examiner (Molenda, 
+Salvador, Walker, or Bourdin) teach or suggest that their hair conditioner 
+compositions are designed or formulated for a reverse wash method 
+application.  For example, Molenda teaches that “[t]he compositions of the 
+present invention can be either a conditioning-cleansing composition-
+shampoo or a conditioning composition typically used after use of cleansing 
+compositions.”  Molenda ¶ 14.  Molenda further teaches that, for an 
+exemplary embodiment “[t]he above composition was used as a leave-in 
+conditioner from a pump spray bottle on damaged hair which was freshly 
+washed and towel-dried.  In dry state it was observed that hair was easily 
+comb[-]able, had elasticity, volume and body.”  Id. ¶ 97; see also id. ¶ 99 
+(same). 
+Similarly, Salvador teaches that: 
+Although some consumers prefer the ease and 
+convenience of a shampoo which includes conditioners, a 
+substantial proportion of consumers prefer the more 
+conventional conditioner formulations which are applied to the 
+hair as a separate step from shampooing, usually subsequent to 
+shampooing.  Conditioning formulations can be in the form of 
+rinse-off products or leave -on products, and can be in the form 
+of an emulsion, cream, gel, spray, and mousse. 
+Salvador ¶ 6.  And Walker teaches that: 
+The most common hair care rinse -off compositions are 
+shampoos and rinse -off conditioners.  Shampoos contain 
+detersive surfactants and they are used for cleansing hair, while 
+rinse-off conditioners are typically used after shampoo, they are 
+substantially free of detersive surfactants, they contain 
+conditioning agents to improve hair feel, reverse hair damage and 
+protect against further damage. 
+
+Appeal 2025-000420 
+Application 15/859,990 
+15 
+Walker ¶ 15. 
+None of the references cited by the Examiner teach or suggest that 
+their compositions are formulated, or suitable, for application in the reverse 
+wash system recited in the claims.  The Examiner has therefore not 
+established a nexus between the commercially-available reverse wash 
+systems that were known in the art, as taught by Parsons, and the 
+compositions of Molenda, Salvador, Walker, or Bourdin, which do not teach 
+or suggest that their compositions are suitable for that method.  In other 
+words, the Examiner has not established a reason why a person of ordinary 
+skill in the art would have been motivated, with a reasonable expectation of 
+success, to combine the teachings of Molenda, Salvador, Walker, and 
+Bourdin to arrive at a hair conditioner composition that could be used in the 
+claimed reverse-wash manner.  This is especially so in view of the teachings 
+of Parsons, cautioning the viewer against using hair conditioners not 
+specially formulated for the reverse wash method. 
+Because we find that the Examiner has thus failed to establish a prima 
+facie case that the claims are obvious over the cited prior art, we reverse the 
+Examiner’s rejection of independent claims 39 and 44.  Furthermore, 
+because dependent claims 40–43 and 45 depend from the independent 
+claims, we similarly reverse the Examiner’s rejection of those claims. 
+ 
+V. CONCLUSION 
+The rejection of claims 39–45 as unpatentable under 35 U.S.C. § 103 
+is reversed. 
+REVERSED 
+ 
+
+Appeal 2025-000420 
+Application 15/859,990 
+16 
+DECISION SUMMARY 
+Claim(s) 
+Rejected 
+35 U.S.C. 
+§ Reference(s)/Basis Affirmed Reversed 
+39–45 103 Molenda, 
+Salvador, Walker, 
+Bourdin, Parsons 
+ 39–45 
+ 
+ 

@@ -1,0 +1,320 @@
+2024003699 2025 08 25 09abf05b 3b0e 484d 8817 0fd2ee3dc740
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/425,468 07/23/2021 Andrea ANTHOLZNER 080437.PE688US 5519
+23911 7590 08/26/2025
+CROWELL & MORING LLP
+INTELLECTUAL PROPERTY GROUP
+P.O. BOX 14300
+WASHINGTON, DC 20044-4300
+EXAMINER
+SU, STEPHANIE T
+ART UNIT PAPER NUMBER
+3662
+NOTIFICATION DATE DELIVERY MODE
+08/26/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+edocket@crowell.com
+mloren@crowell.com
+tche@crowell.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+—————— 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+—————— 
+Ex parte ANDREA ANTHOLZNER and DANIELA CALINSKI 
+—————— 
+Appeal 2024-003699 
+Application 17/425,468 
+Technology Center 3600 
+—————— 
+ 
+Before LINDA E. HORNER, JILL D. HILL, and  
+LISA M. GUIJT, Administrative Patent Judges. 
+GUIJT, Administrative Patent Judge. 
+DECISION ON APPEAL 
+STATEMENT OF THE CASE 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the 
+Examiner’s decision to reject claims 11–21.  See Final Act. 1.  We have 
+jurisdiction under 35 U.S.C. § 6(b). 
+We AFFIRM IN PART. 
+CLAIMED SUBJECT MATTER 
+Appellant’s invention relates to “a method and system for onboard 
+diagnosis (OBD) in a vehicle, in particular, a motor vehicle,” and “to the 
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42.  Appellant 
+identifies the real party in interest as Bayerische Motoren Werke 
+Aktiengesellschaft.  Appeal Br. 2. 
+
+Appeal 2024-003699 
+Application 17/425,468 
+2 
+improved coverage of a real driving behavior to carry out onboard 
+diagnoses, for example, of exhaust-gas-influencing systems or subsystems in 
+vehicles.”  Spec. ¶ 1.  Claims 11, 18, and 19, reproduced below as the 
+independent claims on appeal, represent the claimed subject matter. 
+11.  A method for onboard diagnosis in a vehicle, the 
+method comprising: 
+determining whether one or more release conditions for a 
+start of an onboard diagnosis are fulfilled; 
+upon determining that at least one release condition of 
+the one or more release conditions is not fulfilled, controlling at 
+least one vehicle function in such a way that the at least one 
+release condition is fulfilled; and 
+starting the onboard diagnosis. 
+18.  A computer program product comprising a non-
+transitory computer readable medium having stored thereon 
+program code which, when executed on one or more 
+processors, carries out acts of:  
+determining whether one or more release conditions for a 
+start of an onboard diagnosis are fulfilled; 
+upon determining that at least one release condition of 
+the one or more release conditions is not fulfilled, controlling at 
+least one vehicle function in such a way that the at least one 
+release condition is fulfilled; and 
+starting the onboard diagnosis. 
+19.  A system for onboard diagnosis in a vehicle, the 
+system comprising one or more processors which are 
+configured to execute a method comprising:  
+determining whether one or more release conditions for a 
+start of an onboard diagnosis are fulfilled; 
+
+Appeal 2024-003699 
+Application 17/425,468 
+3 
+upon determining that at least one release condition of 
+the one or more release conditions is not fulfilled, controlling at 
+least one vehicle function in such a way that the at least one 
+release condition is fulfilled; and 
+starting the onboard diagnosis. 
+Appeal Br. 12–14 (Claims App.). 
+THE REFERENCES 
+The Examiner relies on the following references to reject the claims: 
+Name Reference Date 
+Yamaki US 2002/0161495 A1 Oct. 31, 2002 
+Inoue US 2009/0025996 A1 Jan. 29, 2009 
+Tomura US 2012/0150406 A1 June 14, 2012 
+ 
+THE REJECTIONS 
+The Examiner maintains the following rejections: 
+Claim(s) Rejected 35 U.S.C. § Reference(s)/ Basis 
+11–16, 18–21 103 Yamaki, Tomura 
+17 103 Yamaki, Tomura, Inoue 
+ 
+OPINION 
+Obviousness in view of Yamaki and Tomura:  Claims 11–16 and 18–21 
+Independent claim 11 and dependent claims 12–16  
+ The Examiner finds that claim 11 is “properly rejected under Yamaki 
+due to the conditional language.”  Ans. 4.  In support, the Examiner finds 
+that “[t]he method of claim 11 contains contingent limitations (e.g., ‘upon 
+determining’) and includes steps that are not required to be performed when 
+the conditional precedent is not met.”  Id.  The Examiner concludes, 
+
+Appeal 2024-003699 
+Application 17/425,468 
+4 
+therefore, that “the contingent step is not required by the broadest reasonable 
+interpretation of the claim.”  Id. at 4–5 (citing MPEP 2111.04, Section II; Ex 
+parte Schulhauser, Appeal No. 2013-007847, 2016 WL 6277792 (PTAB 
+Apr. 28, 2016) (precedential)). 
+Appellant argues that the step of controlling at least one vehicle 
+function “is not contingent upon a condition precedent,” but, rather, 
+“explicitly requires the step to be performed,” because the claim term 
+“upon” is distinguishable from the term “if” that was the subject of the 
+precedential decision in Schulhauser.  Reply Br. 3–4 (citing Ex parte Erhart, 
+Appeal No. 2019-004505 (PTAB Jan. 8, 2021) (routine decision)).   
+We are not persuaded by Appellant’s argument.  Claim 11 recites a 
+method that requires the performance of a step upon determining that at least 
+one release condition of the one or more release conditions is not fulfilled.  
+We agree with the Examiner that this claimed step is performed only if such 
+a determination is made and that this claimed step is not performed if such a 
+determination is not made.  Therefore, according to claim 11 as written, the 
+claimed step of controlling at least one vehicle function in such a way that 
+the at least one release condition is fulfilled is a conditional limitation, in 
+that it will only occur upon determining that at least one release condition of 
+the one or more release conditions is not fulfilled.  According to 
+Schulhauser, conditional steps employed in a method claim need not be 
+found in the prior art if, under the broadest reasonable construction, the 
+method need not invoke the steps.  2016 WL 6277792, at 5.  Thus, the 
+Examiner need not find that Tomura discloses the conditional limitation (i.e., 
+“upon determining . . . , controlling . . . .”).   
+
+Appeal 2024-003699 
+Application 17/425,468 
+5 
+The Examiner relies on Yamaki for disclosing the remaining steps of 
+claim 11, including the steps of merely determining whether one or more 
+release conditions for a start of an onboard diagnosis is fulfilled and starting 
+the onboard diagnosis.  Appellant does not apprise us of error in these 
+findings by the Examiner relevant to Yamaki.  See Appeal Br. 6–8 (arguing 
+that Yamaki “teaches away” from the Examiner’s proposed modification of 
+Yamaki to include the “upon determining” claim limitation, in view of 
+Tomura). 
+Accordingly, we sustain the Examiner’s rejection of independent 
+claim 11.  Claims 12 to 16 depend from independent claim 11 and further 
+limit the conditional step of controlling at least one vehicle function as 
+recited in claim 11, without changing the conditional nature of the claimed 
+subject matter under the broadest reasonable interpretation set forth supra.  
+Thus, we also sustain the Examiner’s rejection of claims 12 to 16 in view of 
+Yamaki. 
+Independent claim 18 
+Independent claim 18 recites “[a] computer program product” and, 
+therefore, we decline to apply Schulhauser in the interpretation of claim 18, 
+because claim 18 is not a method claim.  See Schulhauser, 2016 WL 
+6277792, at 7 (determining that a system claim requires structure for 
+performing the function should the condition occur). 
+The Examiner relies on Yamaki, which relates to an on-board vehicle 
+control unit with a self-diagnosis system (Yamaki ¶ 4), for disclosing, inter 
+alia, a computer program product with program code for carrying out the 
+acts of “determining whether one or more release conditions for a start of an 
+onboard diagnosis are fulfilled” and “starting the onboard diagnosis.”  Final 
+
+Appeal 2024-003699 
+Application 17/425,468 
+6 
+Act. 11 (citing Yamaki ¶ 64); see also Yamaki, Fig. 6 (depicting a flowchart 
+that illustrates determining whether a diagnosis running condition is 
+satisfied, and, if not, ending the diagnosis, and if so, continuing with the 
+diagnosis).   
+The Examiner determines that Yamaki fails to disclose the claimed 
+step of, upon determining that at least one release condition of one or more 
+release conditions is not fulfilled, controlling at least one vehicle function in 
+such a way that the at least one release condition is fulfilled.  Final Act. 11.   
+The Examiner relies on Tomura, which relates to stopping an engine 
+automatically when a predefined stopping condition is met (i.e., idle stop 
+control) (see, e.g., Tomura ¶ 3), for disclosing, generally, “an electrical 
+control unit system . . . [that] control[s] at least one vehicle function in a way 
+to fulfill a condition (“F=1” in S12) when it is not originally fulfilled (S10).”   
+Final Act. 6 (citing, e.g., Tomura ¶¶ 49, 59, Fig. 3).   
+The Examiner provides an annotated Figure 3 of Tomura, reproduced 
+below. 
+
+Appeal 2024-003699 
+Application 17/425,468 
+7 
+ 
+The Examiner’s annotated Figure 3 of Tomura depicts a flowchart of the 
+steps of a method for an idle stop control, wherein the Examiner has drawn a 
+box around steps S10, S12 and S14.  Final Act. 13.  The flowchart shows, as 
+an initial step S10, that an idle stop & start electrical control unit (ISS-ECU) 
+“determine[s] whether a value of an automatic stop flag F is 1 or 0, where 
+the value of 0 indicates that the automatic stopping of the engine 10 has not 
+been performed and the value of 1 indicates that the automatic stopping of 
+the engine 10 has been performed.”  Tomura ¶ 46.  The flowchart depicts 
+
+
+Appeal 2024-003699 
+Application 17/425,468 
+8 
+that if the condition of the automatic stopping of the engine 10 is “YES” 
+(i.e., “F=1”), the method continues by performing steps that are not relevant 
+to the Examiner’s findings with respect to the claim (i.e., steps S16, S18, 
+S20, and S22).  On the other hand, the flowchart depicts that if the condition 
+of the automatic stopping of the engine 10 is “NO” (i.e., “F=0”), the method 
+continues by performing step S12, which checks if certain stopping 
+conditions have been met, and, if such stopping conditions have been met, 
+the method continues to step S14, which performs “Automatic Stopping,” 
+such that “F=1”.   
+ The Examiner finds that “the value ‘F=1’ is a ‘release condition,’” as 
+claimed (Ans. 6), and, therefore, Tomura’s Figure 3 illustrates that upon 
+determining that at least one release condition is not fulfilled (i.e., “F=0”), 
+Tomura teaches “controlling at least one function in such a way that the at 
+least one release condition is fulfilled” by controlling the automatic stopping 
+of the vehicle, such that F=1.  Id.; see also Final Act. 9–10 (also referring to 
+step S12).  Notably, Tomura teaches that, when restarting the engine, it is 
+important “to ensure the driving force of the vehicle and proper application 
+of the braking force to the wheel.”  Tomura ¶ 10. 
+ The Examiner reasons that it would have been obvious to modify 
+Yamaki’s onboard diagnosis (OBD) system, which monitors vehicle 
+maintenance conditions, “to incorporate controlling at least one vehicle 
+function such that a condition is fulfilled,” as taught in Tomura, “‘to ensure 
+the driving force of the vehicle and proper application of the braking force to 
+the wheel, according to various situations of the vehicle.’”  Final Act. 13 
+(quoting Tomura ¶ 10).  The Examiner further reasons that “[o]ne having 
+ordinary skill in the art would further recognize that it would have been 
+
+Appeal 2024-003699 
+Application 17/425,468 
+9 
+obvious to perform controlling in a way (e.g., regulating engine status) that 
+would satisfy a release condition, such as the stopping of a vehicle engine, 
+because stopping the vehicle to perform a vehicle diagnosis would enhance 
+reliability of the vehicle control.  Ans. 5 (citing Tomura ¶ 40). 
+ Appellant argues that “the portion of Tomura cited in support of a 
+motivation to modify Yamaki is not relevant to the quoted claim feature.”  
+Appeal Br. 8; see also id. at 10 (indicating that the same arguments 
+presented for independent claim 11 are being made for independent claims 
+18 and 19).  In support, Appellant submits that Tomura, as relied on by the 
+Examiner, relates to “vehicle-mounted devices during automatic stoppage of 
+the engine.”  Id. at 8.   
+ We are persuaded by Appellant’s argument.  In the context of idle 
+stop control, Tomura discloses the advantages of ensuring sufficient vehicle 
+driving force and proper brake application in the event the automatic stop 
+has not been performed; however, we agree with Appellant that the 
+Examiner does not provide a sufficient factual basis as to why these 
+advantages support modifying Yamaki’s OBD system relative to 
+maintenance conditions.  In other words, the Examiner does not sufficiently 
+explain why ensuring vehicle driving force and proper brake application in 
+the context of stopping an engine is relevant to determining whether 
+Yamaki’s diagnosis release conditions are satisfied to complete an onboard 
+diagnostic check of a vehicle.  The Examiner’s characterization of Tomura’s 
+automatic stoppage as “regulating engine status” appears to be improper 
+hindsight, as Appellant’s Specification discloses, in the context of 
+controlling a vehicle function to fulfill a release condition in order to start 
+the onboard diagnosis, that “the release conditions can be achieved by 
+
+Appeal 2024-003699 
+Application 17/425,468 
+10 
+controlling or regulating at least one vehicle function, for example, a simple 
+regulation of the engine status.”  Spec. ¶ 9.  
+ Accordingly, we do not sustain the Examiner’s rejection of 
+independent claim 18. 
+Independent claim 19 and dependent claims 20 and 21 
+ The Examiner relies on the same deficient reasoning from Tomura in 
+the rejection of independent claim 19 as relied on in the rejection of 
+independent claim 18.  Final Act. 15–16.  Therefore, for the same reasons as 
+stated supra, we also do not sustain the Examiner’s rejection of independent 
+claim 19 and claims 20 and 21 depending therefrom.   
+ 
+Obviousness in view of Yamaki, Tomura, and Inoue:  Dependent claim 17 
+ Claim 17 depends from independent claim 11 and, similar to 
+dependent claims 12 to 16, further limits the conditional step of controlling 
+at least one vehicle function as recited in claim 11, without changing the 
+conditional nature of the claimed subject matter under the broadest 
+reasonable interpretation set forth supra.  Thus, we also sustain the 
+Examiner’s rejection of claim 17 in view of Yamaki. 
+  
+
+Appeal 2024-003699 
+Application 17/425,468 
+11 
+CONCLUSION 
+The Examiner’s rejection of claims 11–17 is affirmed. 
+The Examiner’s rejection of claims 18–21 is reversed. 
+DECISION SUMMARY 
+The following table summarizes our decision: 
+Claim(s) Rejected 35 U.S.C. § Reference(s)/ Basis Affirmed Reversed 
+11–16, 18–21 103 Yamaki, Tomura 11–16 18–21 
+17 103 Yamaki, Tomura, Inoue 17  
+Overall Outcome   11–17 18–21 
+ 
+ 
+TIME PERIOD FOR RESPONSE 
+No time period for taking any subsequent action in connection with this 
+appeal may be extended under 37 C.F.R. § 1.136(a).  See 37 C.F.R. § 
+1.136(a)(1)(iv). 
+AFFIRMED IN PART 
+ 
+ 

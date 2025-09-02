@@ -1,0 +1,214 @@
+2025000834 2025 08 26 726f0f94 d874 4409 ae6d b9e141e2eb43
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/231,864 04/15/2021 Ehsan Younessian 102005.012780 2904
+71581 7590 08/27/2025
+BakerHostetler / Comcast
+1735 Market Street
+Suite 3300
+Philadelphia, PA 19103-7501
+EXAMINER
+SHIBRU, HELEN
+ART UNIT PAPER NUMBER
+2484
+NOTIFICATION DATE DELIVERY MODE
+08/27/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+eofficemonitor@bakerlaw.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+—————— 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+—————— 
+Ex parte EHSAN YOUNESSIAN and RENXIANG LI 
+—————— 
+Appeal 2025-000834 
+Application 17/231,864 
+Technology Center 2400 
+—————— 
+ 
+Before JENNIFER L. McKEOWN, NABEEL U. KHAN, and 
+MICHAEL J. ENGLE, Administrative Patent Judges. 
+KHAN, Administrative Patent Judge. 
+DECISION ON APPEAL 
+STATEMENT OF THE CASE 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the 
+Examiner’s decision to reject claims 1–7 and 21–41.2  See Final Act. 1.  We 
+have jurisdiction under 35 U.S.C. § 6(b). 
+We REVERSE. 
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42.  Appellant 
+identifies the real party in interest as Comcast Cable Communications, LLC. 
+Appeal Br. 1. 
+2 We note that claims 8–20 are canceled.  Appeal Br. 15 (Claims App.).   
+
+Appeal 2025-000834 
+Application 17/231,864 
+2 
+CLAIMED SUBJECT MATTER 
+The subject matter relates to techniques for analyzing content.  Spec. 
+¶ 2.  The Specification describes the invention as follows: 
+A content stream (e.g., video stream) may be generated based on 
+source content (e.g., a video file).  Imaging analysis may be used 
+to detect scenes, scene boundaries, and/or scene durations of the 
+content stream.  Scenes identified in the content stream may be 
+compared with scenes associated with the source  content. 
+Transformation and other variations in content quality may result 
+in scene detection in  the video stream that is inconsistent with 
+the scenes associated with the source file.  A matching process 
+may be used that includes modifying scene boundaries 
+associated with the source  content.  Multiple scenes may be 
+merged as a single scene, and the merged scene may be compared 
+with detected scenes of the video stream.  The matching process 
+may be iterative to  allow for multiple rounds of scene 
+modification and comparison.  Results of the matching process  
+may be used to generate analytics, send notifications, cause 
+actions to be performed, or a combination thereof. 
+Id. 
+Claim 1, reproduced below, illustrates the claimed subject matter: 
+1. A method comprising: 
+ comparing first scene boundaries associated with a video 
+stream and second scene boundaries associated with a source 
+video used to generate the video stream; 
+ determining, based on the comparing, a mismatch 
+between the first scene boundaries and the second scene 
+boundaries; 
+ determining, based on the determining the mismatch and 
+by removing one or more of the second scene boundaries, 
+modified second scene boundaries; 
+ determining, based on comparing the first scene 
+boundaries and the modified second scene boundaries, a match 
+or a mismatch; and 
+
+Appeal 2025-000834 
+Application 17/231,864 
+3 
+ processing, based on the match or the mismatch, the 
+video stream. 
+REFERENCES 
+The Examiner relies on the following references to reject the claims: 
+Name Reference Date 
+ Catalano  US 10,789,990 B2  Sept. 29, 2020 
+ Zhao  US 2019/0294887 A1  Sept. 26, 2019 
+ 
+REJECTIONS 
+1. Claims 1–6, 21–26, 28–33, and 35–40 stand rejected under 35 
+U.S.C. § 102(a)(1) as anticipated by Zhao.  Final Act. 5–7. 
+2. Claims 7, 27, 34, and 41 stand rejected under 35 U.S.C. § 103 
+as unpatentable over Zhao and Catalano.  Final Act. 8–9. 
+OPINION 
+REJECTION UNDER 35 U.S.C. § 102 
+Independent Claims 1, 21, 28, and 35 
+Claim 1 recites “comparing first scene boundaries associated with a 
+video stream and second scene boundaries associated with a source video 
+used to generate the video stream.”  Appeal Br. 14 (Claims App.).  Claims 
+21, 28, and 35 each recite commensurate limitations.  Id. at 15, 17, 18. 
+The Examiner finds Zhao teaches the aforementioned limitation.  
+Final Act. 5 (citing Zhao ¶¶ 36, 45, 51–53, FIG. 3).  Zhao describes 
+receiving image/video output from a special electronic device such as digital 
+camera, video camera and/or network camera and acquiring a current video 
+frame from the received video (i.e., the input video).  Zhao ¶¶ 36, 45, 51, 
+FIG. 3 (S310).  Zhao also describes acquiring a scene model, which is 
+
+Appeal 2025-000834 
+Application 17/231,864 
+4 
+obtained based on the current video frame and the previous video frame of 
+the current video frame.  Id. ¶¶ 45, 52, FIG. 3 (S320).  Zhao further 
+describes determining whether a visual element model in the scene model is 
+the “matched visual element model” or the “unmatched visual element 
+model” based on the difference between the appearance feature of the visual 
+element model and appearance feature of visual element in the video frame 
+corresponding to the visual element model.  Id. ¶ 53, FIG. 3 (S330).  For 
+example, Zhou looks to the similarity between the texture feature/color 
+feature/illumination feature of the visual element model and the texture 
+feature/color feature/illumination feature of visual element corresponding to 
+the visual element model.  Id. ¶ 53.  According to Zhao, if the determined 
+similarity is equal to or greater than a predefined threshold value, the visual 
+element model is determined as the “matched visual element model,” and if 
+not, the visual element model is determined as the “unmatched visual 
+element model.”  Id. 
+Appellant argues that “Zhao is completely unrelated to comparing any 
+kind of data associated with a video stream and data associated with a source 
+video used to generate the video stream.”  Appeal Br. 4.  Appellant argues 
+that “[i]ndeed, there is never a discussion in Zhao of both a video stream and 
+a source video used to generate the video stream on the same device that 
+does the foreground processing.”  Id. at 5.  Appellant argues that in Zhao, 
+“[t]here is only the simple input of a single video, and that video is 
+processed (without generating a new video stream) to detect foreground.”  
+Id. at 6.  
+We are persuaded of Examiner error by Appellant’s arguments.  “A 
+claim is anticipated only if each and every element as set forth in the claim is 
+
+Appeal 2025-000834 
+Application 17/231,864 
+5 
+found, either expressly or inherently described, in a single prior art 
+reference.”  Verdegaal Bros., Inc. v. Union Oil Co. of Cal., 814 F.2d 628, 
+631 (Fed. Cir. 1987).  Claim 1 recites “comparing first scene boundaries 
+associated with a video stream and second scene boundaries associated with 
+a source video used to generate the video stream,” but we do not discern 
+from the relied upon portions of Zhao that Zhao discloses comparing both 
+the video stream and source video used to generate the video stream.  
+Appeal Br. 14 (Claim App.) (emphasis added).  As Appellant points out, the 
+“t-th video frame” described in Zhao “is not a ‘video stream’ at all, but a 
+single frame.”  Appeal Br. 7.  The Examiner’s rejection does not provide 
+sufficient evidence or reasoning why Zhao’s description of acquiring a 
+current video frame from the received input video and a scene model 
+obtained based on the current video frame and the previous video frame 
+discloses the claimed video stream generated by a source video.   
+Accordingly, we do not agree that Zhao anticipates claim 1 and we do 
+not sustain the Examiner’s rejection of claim 1 under 35 U.S.C. § 102(a)(1).  
+We also do not sustain the rejection of independent claims 21, 28, and 35, 
+which recite similar limitations and were rejected under the same basis.  See 
+Final Act. 7.  Finally, we do not sustain the rejection of claims 2–6, 22–26, 
+29–33, and 36–40 because they depend from one of claims 1, 21, 28, or 35. 
+REJECTION UNDER 35 U.S.C. § 103 
+Claims 7, 27, 34, and 41 
+Claim 7 depends from claim 1 and further recites “comparing the first 
+scene boundaries of the video stream and the second scene boundaries 
+associated with the source video used to generate the video stream comprises 
+comparing scene start times and scene durations of the second scene 
+
+Appeal 2025-000834 
+Application 17/231,864 
+6 
+boundaries with scene start times and scene durations of the first scene 
+boundaries.”  Appeal Br. 15 (Claims App.).  Claim 27 depending from claim 
+21, claim 34 depending from claim 28, and claim 41 depending from claim 
+35 each recite commensurate limitations.  Id. at 17, 18, 20.   
+The Examiner rejected claims 7, 27, 34, and 41 under 35 U.S.C. § 103 
+as unpatentable over Zhao and Catalano.  Final Act. 8–9.  The Examiner 
+does not rely on Catalano to remedy the deficiencies in Zhao with respect to 
+the independent claims discussed above.  Accordingly, we do not sustain the 
+Examiner’s obviousness rejection of claims 7, 27, 34, and 41 for the same 
+reasons given for the independent claims from which they depend. 
+CONCLUSION 
+The Examiner’s rejections are REVERSED. 
+DECISION SUMMARY 
+The following table summarizes our decision: 
+Claim(s) Rejected 35 
+U.S.C. § 
+Reference(s)/ 
+Basis Affirmed Reversed 
+1–6, 21–26, 28–33, 
+35–40 
+ 102  Zhao  1–6, 21–26, 28–33, 
+35–40 
+7, 27, 34, 41  103  Zhao, Catalano  7, 27, 34, 41 
+Overall Outcome    1–7, 21–41 
+ 
+ 
+REVERSED 
+ 

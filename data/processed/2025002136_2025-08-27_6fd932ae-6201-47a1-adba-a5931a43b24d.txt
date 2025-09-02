@@ -1,0 +1,655 @@
+2025002136 2025 08 27 6fd932ae 6201 47a1 adba a5931a43b24d
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/933,086 09/17/2022 William Shatner Shatner-Button 8146
+74162 7590 08/28/2025
+Law Office of Scott C Harris Inc
+PO Box 1389
+Rancho Santa Fe, CA 92067
+EXAMINER
+QIAN, SHELLY X
+ART UNIT PAPER NUMBER
+2163
+NOTIFICATION DATE DELIVERY MODE
+08/28/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+harris@schiplaw.com
+uspto@schiplaw.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+____________________
+
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+____________________
+
+Ex parte WILLIAM SHATNER, SCOTT C. HARRIS, and
+BENJAMIN J. KWITEK
+______________________
+
+Appeal 2025-002136
+Application 17/933,086
+Technology Center 2100
+____________________
+
+
+Before ERIC S. FRAHM, JASON J. CHUNG, and SCOTT B. HOWARD,
+Administrative Patent Judges.
+
+FRAHM, Administrative Patent Judge.
+
+
+DECISION ON APPEAL
+
+STATEMENT OF THE CASE
+Appellant1 appeals under 35 U.S.C. § 134(a) from the final rejection
+of claims 1–12 and 14–19, which constitute all pending claims on appeal.
+
+1 We use the word “Appellant” to refer to “applicant” as defined in
+37 C.F.R. § 1.42 (2021). “The word ‘applicant’ when used in this title refers
+to the inventor or all of the joint inventors, or to the person applying for a
+patent as provided in §§ 1.43, 1.45, or 1.46.” 37 C.F.R. § 1.42(a). Appellant
+identifies William Shatner, Scott C. Harris, and Benjamin J. Kwitek as the
+real parties in interest (Appeal Br. 2).
+
+Appeal 2025-002136
+Application 17/933,086
+
+2
+Claim 13 has been canceled (see Amendment filed May 25, 2023, p. 6). We
+have jurisdiction under 35 U.S.C. § 6(b).
+We AFFIRM.
+
+DISCLOSED AND CLAIMED INVENTION
+Appellant’s disclosed invention, entitled “Smartphone Organization
+System and Application” (see Title), pertains to methods and systems of
+operating a file system on a portable computing device (e.g., a smartphone).
+More particularly, Appellant’s disclosed and claimed invention involves
+assisting users in navigating and accessing information and websites
+pertaining to a specific location by determining a user is at the specified
+location (Spec. ¶¶ 9–12; Abstract; claims 1, 15, 17). Independent claims 1,
+15, and 17 are similar in scope and are illustrative of the claimed subject
+matter.
+Claim 1 is illustrative of the claimed subject matter:2
+1. A programmed system for operating on a portable
+computing device, comprising:
+a portable computing device having a processor, memory,
+and display, the memory storing plural files on the computing
+device, and the processor programmed to receive an indication
+from a user of the portable computing device, that a current file
+is an important file among the plural files that are stored on the
+computing device;
+the processor operating to characterize the current file
+according to information about the current file, including
+
+2 Independent claims 1, 15, and 17 recite commensurate subject matter
+pertaining to a programmed system for operating on a portable computing
+device (claim 1), a method of operating a file system on a portable
+computing device (claims 15 and 17) including determining that a user is at
+a specified location.
+
+Appeal 2025-002136
+Application 17/933,086
+
+3
+characterized information that is determined by the processor to
+represent contents of the current file;
+the processor operating to indicate the current file is an
+important file, and to store the characterized information about
+the important file;
+wherein there are multiple stored important files,
+the processor operating to receive an indication from a
+user that they want an important file,
+the processor automatically determining a current context
+of the portable computing device, the current context including a
+location of the computing device, and the processor using the
+current context to search the information about the important
+files that are stored, and to find at least one match between the
+current context of the computing device and the characterized
+information about the stored important files, where the at least
+one match is returned to the user as the important file,
+wherein the processor accesses a global database of
+information related to contents of files that have been
+characterized by at least one person other than the user when the
+at least one person other than the user was at a specified location,
+and where [A] the processor determines the user at the
+specified location, and uses a file that was characterized by the
+at least one person other than the at least one person was at the
+specified location, [B] to determine the at least one match by
+finding a file that matches the file that has been characterized by
+the people other than the user at the specified location.
+
+Appeal Br. 42–43, Claims Appendix (formatting, bracketed material, and
+emphases added).
+15. A method of operating a file system on a portable
+computing device, comprising:
+receiving a file on the portable computing device;
+receiving an indication from a user of the portable
+computing device that the file is to be used later, and responsive
+to receiving said indication, characterizing the file according to
+characterized information about the file; and storing the file
+along with the characterized information about the file as a stored
+file;
+
+Appeal 2025-002136
+Application 17/933,086
+
+4
+receiving global information from other at least one other
+user, [C] each global information indicating a specified file that
+was used by the at least one other user when the at least one other
+user was at a specified location;
+[D] determining that the user is at the specified location,
+responsive to the determining that the user is at the
+specified location, [E] using the global information obtained
+from the at least one other user to find one of the stored files that
+matches to the specified file that was used at the specified
+location by another user; and
+returning the one stored file to the user responsive to the
+user being at the specified location and using the global
+information.
+
+Appeal Br. 46–47, Claims Appendix (formatting, bracketed material, and
+emphases added).
+
+17. A method of operating a file system on a portable
+computing device, comprising:
+receiving a file on the portable computing device;
+receiving an indication from a user of the portable
+computing device that the file is to be used later, and responsive
+to receiving said indication, characterizing the file according to
+characterized information about the file; and
+storing the file along with the characterized information
+about the file as a stored file;
+wherein there are multiple stored files;
+[F] determining that the user is at a first location , and
+receiving from the user information about which of the stored
+files is relevant to the first location;
+[G] using the information about which of the stored files
+is relevant to the first location as global information, and [H]
+providing the global information to other users who are at the
+first location and cannot identify a desired file at the first
+location.
+
+
+Appeal 2025-002136
+Application 17/933,086
+
+5
+Appeal Br. 47–48, Claims Appendix (formatting, bracketed material, and
+emphases added).
+
+REJECTIONS
+The Examiner made the following rejections:
+(1) The Examiner provisionally rejected claim 15 under the judicially
+created doctrine of non-statutory, obviousness-type double patenting over
+the combination of Application No. 18/640,926 (claim 11), Akaezuwa (US
+2007/0130370 A1; published June 7, 2007), Bauersfeld et al. (US 6,189,024
+B1; Feb. 13, 2001), and Yi-Hsuan Yang et al., ContextSeer: Context Search
+and Recommendation at Query Time for Shared Consumer Photos, MM, pp.
+199–208 (October 26–31, 2008) (hereinafter, “Yang”). Final Act. 8–13;
+Ans. 3. Application No. 18/640,926 was abandoned on June 18, 2025, for a
+failure to respond to the Non-Final Office Action mailed November 19,
+2024, in that application. In addition, a Terminal Disclaimer was filed and
+approved in the instant application on November 25, 2024.
+Because Application No. 18/640,926 has been abandoned, there is no
+evidence before us (thus, no prima facie case of obviousness) to support the
+provisional double patenting rejection before us. In view of the foregoing,
+we sua sponte reverse the provisional double patenting rejection for a failure
+to present a prima facie case, and we will not discuss this rejection further,
+other than to include it in our conclusion.
+(2) The Examiner rejected claims 1–12 and 14–19 under 35 U.S.C.
+§ 101 as being directed to patent-ineligible subject matter (an abstract idea,
+e.g., a mental process), without significantly more. Final Act. 13–15; Ans.
+3–9.
+
+Appeal 2025-002136
+Application 17/933,086
+
+6
+(3) The Examiner rejected claims 1, 2, 14, 15, and 17 under 35 U.S.C.
+§ 103 as being unpatentable over Akaezuwa, Bauersfeld, and Yang. Final
+Act. 19–29.
+(4) The Examiner rejected claims 3 and 4 under 35 U.S.C. § 103 as
+being unpatentable over the combination of Akaezuwa, Bauersfeld, Yang,
+and Chien-Chih Yu et al., Personalized Location-Based Recommendation
+Services for Tour Planning in Mobile Tourism Applications, EC-WEB, pp.
+38–49 (2009) (hereinafter, “Yu”). Final Act. 29–31.
+(5) The Examiner rejected claim 5 under 35 U.S.C. § 103 as being
+unpatentable over the combination of Akaezuwa, Bauersfeld, Yang, and
+Chapman et al. (US 2006/0053010 A1; published March 9, 2006)
+(hereinafter, “Chapman”). Final Act. 31–32.
+(6) The Examiner rejected claims 6–10 under 35 U.S.C. § 103 as
+being unpatentable over the combination of Akaezuwa, Bauersfeld, Yang,
+and Mundinger et al. (US 2010/0228574 A1; Sept. 9, 2010) (hereinafter,
+“Mundinger”). Final Act. 32–35.
+(7) The Examiner rejected claim 11 under 35 U.S.C. § 103 as being
+unpatentable over the combination of Akaezuwa, Bauersfeld, Yang, and
+Toyoshima (US 2014/0184607 A1; published July 3, 2014). Final Act. 36.
+(8) The Examiner rejected claim 12 under 35 U.S.C. § 103 as being
+unpatentable over the combination of Akaezuwa, Bauersfeld, Yang, and
+Chapman. Final Act. 36–37.
+(9) The Examiner rejected claims 16, 18, and 19 under 35 U.S.C.
+§ 103 as being unpatentable over the combination of Akaezuwa, Bauersfeld,
+Yang, and Zhang et al., A Financial Ticket Image Intelligent Recognition
+
+Appeal 2025-002136
+Application 17/933,086
+
+7
+System Based on Deep Learning, KNOWLEDGE-BASED SYSTEMS 222, pp. 1–
+14 (March 23, 2021) (hereinafter, “Zhang”). Final Act. 37–40.
+In formulating the rejections, the Examiner relies on the base
+combination of Akaezuwa, Bauersfeld, and Yang, and in particular Yang
+individually, as teaching or suggesting the location features of claims 1
+(limitations A and B), 15 (limitations C, D, and E), and 17 (limitations F, G,
+and H) (see e.g., Final Act. 21 (claim 1), 26–27 (claim 15), 29 (claim 17);
+Ans. 11–15).
+
+ISSUES
+Based on Appellant’s arguments in the Appeal Brief (Appeal Br. 12–
+41), the following principal issues are presented on appeal:
+(1) Did the Examiner err in rejecting claims 1–12 and 14–19 as being
+directed to patent-ineligible subject matter (an abstract idea, e.g., a mental
+process), without significantly more?3
+(2) Did the Examiner err in rejecting claims 1–12 and 14–19 under
+35 U.S.C. § 103 as being unpatentable over the base combination of
+Akaezuwa, Bauersfeld, and Yang, because Yang, and thus the base
+combination, fails to teach or suggest determining the specific location of a
+user and providing files/information to other users about that location, as
+
+3 Based on Appellant’s arguments (see Appeal Br. 12–15), which only
+address independent claim 1 on the merits, and rely on those arguments for
+the eligibility of remaining independent claims 15 and 17, we select claim 1
+as representative of claims 1–12 and 14–19 rejected as being directed to
+patent-ineligible subject matter, without significantly more. See 37 C.F.R.
+§ 41.37(c)(1)(iv).
+
+Appeal 2025-002136
+Application 17/933,086
+
+8
+recited in independent claim 1, and as commensurately recited in remaining
+independent claims 15 and 17?
+
+ANALYSIS
+Issue (1): Eligibility
+Principles of Law
+Patent eligibility under § 101 is a question of law that may contain
+underlying issues of fact. “We review the [Examiner’s] ultimate conclusion
+on patent eligibility de novo.” Interval Licensing LLC v. AOL, Inc., 896
+F.3d 1335, 1342 (Fed. Cir. 2018) (citing Berkheimer v. HP Inc., 881 F.3d
+1360, 1365 (Fed. Cir. 2018)); see also SiRF Tech., Inc. v. Int’l Trade
+Comm’n, 601 F.3d 1319, 1331 (Fed. Cir. 2010) (“Whether a claim is drawn
+to patent-eligible subject matter is an issue of law that we review de novo.”).
+We have reviewed the rejections of claims 1, 3–8, 10–15, and 17–22
+in light of Appellant’s arguments. We adopt as our own the determinations
+and reasons set forth in the rejection from which this appeal is taken (see
+Final Act. 13–18) and in the Examiner’s Answer (see Ans. 3–9), to the
+extent consistent with our analysis below. We provide the following
+explanation to highlight and address specific arguments and determinations
+primarily for emphasis.
+United States Patent and Trademark Office Guidance
+on 35 U.S.C. § 101 and MPEP Eligibility Guidance
+An invention is patent-eligible if it claims a “new and useful process,
+machine, manufacture, or composition of matter.” See 35 U.S.C. § 101.4
+
+4 This threshold analysis of whether a claim is directed to one of the four
+statutory categories of invention, i.e., a process, machine, manufacture, or
+
+Appeal 2025-002136
+Application 17/933,086
+
+9
+The Supreme Court, however, has long interpreted 35 U.S.C. § 101 to
+include implicit exceptions: “‘[l]aws of nature, natural phenomena, and
+abstract ideas’ are not patentable.” Mayo Collaborative Servs. v.
+Prometheus Labs., Inc., 566 U.S. 66, 70 (2012) (quoting Diamond v. Diehr,
+450 U.S. 175, 185 (1981)).
+In January and October of 2019, the U.S. Patent and Trademark
+Office (“USPTO”) published revised guidance on the application of
+35 U.S.C. § 101. See 2019 Revised Patent Subject Matter Eligibility
+Guidance, 84 Fed. Reg. 50 (Jan. 7, 2019) (“2019 Revised Guidance”) and
+USPTO, October 2019 Update: Subject Matter Eligibility (the “October
+2019 Update”). “All USPTO personnel are, as a matter of internal agency
+management, expected to follow the guidance.” 84 Fed. Reg. at 51; October
+2019 Update at 1. We, therefore, refer to the MPEP for the Eligibility
+Guidance originally published in the Federal Register, particularly within
+Sections 2103 through 2106.07(c).
+Under MPEP § 2106, we first look to whether the claim recites:
+(1) any judicial exceptions, including certain groupings of abstract
+ideas (i.e., mathematical concepts, certain methods of organizing
+human activity such as a fundamental economic practice, or
+mental processes) (“Step 2A, Prong One”); and
+(2) additional elements that integrate the judicial exception into a
+practical application (“Step 2A, Prong Two”).5
+
+composition of matter, is referred to as “Step 1” in the patent-eligibility
+inquiry under 35 U.S.C. § 101.
+5 “Examiners evaluate integration into a practical application by: (1)
+identifying whether there are any additional elements recited in the claim
+beyond the judicial exception(s); and (2) evaluating those additional
+elements individually and in combination to determine whether they
+integrate the exception into a practical application.” MPEP § 2106.04(d)(II).
+
+Appeal 2025-002136
+Application 17/933,086
+
+10
+
+Category of Invention—Step 1
+We first determine whether the claim falls within a statutory category
+of invention. Representative claim 1 is a system or apparatus claim. As a
+machine or manufacture, claim 1 falls within one of the broad statutory
+categories of patent-eligible subject matter listed in 35 U.S.C. § 101.
+Because the claim falls into one of the statutory categories of patent-eligible
+subject matter, we proceed to Step 2A, Prong One, of the USPTO Eligibility
+Guidance, to determine whether the claim recites a judicial exception to
+patent eligibility.
+Reciting a Judicial Exception – Step 2A, Prong One
+Under Step 2A, Prong One, we first look to whether the claim recites
+any judicial exceptions, including certain groupings of abstract ideas (i.e.,
+mathematical concepts, certain methods of organizing human activity such
+as a fundamental economic practice, or mental processes. MPEP § 2106.04.
+The Examiner concludes (see Final Act. 13–14; Ans. 3–4), and we agree,
+that the system recited in independent claim 1 includes, inter alia, the steps
+of (i) characterizing a current file according to information about the file; (ii)
+indicating a file is important; (iii) determining a context including a location
+for the portable computing device; (iv) determining the user is at a specified
+location; and (v) determining a match for the file, which are all mental
+processes.
+The Examiner concludes that the claims recite a judicially excepted
+abstract idea, specifically mental processes like searching, matching,
+determining, and characterizing (see Final Act. 13–14; Ans. 3–4). Such
+
+Appeal 2025-002136
+Application 17/933,086
+
+11
+functions include observation, evaluation, judgment, opinion which could be
+performed in the human mind and/or with pen and paper.
+The claimed method is thus similar to other broadly worded methods
+that courts have determined are directed to mental processes. See, e.g.,
+Synopsys, Inc. v. Mentor Graphics Corp., 839 F.3d 1138, 1146–52 (Fed. Cir.
+2016); Elec. Power Grp., LLC v. Alstom S.A., 830 F.3d 1350, 1353–56 (Fed.
+Cir. 2016); Intellectual Ventures I LLC v. Symantec Corp., 838 F.3d 1307,
+1316–19 (Fed. Cir. 2016); In re BRCA1- & BRCA2-Based Hereditary
+Cancer Test Patent Litig., 774 F.3d 755, 761–65 (Fed. Cir. 2014);
+CyberSource Corp. v. Retail Decisions, Inc., 654 F.3d 1366, 1370–77 (Fed.
+Cir. 2011); cf. Cisco Sys., Inc. v. Uniloc 2017 LLC, No. 2019-2048, 2020
+WL 2465483, at *2–3 (Fed. Cir. May 13, 2020). Simply put, the recited
+steps “involve making determinations and identifications, which are mental
+tasks humans routinely do.” In re Killian, 45 F.4th 1373, 1379 (Fed. Cir.
+2022) (citation omitted).
+We also note that the steps of receiving an indication from a user that
+a current file is important, receiving an indication from a user that they want
+an important file, returning a match to a user, and accessing a global
+database of information are directed to extra-solution activities.6
+Appellant contends that the Examiner errs because the specific
+language of claim 1 (i) “precludes the match being a mental observation”
+(Appeal Br. 12); (ii) “specifically requires that the processor … finds the at
+least one match” (Appeal Br. 13); (iii) “requires a number of items be done
+by a computer” (Appeal Br. 14); and (iv) “specifically require[s] file
+
+6 See MPEP § 2106.05(g). This point is also relevant to the next step of
+analysis in Step 2A, Prong Two, as discussed below.
+
+Appeal 2025-002136
+Application 17/933,086
+
+12
+operations of the computer, finding a file and returning that file” (Appeal Br.
+14). However, this is not persuasive, as the portable computing device,
+processor, memory, and global database are merely generic computer
+elements used as a tool to perform the mental processes.
+“[T]he inability for the human mind to perform each claim step does
+not alone confer patentability.” FairWarning IP, LLC v. Iatric Sys., 839
+F.3d 1089, 1098 (Fed. Cir. 2016). Consequently, even assuming that only a
+computerized system can perform the steps/functions of claim 1, Appellant’s
+argument is unpersuasive; the portable computing device’s data reception and
+manipulation function alone does not make claim 1 any less abstract.
+To be sure, reciting the use of conventional components which
+function in their expected manner, however, is insufficient to satisfy section
+101. See Uniloc USA, Inc. v. LG Elecs. USA, Inc., 957 F.3d 1303, 1306
+(Fed. Cir. 2020) (explaining that the eligibility “inquiry often turns on
+whether the claims focus on specific asserted improvements in computer
+capabilities or instead on a process or system that qualifies [as] an abstract
+idea for which computers are invoked merely as a tool”); BSG Tech LLC v.
+BuySeasons, Inc., 899 F.3d 1281, 1290–91 (Fed. Cir. 2018) (“If a claim’s
+only ‘inventive concept’ is the application of an abstract idea using
+conventional and well understood techniques, the claim has not been
+transformed into a patent-eligible application of an abstract idea.”).
+In summary, we agree with the Examiner’s conclusion that claim 1
+recites a judicially excepted abstract idea. We proceed to Step 2A, Prong
+Two of the eligibility analysis.
+
+Appeal 2025-002136
+Application 17/933,086
+
+13
+Integrated Into a Practical Application – Step 2A, Prong Two
+Having identified that claim 1 recites a judicially excepted abstract
+idea, we next evaluate whether the claim integrates the identified abstract
+idea (e.g., mental processes) into a practical application. See MPEP
+§ 2106.04(d). We consider whether there are any additional elements
+beyond the abstract ideas that, individually or in combination, integrate the
+abstract ideas into a practical application, using one or more of the
+considerations laid out by the Supreme Court and the Federal Circuit. Id.;
+see also Mayo, 566 U.S. at 80.
+Courts have found limitations indicative that an additional element
+may have integrated an additional element into a practical application to
+include: “[a]n improvement in the functioning of a computer, or an
+improvement to other technology or technical field”; “[a]pplying or using a
+judicial exception to effect a particular treatment . . . for a disease or medical
+condition”; “[i]mplementing a judicial exception with . . . a particular
+machine or manufacture that is integral to the claim”; “[e]ffecting a
+transformation or reduction of a particular article to a different state or
+thing”; or “[a]pplying or using the judicial exception in some other
+meaningful way beyond generally linking the use of the judicial exception to
+a particular technological environment.” MPEP §§ 2106.04(d),
+2106.04(d)(1), 2106.04(d)(2), 2106.05(b), 2106.05(c), 2106.05(e).
+The Examiner determines, and we agree, that claim 1 contains the
+additional elements of a portable computing device, a processor, a memory,
+
+Appeal 2025-002136
+Application 17/933,086
+
+14
+and a display (see Final Act. 14). Claim 1 also recites a further additional
+element, such as a global database.
+Appellant’s contention (see Appeal Br. 15–16) that claim 1 recites a
+better way to find and return a file is unpersuasive that any additional
+element or combination of elements integrate the mental processes into a
+practical application. As discussed supra, however, we regard such
+limitations as amounting to necessary data gathering and outputting. Such
+insignificant extra-solution activity does not serve to integrate an abstract
+idea into a practical application. MPEP § 2106.05(g); see also, e.g., In re
+Grams, 888 F.2d 835, 839–40 (Fed. Cir. 1989); CyberSource, 654 F.3d at
+1375; Mayo Collaborative Servs. v. Prometheus Labs. Inc., 566 U.S. 66
+(2012).
+Additionally, merely adding generic hardware and computer
+components to perform abstract ideas does not integrate those ideas into a
+practical application. See Alice Corp., 573 U.S. at 223 (The “mere recitation
+of a generic computer cannot transform a patent-ineligible abstract idea into
+a patent-eligible invention.”); McRO, Inc. v. Bandai Namco Games Am. Inc.,
+837 F.3d 1299, 1312 (Fed. Cir. 2016) (“The abstract idea exception prevents
+patenting a result where ‘it matters not by what process or machinery the
+result is accomplished.’” (Quoting O’Reilly v. Morse, 56 U.S. 62, 113
+(1853)) (emphasis added)).
+We disagree with Appellant’s assertions that the recited features of
+claim 1 “improve[] the operation of the computer” (Appeal Br. 15), or any
+other technology or technical field. See MPEP § 2106.05(a) (citation
+omitted). Although claim 1 additionally recites that certain functions are
+performed using “a processor” and a “global database,” Appellant presents
+
+Appeal 2025-002136
+Application 17/933,086
+
+15
+no persuasive evidence that practicing the claim results in an improvement
+to the functioning of the computer or any other technology. Appeal Br. 15.
+In particular, claim 1 is silent regarding specific limitations describing an
+improved processor, memory, database, or display.
+As a result, we agree with the Examiner’s determination that claim 1
+does not recite additional limitations that integrate the judicial exception into
+a practical application (see Ans. 5), and we do not consider representative
+claim 1 to recite any element(s), or ordered combination of elements, which
+transforms the abstract idea into patent-eligible subject matter.
+Inventive Concept – Step 2B
+As set forth under MPEP § 2106.05(d), only if a claim (1) recites a
+judicial exception, and (2) does not integrate that exception into a practical
+application, do we then look, under Step 2B, to whether the claim: (3) adds
+a specific limitation beyond the judicial exception that is not “wellunderstood, routine, conventional activity” in the field; or (4) simply
+appends well-understood, routine, conventional activities previously known
+to the industry, specified at a high level of generality, to the judicial
+exception.
+The Examiner finds, and we agree, that the additional elements of
+clam 1 are well-understood, routine, and conventional (see Final Act. 14–15
+citing MPEP § 2106.05(d)(II). Appellant does not dispute this finding with
+evidence or argument in the Appeal Brief, and no Reply Brief has been filed.
+We agree with the Examiner and observe that, beyond the limitations
+describing the abstract idea, claim 1 does not recite any limitations (or
+combination of limitations) that are not well-understood, routine, and
+conventional. Appellant does not direct our attention to anything in the
+
+Appeal 2025-002136
+Application 17/933,086
+
+16
+Specification that indicates the computer components perform anything
+other than well-understood, routine, and conventional functions. See
+buySAFE, Inc. v. Google, Inc., 765 F.3d 1350, 1355 (Fed. Cir. 2014) (“That
+a computer receives and sends the information over a network—with no
+further specification—is not even arguably inventive.”); In re TLI Commc’ns
+LLC Patent Litig., 823 F.3d 607, 614 (Fed. Cir. 2016) (server that receives
+data, extracts classification information from the received data, and stores
+the digital images insufficient to add an inventive concept); Trading Techs.
+Int’l, Inc. v. IBG LLC, 921 F.3d 1378, 1384 (Fed. Cir. 2019) (mere
+automation of manual processes using generic computers’ . . . ‘does not
+constitute a patentable improvement in computer technology (quoting Credit
+Acceptance Corp. v. Westlake Servs., 859 F.3d 1044, 1055 (Fed. Cir.
+2017))); Alice, 573 U.S. at 225–26 (receiving, storing, sending information
+over networks insufficient to add an inventive concept).
+Appellant’s Specification describes the claimed technological features
+at a generic level. See Fig. 1; Spec. ¶¶ 24–26 (describing a portable
+computing device, e.g., handheld phone 100 in no more than generic terms
+related to generic components and functions). There is no discussion of any
+special functionality or considerations for a technological aspect of any
+technological component recited in claim 1.
+More generally, Appellant has not identified any additional element
+beyond the judicial exception, that is not well-understood, routine, and
+conventional, such that the claim amounts to significantly more than a
+judicial exception. As discussed supra, we determine that independent
+claim 1 recites a plurality of steps capable of being performed in the human
+
+Appeal 2025-002136
+Application 17/933,086
+
+17
+mind or with pencil and paper, in combination with data gathering steps that
+constitute insignificant extra-solution activity.
+Therefore, because the additional elements of claim 1 recite only wellunderstood, routine, and conventional technology, we conclude under Step
+2B that claim 1, viewing its limitations “both individually ‘and as an ordered
+combination’,” do not recite significantly more than the judicial exception to
+transform the claim into patent-eligible subject matter. See Alice, 573 U.S.
+at 217 (quoting Mayo, 566 U.S. at 79).
+Eligibility Summary
+We affirm the Examiner’s rejection of representative claim 1 under
+35 U.S.C. § 101 as being directed to patent-ineligible subject matter. We
+also affirm the rejection of claims 2–12 and 14–19 because Appellant does
+not provide separate substantive arguments for independent claims 15 and
+17 or the remaining dependent claims allowing then to fall with claim 1. See
+Appeal Br. 12–15; 37 C.F.R. § 41.37(c)(1)(iv).
+
+Issue (2): Obviousness Rejections
+We have reviewed the Examiner’s rejections (see Final Act. 19–40) in
+light of Appellant’s arguments that the Examiner has erred (see Appeal Br.
+16–40), as well as the Examiner’s response to Appellant’s arguments in the
+Appeal Brief (see Ans. 10–16). Appellant’s contentions that the Examiner
+has not provided a sufficient mapping of Yang, and in particular Section 1,
+paragraph 4 of Yang, to the location determination and file provisioning of
+claims 1 (limitations A and B), 15 (limitations C, D, and E), and 17
+(limitations F, G, and H) context increment of claims 1, 15, and 17 (see
+
+Appeal 2025-002136
+Application 17/933,086
+
+18
+Appeal Br. 16–31) are persuasive. We provide the following explanation for
+emphasis.
+“[R]ejections on obviousness grounds cannot be sustained by mere
+conclusory statements; instead, there must be some articulated reasoning
+with some rational underpinning to support the legal conclusion of
+obviousness.” KSR Int’l Co. v. Teleflex, 550 U.S. 398, 418 (2007); We will
+not resort to speculation or assumptions to cure deficiencies in the
+Examiner’s fact finding or reasoning. See In re Warner, 379 F.2d 1011,
+1017 (CCPA 1967).
+In the instant case before us, with regard to the location determination
+limitations of claims 1, 15, and 17, the Examiner makes the same generic
+finding as to Yang’s Section 1, paragraph 4:
+Akaezuwa does not disclose claim element “location of
+the computing device”; however, Yang utilizes rich context cues
+of shared consumer photos in search, where context cues include
+visual features, concept scores, and time/location metadata (i.e.,
+characterized information) readily available on location -aware
+smart phones (i.e., user device) (Yang: sec. 1, para. 4).
+
+Final Act. 22; see also Final Act. 26 (same findings as to claim 15); Final
+Act. 29 (same findings as to claim 17).
+Yang’s Section 1, paragraph 4, reads, in whole:
+To address these issues, we propose to utilize rich context cues
+[citation omitted] of shared consumer photos to improve the
+search result and to recommend relevant tags and canonical
+images. Generally, the context cues of consumer photos contain
+the low -level visual features, (high -level) concept scores, and
+time and location metadata [citation omitted], as illustrated in
+Fig. 1. Though text-based search model is not perfect, certain
+context cues do exist in the retrieved images. Fig. 2 gives an
+illustrative example of text -based search result for the query
+
+Appeal 2025-002136
+Application 17/933,086
+
+19
+“eiffel tower. ” While Fig. 2(a) correctly contains the query
+object in sight, the remaining ones fail to for noisy text
+descriptions (e.g., Fig. 2(b) is actually a picture of Tokyo Tower,
+by which Eiffel Tower is usually compared with.) or noisy tags
+(e.g., Figs. 2(c}-(e) are the images taken from, underneath and
+nearby Eiffel Tower; naturally they are tagged with the keyword
+“eiffel tower” by the photo owners.). However, by investigating
+the visual content, a search system might be able to learn that the
+information needs (or target semantics) of the user is related to
+tower-like objects and exclude Figs. 2(c) -2(e) from the search
+result. Likewise, Fig. 2(b) can be detected as false positive by
+examining the location metadata (i.e., geo tags). Time metadata
+can also be important for activity-related queries, such as
+“christmas eve” or “oktoberfest.” In other words, via mining the
+co-occurrence of context cues, or contextual patterns, we can
+uncover rich information that the user is looking for.
+
+Yang p. 200, Section 1, ¶ 4 (underlined emphasis added). Although the
+cited portion of Yang discloses examining location metadata or geo tags, this
+Section 1, paragraph 4 of Yang is silent as to determining the specific
+location of a user and providing files/information to other users about that
+location, as recited in independent claim 1 (see claim 1, limitations A and
+B), and as commensurately recited in remaining independent claims 15 (see
+claim 15, limitations C, D, and E), and 17 (see claim 17, limitations F, G,
+and H).
+Yang is silent as to determining the specific location of a user and
+matching that location to the same location of other users in order to provide
+relevant files as set forth in claims 1, 15, and 17, and as described in
+Appellant’s Specification. Although the Examiner points generally to
+Section 1, paragraph 4 of Yang as teaching location metadata and context
+cues that can be matched with photos of a single user (see Final Act. 22
+(claim 1), 26 (claim 15), 29 (claim 17)), the Examiner has not sufficiently

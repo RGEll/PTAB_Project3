@@ -1,0 +1,184 @@
+2024003101 2025 08 26 0d0f2c69 9dc8 4643 a019 914b4792e551
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/319,661 01/22/2019 Takeo YAMAGUCHI Q244173 1080
+23373 7590 08/27/2025
+SUGHRUE MION, PLLC
+2000 PENNSYLVANIA AVENUE, N.W.
+SUITE 9000
+WASHINGTON, DC 20006
+EXAMINER
+ARCIERO, ADAM A
+ART UNIT PAPER NUMBER
+1727
+NOTIFICATION DATE DELIVERY MODE
+08/27/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+PPROCESSING@SUGHRUE.COM
+sughrue@sughrue.com
+uspto@sughrue.com
+PTOL-90A (Rev. 04/07)
+
+ 
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+____________ 
+ 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+____________ 
+ 
+Ex parte TAKEO YAMAGUCHI, 
+YUHEI OSHIBA, HIDENORI OHASHI, JIN TOMATSU, 
+KOJI FURUYA, TAKAO OHNO, and MAMI NANBU 
+____________ 
+ 
+Appeal 2024-003101 
+Application 16/319,661 
+Technology Center 1700 
+____________ 
+ 
+ 
+ 
+Before JEFFREY T. SMITH, GEORGE C. BEST, and JEFFREY R. SNAY, 
+Administrative Patent Judges. 
+ 
+SNAY, Administrative Patent Judge. 
+ 
+ 
+ 
+DECISION ON APPEAL 
+ 
+STATEMENT OF THE CASE 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals the rejection of 
+claims 1, 4, 5, 7, 9–11, 21, and 23–25.  We have jurisdiction. 35 U.S.C. 
+§ 6(b). 
+We REVERSE. 
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42.  Appellant 
+identifies Teijin Ltd. as the real party in interest.  Appeal Br. 2. 
+
+Appeal 2024-003101 
+Application 16/319,661 
+ 
+2 
+CLAIMED SUBJECT MATTER 
+ The invention relates to substrates for composite membranes.  Spec. 
+¶ 14.  Independent claim 1 reads as follows: 
+ 1. A substrate comprising a microporous polyolefin 
+membrane, the substrate being of a mono-layer structure 
+wherein: 
+ the average pore size is 1 nm to 50nm; 
+ the porosity is 50% to 78%; 
+ the membrane thickness is 1 μm to 10 μm; 
+ the Gurley value as measured according to JIS P8117 is 
+90 s/100 cc or less; and 
+ wherein the polyolefin consists of a polyethylene 
+composition comprising a high molecular weight polyethylene 
+with a mass average molecular weight of 900,000 or more and a 
+low molecular weight polyethylene with a mass average 
+molecular weight of 200,000 to 800,000 mixed at a mass ratio 
+of 20:80 to 80:20. 
+Appeal Br. 17 (Claims App.). 
+ The remaining claims on appeal depend from claim 1. 
+REJECTIONS 
+I. Claims 1, 4, 5, 7, 9–11, 21, 23, and 25 under 35 U.S.C. § 103 as 
+unpatentable over Ohno,2 Nishikawa,3 and Takahashi.4 
+II. Claim 24 under 35 U.S.C. § 103 as unpatentable over Ohno, 
+Nishikawa, Takahashi, and Ishihara.5 
+ 
+2 WO 2014/181761 A1, published November 13, 2014 (as translated). 
+3 US 2013/0236767 A1, published September 12, 2013. 
+4 US 2016/0250603 A1, published September 1, 2016. 
+5 US 2015/0005405 A1, published January 1, 2015. 
+
+Appeal 2024-003101 
+Application 16/319,661 
+ 
+3 
+OPINION 
+ We need only address the Examiner’s rejection of claim 1 to resolve 
+the issues raised in this appeal. 
+ Claim 1 recites, inter alia, a substrate in which “the Gurley value as 
+measured according to JIS P8117 is 90 s/100 cc or less.”  The Gurley value 
+represents a standardized measure of air permeability.  See Ishihara ¶ 91. 
+ In rejecting claim 1, the Examiner finds Ohno discloses a 
+polyethylene membrane substrate but fails to teach the recited Gurley values.  
+Final Act. 3.  The Examiner finds Nishikawa discloses polyolefin 
+membranes having a range of Gurley values that overlaps the recited range.  
+Id.  The Examiner further finds Nishikawa teaches that the Gurley value was 
+a known result-effective variable, the optimization of which would have 
+been obvious to one of ordinary skill in the art.  Id.  Based on these prior art 
+disclosures, the Examiner determines “it would have been obvious to one of 
+ordinary skill in the art to modify the membrane of Ohno to comprise the 
+claimed Gurley values.”  Id. 
+ Appellant argues the Examiner has not established a reason why one 
+of ordinary skill in the art would have applied Nishikawa’s disclosed Gurley 
+values to Ohno’s substrate.  Appeal Br. 8.  We agree. 
+ Ohno discloses a liquid filter substrate for filtering particles of about 
+10–50 nm.  Ohno ¶ 21.  Nishikawa, on the other hand, discloses a range of 
+Gurley values suitable for a porous base material in a battery separator.  
+Nishikawa ¶¶ 56, 127.  As Appellant aptly points out (Appeal Br. 7–8), 
+Nishikawa states that the disclosed range of Gurley values are suitable to 
+provide a battery separator with a desired mechanical strength and electrical 
+resistance.  See, e.g., Nishikawa ¶¶ 127–128.  The Examiner provides no 
+
+Appeal 2024-003101 
+Application 16/319,661 
+ 
+4 
+substantiated reason as to why one of ordinary skill in the art would have 
+considered Nishikawa’s Gurley values to have been relevant to Ohno’s 
+liquid filter. 
+ The Examiner’s reliance on Nishikawa as identifying Gurley value as 
+a result-effective variable also is flawed.  First, the mere fact that Nishikawa 
+teaches a range of Gurley values is not, alone, sufficient evidence that 
+Gurley value would have been recognized as a result-effective variable.  
+Nishikawa merely teaches that the disclosed range of Gurley values were 
+considered adequate with regard to mechanical strength and electrical 
+resistance of a battery separator.  Moreover, even if Nishikawa were viewed 
+as teaching Gurley value as a result-effective variable, the Examiner presents 
+no evidence that optimization of Gurley value for Nishikawa’s disclosed 
+purpose would have been expected to result in Gurley values within the 
+recited range.  As Appellant observes (Appeal Br. 7–8), Nishikawa discusses 
+Gurley value with regard to mechanical strength and electrical resistance in a 
+battery separator, whereas the Specification describes the recited range of 
+Gurley values with regard to achieving a desired permeation of hydrophilic 
+resin into the microporous membrane.  Spec. ¶ 29.  The Examiner provides 
+no evidence to support a reasonable expectation that optimization for 
+strength and electrical resistance would have yielded Gurley values 
+optimized for resin permeation. 
+ For the foregoing reasons, the Examiner’s rejections are not sustained. 
+CONCLUSION 
+ The Examiner’s decision rejecting claims 1, 4, 5, 7, 9–11, 21, and 23–
+25 is reversed. 
+
+Appeal 2024-003101 
+Application 16/319,661 
+ 
+5 
+DECISION SUMMARY 
+In summary: 
+Claim(s) 
+Rejected 
+35 
+U.S.C. § Reference(s)/Basis Affirmed Reversed 
+1, 4, 5, 7, 9–
+11, 21, 23, 25 103 Ohno, Nishikawa, 
+Takahashi  1, 4, 5, 7, 9–
+11, 21, 23, 25 
+24 103 Ohno, Nishikawa, 
+Takahashi, Ishihara  24 
+Overall 
+Outcome    1, 4, 5, 7, 9–
+11, 21, 23–25 
+REVERSED 
+ 

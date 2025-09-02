@@ -1,0 +1,560 @@
+2025000088 2025 08 27 a942d5b6 d9a3 4e1c a837 14614eeea12b
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/349,995 06/17/2021 Joseph Allen Merkel HAN 2001 USUA1 1033
+91907 7590 08/28/2025
+Thomas E. Lees, LLC
+90 Rhoads Center Drive
+Dayton, OH 45458
+EXAMINER
+AHVAZI, BIJAN
+ART UNIT PAPER NUMBER
+1763
+NOTIFICATION DATE DELIVERY MODE
+08/28/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+blees@lees-ip.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+——————
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+——————
+Ex parte JOSEPH ALLEN MERKEL, TERESA MARIE MERKEL,
+ANDREW CLEMENS FORSTHOEFEL, CLARE HAN, JOSHUA HAN,
+MATTHEW CHARLES LEE, and SAMUEL ERVING GEELHOOD
+——————
+Appeal 2025-000088
+Application 17/349,995
+Technology Center 1700
+——————
+
+Before JEFFREY B. ROBERTSON, RAE LYNN P. GUEST, and
+LILAN REN, Administrative Patent Judges.
+GUEST, Administrative Patent Judge.
+DECISION ON APPEAL
+STATEMENT OF THE CASE
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the
+Examiner’s decision to reject claims 4–7, 11–13, and 21–25. See Non-Final
+Act. 1. We have jurisdiction under 35 U.S.C. § 6(b).
+We affirm.
+
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant
+identifies the real party in interest as Joseph Allen Merkel. Appeal Br. 2.
+
+Appeal 2025-000088
+Application 17/349,995
+2
+CLAIMED SUBJECT MATTER
+The invention is directed to solar-reflective and color-changing
+composition, for example for use with playground equipment. Spec. ¶ 3.
+According to the Specification, the composition reflects sunlight to provide a
+cooler surface and changes color at a predefined temperature to provide a
+visible warning to avoid possible burns. Id. ¶ 17. Claims 4 and 11,
+reproduced below, illustrate the claimed subject matter:
+4. A composition of matter, comprising:
+a solar-reflective pigment comprising:
+zinc oxide, wherein the zinc oxide is between
+approximately five percent by weight (~5wt%) and
+approximately twenty-five percent by weight (~25wt%) of the
+composition of matter;
+titanium dioxide, wherein the titanium dioxide is
+between approximately seven percent by weight (~7wt%) and
+approximately fifteen percent by weight (~15wt%) of the
+composition of matter; and
+an IR-reflective pigment that prevents the
+composition of matter from being white, wherein the IRreflective pigment is between approximately two percent by
+weight (~2wt%) and approximately twelve percent by weight
+(~12wt%) of the composition of matter;
+a thermochromic pigment having a material property of
+changing from a first color to a second color when above a
+threshold temperature, the first color being visibly different
+than the second color, the thermochromic pigment further
+changing from the second color to the first color when below
+the threshold temperature, wherein the thermochromic pigment
+is between approximately two percent by weight (~2wt%) and
+approximately ten percent by weight (~10wt%) of the
+composition of matter; and
+a base being a remaining weight percent portion of the
+composition of matter.
+11. A composition of matter, comprising:
+
+Appeal 2025-000088
+Application 17/349,995
+3
+a solar-reflective pigment comprising:
+zinc oxide, wherein the zinc oxide is
+approximately 6.45 weight percent (~6.45wt%) of the
+composition of matter;
+titanium dioxide, wherein the titanium dioxide is
+~8.06wt% of the composition of matter; and
+an IR-reflective pigment that prevents the
+composition of matter from being white, wherein the IRreflective pigment is ~2.42wt% of the composition of matter;
+a thermochromic pigment having a material property of
+changing from a first color to a second color when above a
+threshold temperature, the first color being visibly different
+than the second color, the thermochromic pigment further
+changing from the second color to the first color when below
+the threshold temperature, wherein the thermochromic pigment
+is ~2.42wt% of the composition of matter; and
+a base, wherein the base is ~80.65wt% of the
+composition of matter.
+Appeal Br. 32–33, Claims App.
+REFERENCES
+The Examiner relies on the following references to reject the claims:
+Name Reference Date
+Li US 2019/0330523 A1 Oct. 31, 2019
+Shin
+(translation of
+record)
+KR 10-2010-0039776 A Apr. 16, 2010
+Ram WO 2018/204640 A1 Nov. 08, 2018
+Ryan Mark M. Ryan Jr., IR-Reflective Pigments: A
+Black Rainbow of Options, PC Magazine,
+www.pcimag.com/articles/102920-irreflective-pigments-a-black-rainbow-ofoptions
+Jan. 03, 2017
+
+Appeal 2025-000088
+Application 17/349,995
+4
+REJECTIONS
+The Examiner maintains the following rejections:2
+1. Claims 4–7 are rejected under 35 U.S.C. § 103 as being unpatentable
+over Shin and Ryan. Non-Final Act. 4.
+2. Claims 5–7 are rejected under 35 U.S.C. § 103 as being unpatentable
+over Shin, Ryan, and Ram. Non-Final Act. 7.
+3. Claims 4–7, 11–13, and 21–25 are rejected under 35 U.S.C. § 103 as
+being unpatentable over Li and Ryan. Non-Final Act. 8.
+4. Claims 5–7 and 21–23 are rejected under 35 U.S.C. § 103 as being
+unpatentable over Li, Ryan, and Ram. Non-Final Act. 14.
+OPINION
+We review appealed rejections for reversible error based on the
+arguments and evidence Appellant provides for each issue Appellant
+identifies. 37 C.F.R. § 41.37(c)(1)(iv) (2022); Ex parte Frye, 94 USPQ2d
+1072, 1075 (BPAI 2010) (precedential) (cited with approval in In re Jung,
+637 F.3d 1356, 1365 (Fed. Cir. 2011) (“[I]t has long been the Board’s
+practice to require an applicant to identify the alleged error in the examiner’s
+rejections.”)). “After evidence or argument is submitted by the applicant in
+response, patentability is determined on the totality of the record, by a
+preponderance of evidence with due consideration to persuasiveness of
+argument.” In re Oetiker, 977 F.2d 1443, 1445 (Fed. Cir. 1992).
+Initially, Appellant presents arguments with respect to claims 4
+and 11, asserting that the remaining claims stand or fall together with
+
+2 The Examiner withdrew the rejection of claims 11–13, and 21–25 under
+the first rejection, and claims 21–23 under the second rejection.
+
+Appeal 2025-000088
+Application 17/349,995
+5
+claims 4 and 11. Appeal Br. 13–30. Appellant does not advance any
+additional arguments for the separate rejections of dependent claims, instead
+they assert that the separately rejected dependent claims are patentable for
+the same reasons. Id. at 30. Accordingly, we focus our discussion on
+representative independent claims 4 and 11. Any claim not separately
+argued will stand or fall with its respective independent claim. See 37
+C.F.R. § 41.37(c)(1)(iv).
+Claim 4 — Shin/Ryan
+The Examiner’s rejection of claim 4 over Shin and Ryan is set forth
+on pages 4–6 and of the Non-Final Action. The Examiner finds that Shin
+teaches a temperature-sensitive color change composition comprising 8–
+10% by weight zinc oxide, 10–15% by weight titanium oxide, and 10–22%
+by weight thermochromic pigment, in a base, which overlaps at least some
+portion of the recited ranges for these elements. Non-Final Act. 4; Ans. 5.
+The Examiner finds that Shin does not teach an IR-reflective pigment or the
+claimed amount thereof. Non-Final Act. 4–5; Ans. 6. The Examiner finds
+that Ryan teaches IR-reflecting pigments that can be used in compositions to
+prevent the color from being white and to reduce the temperature of colored
+materials relative to standard pigments. Non-Final Act. 5–6 (citing Ryan 3);
+Ans. 6. The Examiner finds that the amount of IR-reflecting pigment is a
+result effective variable that determines the total solar reflectance (TSR) of
+the composition, and thus one skilled in the art would have determined an
+optimum amount via routine experimentation. Non-Final Act. 5 (citing, e.g.,
+Ryan 6, Figs. 6, 9); Ans. 7. Thus, the Examiner concludes that it would have
+been obvious to a skilled artisan to modify the composition of Shin to
+include IR-reflective pigments to prevent the composition from being a
+
+Appeal 2025-000088
+Application 17/349,995
+6
+white color, and that it would result in reducing the temperature of colored
+materials relative to standard pigments. Non-Final Act. 5–6; Ans. 7.
+Appellant argues that Shin fails to establish that the claimed
+ingredients “are result effective variables for temperature mitigation,
+friction, or impact resistance,” which are the particularly alleged inventive
+effects set forth by Appellant in the Specification. Appeal Br. 21. Appellant
+also argues that the Examiner has not established that the claimed ranges are
+prima facie obvious over the prior art. In particular, Appellant argues that,
+although Ryan teaches a relationship between TSR and temperature
+differences and “Ryan teaches that TSR affects temperature,” but “Ryan
+does not teach that wt% of ingredients affect temperature.” Appeal Br. 19.
+According to Appellant, Ryan does not teach the direct relationship between
+the amount of ingredients and temperature.
+Appellant’s arguments are not persuasive of Examiner error. With
+respect to the recited ranges for the amounts of zinc oxide, titanium oxide
+and thermochromic pigment, the Examiner has found that Shin teaches
+overlapping or very close ranges. The Examiner is correct that one of
+ordinary skill would expect similar properties and similarly successful
+outcomes where the ranges touch or overlap. Titanium Metals Corp. of Am.
+v. Banner, 778 F.2d 775, 783 (Fed. Cir. 1985) (holding that a prima facie
+case of obviousness exists even when the “proportions [of metal content in
+alloys are] so close that prima facie one skilled in the art would have
+expected them to have the same properties”); In re Peterson, 315 F.3d 1325,
+1330 (Fed Cir. 2003) (“[T]he existence of overlapping or encompassing
+ranges shifts the burden to the applicant to show that his invention would not
+have been obvious.”).
+
+Appeal 2025-000088
+Application 17/349,995
+7
+With respect to the IR-reflective pigment, the Examiner found that
+Ryan teaches that the amount of IR-reflective pigment in a composition
+directly affects the TSR. This fact supported by the teachings of Ryan. In
+particular, as noted by the Examiner, Figure 6 of Ryan demonstrates a direct
+correlation between IR-reflective pigment and TSR. See Ryan 4, second full
+paragraph (“Figure 6 examines the relationship between pigment loading for
+the two IR black pigments over different substrates. The TSR measurements
+for the PBr29 and PBk32 were plotted on the vertical axis versus the
+[pigment to binder] ratio for each along the horizontal axis. . . . TSR can be
+maximized by optimizing pigment loading for visual and IR opacity.”),
+Fig. 6.
+Accordingly, the skilled artisan would have been capable of adjusting
+the amount of IR-reflective pigment to obtain any desired amount of TSR,
+including a TSR that would occur when the IR-reflective pigment falls
+within the particularly claimed range. In re Geisler, 116 F.3d 1465, 1470
+(Fed. Cir. 1997) (“[I]t is not inventive to discover the optimum or workable
+ranges by routine experimentation.” (quoting In re Aller, 220 F.2d 454, 456,
+105 USPQ 233, 235 (CCPA 1955))); Pfizer, Inc. v. Apotex, Inc., 480 F.3d
+1348, 1368 (Fed. Cir. 2007) (holding discovery of an optimum value of a
+variable in a known process is usually obvious). The Examiner’s reasoning
+is sound and sufficient to establish that the recited amount of IR-reflective
+pigment would have been prima facie obvious.
+Because the amounts would have been prima facie obvious, it is of no
+moment that the art does not teach identifying workable or optimal amounts
+for the exact same purpose as did the inventors. KSR Int’l Co. v. Teleflex
+Inc., 550 U.S. 398, 420 (2007) (“[A]ny need or problem known in the field
+
+Appeal 2025-000088
+Application 17/349,995
+8
+of endeavor at the time of invention and addressed by the patent can provide
+a reason for combining the elements in the manner claimed.”); see also In re
+Kemps, 97 F.3d 1427, 1430, (Fed. Cir. 1996) (holding the reason to modify a
+reference “does not have to be identical to that of the applicant to establish
+obviousness”); In re Beattie, 974 F.2d 1309, 1312, (Fed. Cir. 1992) (“As
+long as some motivation or suggestion to combine the references is provided
+by the prior art taken as a whole, the law does not require that the references
+be combined for the reasons contemplated by the inventor.”).
+In light of the strong prima facie case, Appellant has the burden to
+show secondary considerations such as unexpected results or criticality to
+demonstrate nonobviousness. See In re Huang, 100 F.3d 135, 139, 40
+USPQ2d 1685, 1688 (Fed. Cir. 1996) (“This court and its predecessors have
+long held, however, that even though applicant’s modification results in
+great improvement and utility over the prior art, it may still not be patentable
+if the modification was within the capabilities of one skilled in the art, unless
+the claimed ranges ‘produce a new and unexpected result which is different
+in kind and not merely in degree from the results of the prior art.’”) (quoting
+Aller, 220 F.2d at 456; citing In re Woodruff, 919 F.2d 1575, 1578 (Fed. Cir.
+1990)).
+In this regard, Appellant argues that the claims are nonobvious in light
+of the experimental findings in the Specification, further supported by six
+different Declarations. Appeal Br. 23–30. Appellant contends that the
+claimed invention demonstrates unexpected results, which were contrary to
+accepted and conventional wisdom, and which were not predictable. Id.
+Appellant argues that such results show significant and practical advantages
+that are unrecognized in the prior art. Id. We are not persuaded that the data
+
+Appeal 2025-000088
+Application 17/349,995
+9
+submitted by Appellant, both in the Specification and in the Declarations
+(which are substantially identical) are sufficient to establish that the ranges
+recited in the claims demonstrate unexpected results that would render the
+claimed ranges nonobvious to a skilled artisan. We discuss the data in detail
+below.
+Appellant’s declarations and the Specification report that three
+properties of the claimed composition are “contrary to accepted wisdom” or
+different than what “one would expect.” See Declarations3 ¶¶ 24, 26, 28, 30,
+32, 35, 44, 55. However, none of these assertions are supported by factual
+evidence. We have no evidentiary basis for giving substantial weight to
+Appellant’s position as to what a skilled artisan would have expected or
+what is “accepted wisdom.” “The Board has broad discretion as to the
+weight to give to declarations offered in the course of prosecution.” In re
+Am. Acad. of Sci. Tech Ctr., 367 F.3d 1359, 1368 (Fed. Cir. 2004). “[T]he
+Board is entitled to weigh the declarations and conclude that the lack of
+factual corroboration warrants discounting the opinions expressed in the
+declarations.” Id. Indeed, a lack of factual support for expert opinion on
+factual determinations may render the testimony of little probative value in a
+patentability determination. Ashland Oil, Inc. v. Delta Resins &
+Refractories, Inc., 776 F.2d 281, 294 (Fed. Cir. 1985); see also Velander v.
+Garner, 348 F.3d 1359, 1371 (Fed. Cir. 2003) (“In giving more weight to
+prior publications than to subsequent conclusory statements by experts, the
+Board acted well within [its] discretion.”).
+
+3 As the declarations are substantially identical, we cite to paragraph
+numbering of the Declaration of Clare H. Han, executed June 16, 2023, who
+is a named inventor, as representative.
+
+Appeal 2025-000088
+Application 17/349,995
+10
+Moreover, without being able to ascertain what is expected, Appellant
+has not demonstrated that the results are different in kind, rather than merely
+degree from those expectations. Optimization, by definition, is determining
+the best and most favorable results within the teachings of the prior art.
+With respect to unexpected heat mitigating effects, Appellant
+contends that it is unexpected that “simply adding more zinc oxide, titanium
+dioxide, or IR-reflective pigments is counterproductive to heat-mitigating
+effects.” Declaration ¶ 30. Appellants identify that, through
+experimentation, they discovered “a somewhat-unpredictable sweet spot” or
+“best mode” for heat protection and solar reflectivity, as determined by
+surface temperature measurements. Declaration ¶¶ 31, 42. Appellant’s
+identify a lack of direct correlation between concentration of materials and
+surface temperature readings as conferring patentability of the recited ranges
+of materials due to unpredictability. Declaration ¶¶ 35, 36, 40, 41.
+Because properties normally vary to some degree with the amounts of
+the various materials used in a formulation, that one formulation has a
+property somewhat “superior” in comparison to somewhat varied
+formulations does not necessarily mean the result would have been
+unexpected. An appellant must establish that the property would have been
+viewed as unexpected by one of ordinary skill in the art. See Pfizer, 480
+F.3d at 1371 (“[A]ny superior property must be unexpected to be considered
+as evidence of non-obviousness,” and a proper evaluation considers what
+properties were expected.). As noted above, we have no basis for finding it
+unexpected that a material could be optimized for various purposes. Thus,
+we find Appellant’s test data to be little more than establishing workable or
+optimal ranges via routine experimentation consistent with the prior art.
+
+Appeal 2025-000088
+Application 17/349,995
+11
+Nor do we consider the data itself to be particularly compelling for the
+reasons primarily set forth by the Examiner. Ans. 14–18. Appellant initially
+shows that a formulation having 2.91 wt% IR-reflective blue pigment
+measured a lower surface temperature than a formulation having 9.1 wt%
+IR-reflective blue pigment (triple the amount). Declaration ¶¶ 34, 36.
+However, Appellant does not attest to what the other components of these
+formulation are, whether they are within or outside of the ranges taught by
+the prior art, and whether they are consistent for both formulations.
+Comparative examples must be truly comparative. In re Dunn, 349 F.2d
+433, 439 (CCPA 1965) (holding a comparison inadequate because the cause
+and effect sought to be proven was lost in a welter of unfixed variables.).
+Nor is this example sufficient to show criticality of the claimed range, as
+both IR-reflective pigments fall within the recited range. “In general, an
+applicant may overcome a prima facie case of obviousness by establishing
+‘that the [claimed] range is critical, generally by showing that the claimed
+range achieves unexpected results relative to the prior art range.’” Peterson,
+315 F.3d at 1330 (quoting In re Geisler, 116 F.3d 1465, 1469–70). The
+showing must be commensurate in scope with the claimed range or, in other
+words, an applicant must show that the unexpected result occurs throughout
+the entire claimed range. Id.; see also In re Harris, 409 F.3d 1339, 1344
+(Fed. Cir. 2005) (“Harris needed to show results covering the scope of the
+claimed range”). The showing must also present enough data points within
+the prior art range, but outside the claimed range, to establish that the
+unexpected property does not occur outside the claimed range. In re Hill,
+284 F.2d 955, 958–59 (CCPA 1960). Here, the Specification and the
+
+Appeal 2025-000088
+Application 17/349,995
+12
+Declarations provide too little data to prove unexpected results over the prior
+art teachings.
+Appellant then shows a second experiment where a formulation
+having 7.7 wt% IR-reflective yellow pigment, 7.7 wt% titanium dioxide, 6.1
+wt% zinc oxide, and 1.9 wt% thermochromic pigment resulted in a higher
+surface temperature than a formulation having 2.4 wt% IR-reflective yellow
+pigment, 8.1 wt% titanium dioxide, 6.5 wt% zinc oxide, and 2.4 wt%
+thermochromic pigment. Declaration ¶¶ 38, 39. While this example
+includes a description of some components of the formulations being
+compared (without attesting as to the balance of material in the tested
+formulations), the actual amounts of each component listed are altered in
+both formulations. Specifically, the amount of IR-reflective yellow pigment
+decreased from the first to the second comparative formulations, but the
+amounts of titanium dioxide, zinc oxide, and thermochromic pigment
+increased. Thus, again, it is not clear from the record if there is a
+meaningfully difference in results. Dunn, 349 F.2d at 439. Moreover, in the
+first example, the amount of thermochromic pigment fell completely outside
+of the amounts recited in the claims. Any contribution that the amounts of
+non-reflective materials may have played in surface temperature is entirely
+unclear on this record.
+Appellant then submits evidence comparing the degree of friction
+between an “unpainted surface,” presumably although not expressly reported
+to be a surface of a playground slide, and a “painted (or coated)” surface.
+Declaration ¶¶ 46–53. Appellant demonstrates an increased average
+measured force required to slide a fixed weight for two materials (namely
+denim and “athletic shorts” material). Declaration ¶¶ 49-51. Appellant
+
+Appeal 2025-000088
+Application 17/349,995
+13
+reported increased measured force for the unpainted surface over the painted
+surface. In this case, in which Appellant does not identify the formulation
+for the painted surface (nor the material used for the unpainted surface for
+clear direct comparison), we have no way to understand if the formulation
+falls within or outside of the claimed range or what other contents, and in
+what concentrations, the materials of any given “paint,” “coating,” or
+“surface” may have or have not contributed to a decrease in friction.
+Accordingly, without more information, Appellant’s demonstration of a
+difference here is not persuasive that the recited claimed ranges of materials
+is not obvious.
+Finally, Appellant presents evidence of tested “impact resistance.”
+Declaration ¶¶ 56–58. Although the inventors subjected “several of the
+coatings” to impact testing, of which the exact components and amounts
+thereof have not be identified, “[f]or one of the samples” more panels passed
+the impact testing at the highest impact force setting and fewer passed at a
+lower impact force setting, which is noted as being surprising. Id. at ¶¶ 5657. The example with the anomalous results, comprised 2.4 wt% IRreflective pigment, 8.1 wt% titanium dioxide, 6.5 wt% zinc oxide, and 2.4
+wt% thermochromic pigment (without attesting as to the balance of material
+in the tested formulations). Yet, a single example with an allegedly different
+result is insufficient to demonstrate non-obviousness, as it is not clearly
+compared with formulations outside of the range, within the full scope of the
+claims, or different that those taught by the prior art. Peterson, 315 F.3d at
+1330.
+
+Appeal 2025-000088
+Application 17/349,995
+14
+Accordingly, we agree with the Examiner that claim 4 is not
+patentable under 35 U.S.C. § 103 based on the combination of Shin and
+Ryan.
+Claim 4 — Li/Ryan
+The Examiner’s rejection of claim 4 over Li and Ryan is set forth on
+pages 8–11 and of the Non-Final Action. The Examiner finds that Li
+teaches a temperature-sensitive color change composition comprising about
+1 to about 30% by weight thermochromic pigment (a temperature sensitive
+material) as well as about 1 to about 30% of a stabilizer. Non-Final Act. 9;
+Ans. 12. The Examiner finds that the stabilizer may be an “ultraviolet light
+stabilizer,” which may comprise “one or more of carbon black (i.e., a weak
+IR-reflective pigment), zinc oxide, and titanium dioxide.” Non-Final Act. 9;
+Ans. 12. Thus, we agree with the Examiner that the prior art supports a
+finding of a composition that overlaps the claimed ranges of a
+thermochromic pigment, zinc oxide, titanium oxide and a weak IR-reflective
+pigment. The Examiner finds that Li does not teach an amount of IRreflective pigment that “prevents the composition from being [a] white
+color” or the claimed amount thereof. Non-Final Act. 9; Ans. 6. Thus, the
+Examiner further relies on Ryan in the same way discussed above for the
+prior rejection of claim 4. Non-Final Act. 9–11; Ans. 6–8.
+Appellant argues that Li fails to establish that the claimed ingredients
+“are result effective variables for temperature mitigation, friction, or impact
+resistance,” which are the particularly inventive effects set forth by
+Appellant in the Specification. Appeal Br. 20. Appellant also argues that
+Li’s “thermochromic polymer” is not the same as the recited
+“thermochromic pigment.” Appeal Br. 22. Appellant argues that the
+
+Appeal 2025-000088
+Application 17/349,995
+15
+Examiner has not established that the claimed ranges are prima facie obvious
+over the prior art. In particular, Appellant argues that “Li never teaches any
+range at all (let alone an overlapping range)” for zinc oxide, titanium
+dioxide, or an IR-reflective pigment, and that there is “a complete absence of
+any range for” these components. Appeal Br. 22–23. Appellant argues that
+the carbon black taught by Li is not an IR-reflective pigment. Appeal
+Br. 20. In response to which, the Examiner directs us to Figure 2 of Ryan,
+which shows that carbon black does have some reflectance (less than about
+10%). Ans. 13–14.
+Appellant’s arguments are not persuasive of Examiner error. The
+Examiner explained that Li teaches temperature sensitive material (pigment)
+within a polymer base to form a thermochromic polymer composition. NonFinal 9; Ans. 12; see Li ¶¶ 7, 22. With respect to the recited ranges for the
+amounts of zinc oxide, titanium oxide and thermochromic pigment, the
+Examiner has found that Li teaches overlapping or very close ranges. NonFinal 9; Ans. 12. We find this supported by the evidence of record that
+teaches “one or more of zinc oxide, titanium oxide, and carbon black” in an
+amount from about 1 to about 30% by weight. See Li ¶¶ 27, 30, 31, claims
+11, 14. A skilled artisan would understand that the prior art encompasses a
+formulation that includes all three ingredients and that the amounts of those
+ingredient could vary but not such that the total of the three would be less
+than 1% or more than 30%. Thus, the individual range for each component
+would overlap the recited ranges. The Examiner is correct that one of
+ordinary skill would expect similar properties and similarly successful
+outcomes where the ranges touch or overlap. Peterson, 315 F.3d at 1330.
+
+Appeal 2025-000088
+Application 17/349,995
+16
+With respect to the IR-reflective pigment, we agree with the Examiner
+that carbon black is a weak IR-reflective pigment, and the claims are not
+limited to any particular degree of reflectivity for the recited pigment. See
+Ryan, Fig. 2. Further, the Examiner relies on the teachings of Ryan for the
+IR-reflective pigment. Non-Final Act. 9–11; Ans. 6–8. Appellant’s
+arguments with respect to Ryan are the same as those addressed above with
+respect to the prior rejection. Appeal Br. 19. Thus, for the same reasons, we
+find that the skilled artisan would have been capable of adjusting the amount
+of IR-reflective pigment to obtain any desired amount of TSR, including a
+TSR that would occur when the IR-reflective pigment falls within the
+particularly claimed range. Again, the Examiner’s reasoning is sound and
+sufficient to establish that the recited amount of IR-reflective pigment would
+have been prima facie obvious.
+As with the prior rejection, in light of the strong prima facie case,
+Appellant has the burden to show secondary considerations such as
+unexpected results or criticality to demonstrate nonobviousness. Appellant
+relies on the same reasoning and evidence found unpersuasive of
+nonobviousness as discussed in detail above. Appeal Br. 23–30.
+Accordingly, we agree with the Examiner that claim 4 is not
+patentable under 35 U.S.C. § 103 based on the combination of Li and Ryan.
+Claim 11 — Li/Ryan
+Claim 11 recites a specific amount for each ingredient (as opposed to
+a range). For the reasons noted above, the Examiner has found that the more
+specific amounts of each ingredient recited in claim 11 are also encompassed
+by the broadest ranges taught by Li. Non-Final Act. 11–12; Ans. 5–6.
+Thus, the specific amounts recited in claim 11 are prima facie obvious in
+
+Appeal 2025-000088
+Application 17/349,995
+17
+view of Li and Ryan for the same reasons as discussed above for claim 4.
+Appellants arguments that the amounts taught by the reference are not
+specific enough for the narrowly recited amounts (see generally Appeal Br.
+22–23; Reply Br. 6–7) do not negate the prima facie case that the amounts
+would nonetheless be obvious.
+Appellant presents no separate argument regarding unexpected results
+for claim 11 from those discussed above for claim 4. Appeal Br. 23–30.
+Although claim 11 includes amounts of components similar to some of the
+formulations discussed in the Declarations, we are not persuaded that the
+Declarations demonstrate criticality or unexpected results with respect to the
+particular formulation of claim 11, substantially for the reasons noted above.
+Further, the formulations that are similar recite the same amount of IRreflective pigment, titanium dioxide, zinc oxide, and thermochromic pigment
+(see, e.g., Declaration ¶¶ 39, 57), but do not clearly indicate that the
+remainder of the formulation was a base, such that it is unclear whether the
+formulations relied upon in evidence are commensurate with the scope of
+claim 11.
+Accordingly, we agree with the Examiner that claim 11 is not
+patentable under 35 U.S.C. § 103 based on the combination of Li and Ryan.
+CONCLUSION
+The Examiner’s rejections are AFFIRMED.
+
+Appeal 2025-000088
+Application 17/349,995
+18
+DECISION SUMMARY
+The following table summarizes our decision:
+Claim(s)
+Rejected
+35
+U.S.C. § Reference(s)/Basis Affirmed Reversed
+4–7 103 Shin, Ryan 4–7
+5–7 103 Shin, Ryan, Ram 5–7
+4–7, 11–13, 21–
+25
+103 Li, Ryan 4–7, 11–13, 21–
+25
+
+5–7, 21–23 103 Li, Ryan, Ram 5–7, 21–23
+Overall
+Outcome
+4–7, 11–13, 21–
+25
+
+
+TIME PERIOD FOR RESPONSE
+No time period for taking any subsequent action in connection with
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R.
+§ 1.136(a)(1)(iv).
+AFFIRMED

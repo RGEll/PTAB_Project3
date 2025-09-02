@@ -1,0 +1,331 @@
+2024004066 2025 08 27 c3f3088b 7af5 4ddc b021 d1216c8bf7bd
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/262,390 01/22/2021 HUA XIE 2018P00214WOUS 9169
+24737 7590 08/28/2025
+PHILIPS INTELLECTUAL PROPERTY & STANDARDS
+1055 Washington Blvd
+9th Floor
+Stamford, CT 06901
+EXAMINER
+BEGEMAN, ANDREW W
+ART UNIT PAPER NUMBER
+3798
+NOTIFICATION DATE DELIVERY MODE
+08/28/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+Rachel.piscitelli@Philips.com
+debbie.henn@philips.com
+marianne.fox@philips.com
+PTOL-90A (Rev. 04/07)
+
+ 
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+____________ 
+ 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+____________ 
+ 
+Ex parte HUA XIEM, GRZEGORZ ANDRZEJ TOPOREK, 
+GARY CHENG-HOW NG, and VIJAY THAKUR SHAMDASANI 
+ 
+ 
+Appeal 2024-004066 
+Application 17/262,390 
+Technology Center 3700 
+____________ 
+ 
+ 
+ 
+Before MURRIEL E. CRAWFORD, MICHAEL C. ASTORINO, and 
+KENNETH G. SCHOPFER, Administrative Patent Judges. 
+ 
+ASTORINO, Administrative Patent Judge. 
+ 
+ 
+ 
+DECISION ON APPEAL 
+Pursuant to 35 U.S.C. § 134(a), the Appellant1 appeals from the 
+Examiner’s decision to reject claims 1–25, 27, and 30.  We have jurisdiction 
+under 35 U.S.C. § 6(b). 
+We REVERSE. 
+ 
+ 
+ 
+ 
+ 
+1 We use the word “Appellant” to refer to “applicant” as defined in 
+37 C.F.R. § 1.42.  The Appellant identifies the real party in interest as 
+Koninklijke Philips N.V.  Appeal Br. 3. 
+
+
+Appeal 2024-004066 
+Application 17/262,390 
+ 
+2 
+ 
+STATEMENT OF THE CASE 
+Claimed Subject Matter 
+Claims 1 and 21 are independent.  Claim 1, reproduced below, is 
+illustrative of the claimed subject matter. 
+1.   An ultrasound imaging system for shear wave imaging 
+comprising: 
+a probe configured to acquire ultrasound echo signals for 
+producing shear wave images of anisotropic tissue of a subject, 
+wherein the probe is configured to be coupled to a position 
+tracking system for tracking a position of the probe with respect 
+to the subject; 
+a processor in communication with the probe and 
+configured to receive position tracking data from the position 
+tracking system, wherein the processor further is configured to: 
+define at least one target plane in the anisotropic 
+tissue at an a [sic] first angle with respect to and using a 
+reference plane of the anisotropic tissue; 
+determine a second angle between a position of an 
+imaging plane of the probe as indicated by the position 
+tracking data and the reference plane; 
+define a first transformation between a position of 
+the at least one target plane and the reference plane 
+based, at least in part, on the first angle; 
+define a second transformation between the 
+position of the image plane and the reference plane 
+based, at least in part, on the second angle; 
+determine a difference between the position of the 
+image plane and the position of the target plane using the 
+first and second transformations; and 
+provide a visual indicator of the difference on a 
+display of the ultrasound system, wherein the processor is 
+configured to dynamically update the visual indicator 
+responsive to a change in the position of the imaging 
+plane with respect to the target plane. 
+Appeal Br. 20, Claims App. 
+
+Appeal 2024-004066 
+Application 17/262,390 
+ 
+3 
+ 
+References 
+The prior art relied upon by the Examiner is: 
+Name Reference Date 
+Pini US 5,159,931 Nov. 3, 1992 
+Arai US 2007/0010743 A1 Jan. 11, 2007 
+Deschinger US 2007/0249935 A1 Oct. 25, 2007 
+Pelissier US 2010/0298704 A1 Nov. 25, 2010 
+Anite US 2011/0301460 A1 Dec. 8, 2011 
+Schneider US 2013/0338505 A1 Dec. 19, 2013 
+Toma US 2014/0081142 A1 Mar. 20, 2014 
+Kondoh US 2014/0371593 A1 Dec. 18, 2014 
+Parthasarathy US 2016/0143621 A1 May 26, 2016 
+Michael Wang 
+(“Wang”) 
+Imaging Transverse Isotropic 
+Properties of Muscle by Monitoring 
+Acoustic Radiation Force Induced 
+Shear Waves Using a 2-D Matrix 
+Ultrasound Array, 32 IEEE 
+Transactions on Medical Imaging, 
+pp. 1671–1684 
+2013 
+ 
+REJECTIONS 
+Claims 1–3, 5, 12, 14, 16, 17, 20–24, 27, and 30 are rejected under 
+35 U.S.C. § 103 as unpatentable over Toma, Parthasarathy, and Kondoh. 
+Claim 4 is rejected under 35 U.S.C. § 103 as unpatentable over Toma, 
+Parthasarathy, Kondoh, and Schneider. 
+Claim 6 is rejected under 35 U.S.C. § 103 as unpatentable over Toma, 
+Parthasarathy, Kondoh, and Deschinger. 
+Claim 7 is rejected under 35 U.S.C. § 103 as unpatentable over Toma, 
+Parthasarathy, Kondoh, Deschinger, and Arai. 
+Claims 8–11 are rejected under 35 U.S.C. § 103 as unpatentable over 
+Toma, Parthasarathy, Kondoh, and Wang. 
+
+Appeal 2024-004066 
+Application 17/262,390 
+ 
+4 
+ 
+Claim 13 is rejected under 35 U.S.C. § 103 as unpatentable over 
+Toma, Parthasarathy, Kondoh, and Pini. 
+Claims 15 and 18 are rejected under 35 U.S.C. § 103 as unpatentable 
+over Toma, Parthasarathy, Kondoh, and Anite. 
+Claim 19 is rejected under 35 U.S.C. § 103 as unpatentable over 
+Toma, Parthasarathy, Kondoh, Pini, and Pelissier. 
+Claim 25 is rejected under 35 U.S.C. § 103 as unpatentable over 
+Toma, Parthasarathy, Kondoh, and Anite. 
+ 
+ANALYSIS 
+Claim 1 calls for a processor configured to “define at least one target 
+plane in the anisotropic tissue at an a [sic] first angle with respect to and 
+using a reference plane of the anisotropic tissue.”  Appeal Br. 20, Claims 
+App.  Independent claim 21 includes a similar recitation, i.e., “defining at 
+least one target plane using the reference plane and an a [sic] first angle 
+between the at least one target plane and the reference plane.”  Id. at 23.  
+These claim recitations require that the reference plane is used to define the 
+at least one target plane. 
+The Examiner finds that Toma teaches a processor configured to 
+“define at least one target plane in the anisotropic tissue . . . at a first angle 
+with respect to a reference plane of the anisotropic tissue” (Final Act. 3–4), 
+but “does not specifically teach using a reference plane to define at least one 
+target plane” (id. at 5).  The Examiner does not rely on the teachings of 
+Parthasarathy to remedy this deficiency, rather the Examiner appears to rely 
+on the teachings of Kondoh.  See id. at 5–6.  Specifically, the Examiner finds 
+that “Kondoh . . . teaches using a reference plane to define at least one target 
+
+Appeal 2024-004066 
+Application 17/262,390 
+ 
+5 
+ 
+plane.”  Final Act. 6.  The Examiner supports this finding by explaining that 
+Kondoh teaches “a suitable angle at which the ultrasound probe should be 
+positioned in relation a plane parallel to a carotid artery is displayed to the 
+user.  The position of the suitable angle is considered the target plane and the 
+plane parallel to the carotid artery is considered the reference plane.”  Id. 
+(emphasis omitted) (citing Kondoh ¶ 121); Ans. 4–5.  Thereafter, the 
+Examiner combines the teachings of Toth in view of Parthasarathy and 
+Kondoh as a “simple substitution of one known element for another to 
+obtain the predictable results of determining how much the ultrasound probe 
+needs to move to be aligned with the target plane.”  Id. at 7. 
+The Appellant argues that the Examiner’s reliance on both Toma’s 
+and Kondoh’s teachings to result in the processor configured to “define at 
+least one target plane in the anisotropic tissue at an a [sic] first angle with 
+respect to and using a reference plane of the anisotropic tissue,” as recited in 
+claim 1, is inadequate and confusing.  See Appeal Br. 16; see also id. at 13. 
+The Examiner responds to the Appellant’s argument by focusing on 
+the teachings of Toma.  See Ans. 6–7.  Specifically, the Examiner responds 
+as follows: 
+Examiner notes that as previously set forth Toma does not use 
+the reference plane to define at least one target plane but does 
+teach defining at least one a target plane at a first angle with 
+respect to a reference plane.  Specifically, fig. 2c of Toma 
+shows the “measurement target region” (solid line box) which 
+corresponds to a target plane is defined on the longitudinal axis 
+of the carotid artery (reference plane).  By defining a target 
+plane, Toma is also defining the target plane at a first angle 
+with respect to a reference plane because the claims do not 
+require that a first angle actually be defined, they only require 
+the target plane to be at an angle with respect to a reference 
+plane.  Therefore, by defining the measurement target region of 
+
+Appeal 2024-004066 
+Application 17/262,390 
+ 
+6 
+ 
+Toma in relation to the longitudinal axis of the carotid artery 
+(reference plane), Toma is defining a target plane at a first angle 
+with respect to a reference plane. 
+Ans. 6–7 (emphasis added).  Accordingly, it is clear that the Examiner does 
+not rely on Toma to disclose the claim requirement that the reference plane 
+is used to define the at least one target plane. 
+Nonetheless, we, like the Appellant, are confused by the Examiner’s 
+rejection as it relates to claim 1’s processor, which is configured to “define 
+at least one target plane in the anisotropic tissue at an a [sic] first angle with 
+respect to and using a reference plane of the anisotropic tissue.”  We note 
+that the Examiner’s rejection is based on a simple substitution of one known 
+article for another.  See Final Act. 7.  Therefore, the Examiner’s response to 
+the Appellant’s argument should, at the very least, include a discussion of 
+how Kondoh teaches the entirety of the claimed processor’s operation to 
+“define at least one target plane in the anisotropic tissue at an a [sic] first 
+angle with respect to and using a reference plane of the anisotropic tissue.” 
+In this regard, and as best understood, the Examiner finds that 
+Kondoh’s suitable angle (i.e., the first angle) is used to determine a plane 
+parallel to a carotid artery (i.e., the reference plane) and the position at 
+which the ultrasound probe should be positioned (i.e., the at least one target 
+plane).  See Final Act. 6 (citing Kondoh ¶ 121); Ans. 4–5.  However, the 
+Examiner fails to adequately explain on the record how Kondoh teaches that 
+the plane parallel to a carotid artery (i.e., the reference plane) is used to 
+define the position at which the ultrasound probe should be positioned (i.e., 
+the at least one target plane).  See Appeal Br. 13.  Therefore, we fail to 
+understand how the Examiner adequately supports the finding that Kondoh 
+teaches the claimed processor’s operation to “define at least one target plane 
+
+Appeal 2024-004066 
+Application 17/262,390 
+ 
+7 
+ 
+in the anisotropic tissue at an a [sic] first angle with respect to and using a 
+reference plane of the anisotropic tissue.” 
+Thus, we reverse the Examiner’s rejection of independent claim 1 and 
+its dependent claims under as unpatentable over Toma, Parthasarathy, and 
+Kondoh.  The Examiner’s rejection of independent claim 21 and its 
+dependent claims under as unpatentable over Toma, Parthasarathy, and 
+Kondoh is reversed for a similar reason.  We likewise reverse the 
+Examiner’s rejections of dependent claims 4, 6–11, 13, 15, 18, 19, and 25 
+because, as best understood, these rejections do not include an adequate 
+basis to cure the deficiency in the rejection of the independent claims. 
+ 
+DECISION SUMMARY 
+ In summary: 
+Claim(s) 
+Rejected 
+35 U.S.C. 
+§ 
+Reference(s)/Basis Affirmed Reversed 
+1–3, 5, 12, 
+14, 16, 17, 
+20–24, 27, 
+30 
+103 Toma, Parthasarathy, 
+Kondoh 
+ 
+1–3, 5, 12, 
+14, 16, 17, 
+20–24, 27, 
+30 
+4 103 Toma, Parthasarathy, 
+Kondoh, Schneider 
+ 4 
+6 103 Toma, Parthasarathy, 
+Kondoh, Deschinger 
+ 6 
+7 103 Toma, Parthasarathy, 
+Kondoh, Deschinger, 
+Arai 
+ 7 
+8–11 103 Toma, Parthasarathy, 
+Kondoh, Wang 
+ 8–11 
+13 103 Toma, Parthasarathy, 
+Kondoh, Pini 
+ 13 
+15, 18 103 Toma, Parthasarathy, 
+Kondoh, Anite 
+ 15, 18 
+
+Appeal 2024-004066 
+Application 17/262,390 
+ 
+8 
+ 
+Claim(s) 
+Rejected 
+35 U.S.C. 
+§ 
+Reference(s)/Basis Affirmed Reversed 
+19 103 Toma, Parthasarathy, 
+Kondoh, Pini, Pelissier 
+ 19 
+25 103 Toma, Parthasarathy, 
+Kondoh, Anite 
+ 25 
+Overall 
+Outcome 
+   1–25, 27, 
+30 
+ 
+REVERSED 
+ 
+ 

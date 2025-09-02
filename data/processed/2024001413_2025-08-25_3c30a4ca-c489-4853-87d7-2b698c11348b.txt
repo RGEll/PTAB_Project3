@@ -1,0 +1,594 @@
+2024001413 2025 08 25 3c30a4ca c489 4853 87d7 2b698c11348b
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/860,594 04/28/2020 Michael C. Brown 4001.1092102 7099
+11050 7590 08/26/2025
+SEAGER, TUFTE & WICKHEM, LLP
+100 South 5th Street
+Suite 600
+Minneapolis, MN 55402
+EXAMINER
+MALAMUD, DEBORAH LESLIE
+ART UNIT PAPER NUMBER
+3792
+NOTIFICATION DATE DELIVERY MODE
+08/26/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+BSC.USPTO@stwiplaw.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+——————
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+——————
+Ex parte MICHAEL C. BROWN and NEIL VOSKOBOYNIKOV
+——————
+Appeal 2024-001413
+Application 16/860,594
+Technology Center 3700
+——————
+
+Before ROBERT E. NAPPI, JAMES R. HUGHES, and
+JENNIFER L. MCKEOWN, Administrative Patent Judges.
+HUGHES, Administrative Patent Judge.
+DECISION ON APPEAL
+
+Appeal 2024-001413
+Application 16/860,594
+
+2
+STATEMENT OF THE CASE
+Claims 1–18, 20, and 21 are pending, stand rejected, are appealed by
+Appellant, and are the subject of our decision under 35 U.S.C. § 134(a).1
+See Final Act. 1, 2; Appeal Br. 5.2 We have jurisdiction under
+35 U.S.C. § 6(b).
+We AFFIRM IN PART.
+CLAIMED SUBJECT MATTER
+The claimed subject matter, according to Appellant, generally “relates
+to a method and system for detecting suction conditions in a patient having
+an implantable blood pump.” Spec. ¶ 3. An exemplary embodiment
+describes “a method of detecting a suction condition during operation of a
+rotary blood pump . . . connected to a ventricle” (id. ¶ 7), i.e., “a ventricular
+assist device or ‘VAD’” (id. ¶ 4), by “measuring the rotational speed of [a]
+rotor” (id. ¶ 7). See Spec. ¶¶ 4–26; Abstr. Claim 1 (directed to a method)
+and claim 11 (directed to a device) are independent. Claim 1, reproduced
+below, is illustrative of the claimed subject matter:
+
+1 We use the term “Appellant” to refer to “applicant” as defined in 37 C.F.R.
+§ 1.42. Appellant identifies the real party in interest as Heart Ware, Inc.
+Appeal Br. 3. The Appellant has assigned their interest to Boston Scientific
+Scimed, Inc. See Assignment dated Nov. 22, 2024. Appellant is reminded
+of its obligation to update its real party in interest information within 20 days
+of any change during the appeal. See 37 C.F.R. § 41.8(a).
+2 We refer to Appellant’s Specification (“Spec.”), filed Apr. 28, 2020;
+Appeal Brief (“Appeal Br.”), filed Aug. 1, 2023; and Reply Brief (“Reply
+Br.”), filed Feb. 1, 2024. We also refer to the Examiner’s Final Office
+Action (“Final Act.”), mailed Feb. 13, 2023; and Answer (“Ans.”), mailed
+Dec. 1, 2023.
+
+Appeal 2024-001413
+Application 16/860,594
+
+3
+1. A method of detecting a suction condition during
+operation of a blood pump at a set rotational speed, the method
+comprising:
+monitoring, by a control circuit configured to maintain a
+speed of a rotor of the blood pump within a range around the set
+rotational speed, a flow rate of blood through the blood pump
+for a period of time during one or more cardiac cycles of a
+patient;
+determining, by the control circuit, a duty parameter
+representing a proportion of the period of time during which the
+flow rate is above a crossover flow rate; and
+generating, by the control circuit, a suction detect signal
+based at least in part on the duty parameter.
+Appeal Br. 13 (Claims App.).
+REFERENCE
+The Examiner relies on the following reference to reject the claims:
+Name Reference Date
+Medvedev et al.
+(“Medvedev”)
+US 7,645,225 B2 Jan. 12, 2010
+
+REJECTIONS
+1. The Examiner rejects claims 1–18, 20, and 21 under 35 U.S.C.
+§ 102(a)(1) as being anticipated by Medvedev. See Final Act. 4–8.
+2. The Examiner rejects claims 1–9 and 21 under 35 U.S.C. § 101
+as being directed to patent-ineligible subject matter. See Ans. 8–10.3
+
+3 The Examiner enters a new ground of rejection under 35 U.S.C. § 101 in
+the Examiner’s Answer.
+
+Appeal 2024-001413
+Application 16/860,594
+
+4
+ANALYSIS
+Anticipation
+The Examiner rejects claims 1–18, 20, and 21 as being anticipated by
+Medvedev. See Final Act. 4–8; Ans. 10–12. Specifically, with respect to
+claim 1, the Examiner finds that Medvedev discloses “determining, by [a]
+control circuit, a duty parameter representing a proportion of the time during
+which the flow rate is above a crossover flow rate.” Final Act. 4–5 (citing
+Medvedev col. 6, l. 39–col. 7, l. 28 and col. 7, l. 56–col. 8, l. 3); see Ans.
+10–12.
+Appellant contends Medvedev does not disclose the limitations of
+claim 1. See Appeal Br. 5–8; Reply Br. 6–8. Specifically, Appellant
+contends, inter alia, that “[n]one of the techniques for detecting a presuction condition described in Medvedev utilize ‘a duty parameter
+representing a proportion of the period of time during which the flow rate
+is above a crossover flow rate’” (Appeal Br. 5) and
+None of the various techniques for calculating DQ described in
+Medvedev are based on a proportion of a period of time , much
+less determined using “a proportion of the period of time during
+which the flow rate is above a c rossover flow rate,” as set forth
+in claim 1. Instead, all the disclosed techniques for determining
+DQ utilize only a peak maximum flow rate, a peak minimum
+flow rate, and/or a mean flow rate. That is, all the techniques
+described in Medvedev determine DQ based on magnitudes of
+the flow rate measurements, and not “a proportion of the period
+of time during which the flow rate is above a crossover flow
+rate.”
+Appeal Br. 6.
+We find Appellant’s arguments persuasive of Examiner error. As
+pointed out by Appellant, nothing in the Examiner’s cited portions of
+
+Appeal 2024-001413
+Application 16/860,594
+
+5
+Medvedev explicitly discloses calculating a duty parameter that represents a
+fraction (proportion) of a period of time (e.g., multiple cardiac cycles—see
+Ans. 11) in which the flow rate is above (greater than) a crossover flow rate
+(i.e., the average flow rate). See Appeal Br. 5–8; Reply Br. 6–8; Medvedev
+col. 6, l. 39–col. 7, l. 28 and col. 7, l. 56–col. 8, l. 3. Although Medvedev’s
+Q (flow rate) measurements include a mean flow rate (Qmean) and an average
+maximum instantaneous pump flow (Qpeak(+)) (see Medvedev col. 6, ll. 59–
+66) that implicate a time component (are calculated over a time period)
+Medvedev’s flow pulsatility (DQ) is not a measure of time or a proportion of
+time. Contrary to the Examiner’s interpretation of claim 1 and Medvedev
+(see Ans. 10–11), determining magnitudes of flow rates and pulsatility over
+a “control cycle” and/or cardiac cycles does not disclose
+calculating/determining a fraction of time value as required by claim 1.
+Accordingly, the Examiner has not sufficiently shown that Medvedev
+discloses the disputed features of claim 1.
+We are a Board of review, and not a place of initial examination. On
+the record before us, we cannot affirm the Examiner’s rejection based upon
+any degree of speculation on our part. We cannot sustain the Examiner’s
+rejection without some concrete objective evidence in the record supporting
+the Examiner’s underlying factual finding and legal conclusions. See, e.g.,
+Vaidyanathan, 381 F. App’x 985, 993 (Fed. Cir. 2010), and In re Wallen,
+565 F. App’x 867, 869 (Fed. Cir. 2014), both citing In re Zurko, 258 F.3d
+1379, 1386 (Fed. Cir. 2001) (“[T]he Board must point to some concrete
+evidence in the record in support of these findings. To hold otherwise would
+render the process of appellate review for substantial evidence on
+the record a meaningless exercise.” (footnote omitted) (citation omitted)).
+
+Appeal 2024-001413
+Application 16/860,594
+
+6
+Consequently, we are constrained by the record before us to find that
+the Examiner erred in finding Medvedev anticipates Appellant’s claim 1.
+Independent claim 11 includes limitations of commensurate scope.
+Dependent claims 2–10, 12–18, 20, and 21 depend from and stand with
+claims 1 and 11, respectively. Thus, we do not sustain the Examiner’s
+anticipation rejection of claims 1–18, 20, and 21.
+Eligibility
+The Examiner rejects claims 1–9 and 21 as being directed to patentineligible subject matter. See Ans. 8–10. Appellant argues independent
+claim 1 and claims 2–9 and 21 together as a group (with respect to the
+subject matter eligibility rejection). See Reply Br. 2–6. We select
+independent claim 1 as representative of Appellant’s arguments with respect
+to claims 1–9 and 21. See 37 C.F.R. § 1.37(c)(1)(iv) (2022).
+We have reviewed the Examiner’s rejection in light of Appellant’s
+arguments in the Reply Brief that the Examiner has erred. On this record,
+we are not persuaded by Appellant’s arguments, we disagree with
+Appellant’s conclusions, and we find Appellant has not identified an error in
+the Examiner’s subject matter eligibility rejection. Except as otherwise
+noted, we concur with the determinations reached by the Examiner and we
+adopt as our own (1) the findings, reasons, and conclusions set forth by the
+Examiner in the Examiner’s Answer (see Ans. 8–10). We highlight the
+following points.
+
+
+
+
+Appeal 2024-001413
+Application 16/860,594
+
+7
+The Examiner’s § 101 Rejection—Alice/Mayo Framework:
+Parts 1 and 2
+Applying the Alice/Mayo4 framework using the 2019 Revised
+Guidance,5 the Examiner determines that claim 1 recites abstract mental
+processes. See Ans. 8–9. Further applying the Alice/Mayo framework, the
+Examiner determines that the additional elements of claim 1 do not integrate
+the abstract idea into a practical application. See id. at 9. The Examiner
+then determines these additional elements are not “sufficient to amount to
+significantly more than the judicial exception” (do not evince an “inventive
+concept”). Id. at 10.
+Statutory Subject Matter
+Independent claim 1 recites “[a] method of detecting a suction
+condition during operation of a blood pump at a set rotational speed.”
+Appeal Br. 13 (Claims App.). Appellant’s claim delineates a method for
+performing the recited operations, i.e., processes for “detecting suction
+conditions in a patient having an implantable blood pump.” Spec. ¶ 3.
+Accordingly, Appellant’s claim 1 falls within the process category of
+invention (USPTO Step 1). See Ans. 8.
+Step 2A, Prong 1: Does the Claim Recite a Judicial
+Exception (Abstract Idea)?
+The Examiner determined that claim 1 recites limitations that are
+mental processes. See Ans. 8–9 (quoting claim 1). The Examiner further
+
+4 Alice Corp. v. CLS Bank Int’l, 573 U.S. 208, 216, 217–18 (2014) (citing
+Mayo Collaborative Servs. v. Prometheus Labs., Inc., 566 U.S. 66, 75–77
+(2012)).
+5 See Manual of Patent Examining Procedure (“MPEP”) § 2106 (9th ed., rev.
+01.2024, Nov. 2024).
+
+Appeal 2024-001413
+Application 16/860,594
+
+8
+determines that the steps of “determining . . . a duty parameter” and
+“generating . . . a suction detect signal . . . based on the duty parameter” “can
+be performed by a human using a mental process” and, therefore, the claim
+limitation(s) “falls within the ‘Mental Process’ grouping of abstract ideas.”
+Id. at 9; see MPEP § 2106.04(a)(2)(III).
+Appellant contends that claim 1 does not recite an abstract idea. See
+Reply Br. 2–5. Specifically, Appellant contends, inter alia, that the method
+of claim 1 “includes one or more limitations that cannot practically be
+performed by the human mind” and cites CardioNet6 in support of the
+contention that “complex data acquisition and manipulation” does not
+constitute mental processes. Reply Br. 2. See id. at 2–5.
+We disagree with Appellant’s contentions. In rejecting claim 1 under
+35 U.S.C. § 101, the Examiner analyzed the claims using the Mayo/Alice
+two-step framework, consistent with the guidance set forth in the USPTO’s
+Revised Patent Subject Matter Eligibility Guidance. Appellant, on the other
+hand, provides conclusory arguments that claim 1 does not recite mental
+processes, and misconstrues the applicable legal precedent (the CardioNet
+case).
+Contrary to Appellant’s contentions, CardioNet is inapposite to
+Appellant’s claim 1. In CardioNet, the court explained that the claims at
+issue focused on a specific means for improving cardiac monitoring
+technology, and were “not ‘directed to a result or effect that itself is the
+abstract idea and merely invoke generic processes and machinery.’”
+CardioNet, 955 F.3d at 1368 (quoting McRO, Inc. v. Bandai Namco Games
+
+6 CardioNet, LLC v. InfoBionic, Inc., 955 F.3d 1358 (Fed. Cir. 2020)
+(“CardioNet”).
+
+Appeal 2024-001413
+Application 16/860,594
+
+9
+Am. Inc., 837 F.3d 1299, 1314 (Fed. Cir. 2016)). In other words, the court
+found the claims were directed to a technical improvement (under the
+USPTO’s Step 2A, Prong 2 analysis), not that the claims could not be
+performed in the human mind, as Appellant contends. Further, Appellant’s
+claim 1 is unlike the claims in CardioNet that recite a physical system
+incorporating beat detectors (sensors) and improved techniques for using
+raw data, and which were found not to be directed to an abstract idea
+“because they focused on a specific means or method that improved cardiac
+monitoring technology, improving the detection of, and allowing more
+reliable and immediate treatment of, atrial fibrillation and atrial flutter.”
+iLife Technologies, Inc. v. Nintendo of America, Inc., 839 F. App’x 534, 537
+(Fed. Cir. 2021) (citing CardioNet, 955 F.3d at 1368). In contrast, claim 1 is
+not focused on a specific means or method to improve blood pump
+monitoring systems, nor is it directed to a specific physical configuration of
+detectors.
+Rather, Appellant’s claim 1 recites a straight-forward mental process
+of determining a data value—a duty parameter—and the pre-solution
+activity of monitoring a flow rate using undisclosed and unclaimed control
+circuit technology. Appellant contends that
+claim 1, much like the CardioNet claims, recites several data
+acquisition and manipulation steps that cannot practically be
+performed mentally or manually, and therefore, . . . the subject
+matter of claim 1 does not constitute a mental process. For
+example, it is completely impractical to think that a human could
+“monitor[] . . . a flow rate of blood through the blood pump for a
+period of time during one or more cardiac cycles of a patient” at
+a rate and accuracy sufficient to “determin[e] . . . a duty
+parameter representing a proportion of the period of time during
+
+Appeal 2024-001413
+Application 16/860,594
+
+10
+which the flow rate is above a crossover flow rate” and use that
+duty parameter to detect a suction condition in a blood pump.
+Reply Br. 5. Appellant, however, does not explain why the monitoring and
+determining functions cannot be performed mentally (using, e.g.,
+undisclosed and unclaimed sensors and computer components (including the
+control circuit, discussed infra)). Appellant’s monitoring (i.e., datagathering) step (operation) amounts to insignificant pre-solution activity.
+See In re Bilski, 545 F.3d 943, 963 (Fed. Cir. 2008) (en banc), aff’d Bilski v.
+Kappos, 561 U.S. 593 (2010) (characterizing data gathering steps as
+insignificant extra-solution activity); see also Versata Development Group,
+Inc. v. SAP America, Inc., 793 F.3d 1306, 1334 (Fed. Cir. 2015) (“retrieving
+applicable” data and “storing” the data (pricing information) amount to
+standard computer “activities”); OIP Techs., Inc. v. Amazon.com, Inc., 788
+F.3d 1359, 1363 (Fed. Cir. 2015) (sending and receiving data over a network
+amounts to “routine data-gathering steps” and “storing . . . results” amounts
+to standard “computer activities”); buySAFE, Inc. v. Google, Inc., 765 F.3d
+1350, 1355 (Fed. Cir. 2014) (The recited “computer functionality is
+generic,” “[t]hat a computer receives and sends the information over a
+network—with no further specification—is not even arguably inventive.”);
+CyberSource Corp. v. Retail Decisions, Inc., 654 F.3d 1366, 1371–72 (Fed.
+Cir. 2011) (noting that even if some physical steps are required to obtain
+information from a database (e.g., entering a query via a keyboard, clicking
+a mouse), such data-gathering steps cannot alone confer patentability);
+accord MPEP § 2106.05(g) (“The term ‘extra-solution activity’ can be
+understood as activities incidental to the primary process or product that are
+merely a nominal or tangential addition to the claim. Extra-solution activity
+includes both pre-solution and post-solution activity.”).
+
+Appeal 2024-001413
+Application 16/860,594
+
+11
+With respect to Appellant’s determining (of a duty parameter), this
+step (operation) recites determining a proportion or fraction of time the
+monitored flow rate is greater than an average (crossover) flow rate. See
+Spec. ¶¶ 53–62; Figs. 5, 6. Determining an average flow rate, comparing
+flow rates to the average, and determining a period of time the flow rate
+exceeds the average (none of which are affirmatively recited in the claim),
+and determining a fraction (proportion) of time (the recited limitation) can
+be performed by a human, using observation, evaluation, and judgment,
+because the steps involve making evaluations and judgments (calculations
+and/or determinations), which are mental tasks humans routinely perform in
+the course carrying out a process for evaluating data (using, for example,
+pen and paper). See Appellant’s Figures 5 and 6, illustrating the recited
+determination. See In re Killian, 45 F.4th 1373, 1379–1380 (Fed. Cir.
+2022); MPEP § 2106.04(a)(2)(III).
+Further, it is well-settled that collecting information, as well as
+analyzing information by steps people go through in their minds, are
+essentially mental processes within the abstract-idea category. See
+FairWarning IP, LLC v. Iatric Systems, Inc., 839 F.3d 1089, 1093 (Fed. Cir.
+2016); see also Elec. Power Grp., LLC v. Alstom S.A., 830 F.3d 1350, 1354
+(Fed. Cir. 2016) (“[W]e have treated analyzing information by steps people
+go through in their minds, or by mathematical algorithms, without more, as
+essentially mental processes within the abstract-idea category.”).
+Appellant’s monitoring and determining operations are akin to the claims
+directed to an abstract mental process in Elec. Power Grp. See Elec. Power
+Grp., 830 F.3d at 1353 (“The claims . . . fall into a familiar class of claims
+‘directed to’ a patent-ineligible concept. The focus of the asserted claims
+
+Appeal 2024-001413
+Application 16/860,594
+
+12
+. . . is on collecting information, analyzing it, and displaying certain results
+of the collection and analysis.”).
+It matters not for our analysis that such mental analysis might be
+cumbersome. See, e.g., Int’l Business Machines Corp. v. Zillow Grp., Inc.,
+50 F.4th 1371, 1381–82 (Fed. Cir. 2022) (finding, with respect to a patent
+purporting to solve the problem “that the display of ‘any system that has
+large numbers of objects in many categories with relationships is difficult to
+understand,’” and that “[w]hile moving objects between layers or
+rearranging layers may take longer using the manual method, a patent that
+automate[s] pen and paper methodologies to conserve human resources and
+minimize errors is a ‘quintessential do it on a computer patent’ directed to an
+abstract idea” (quoting Univ. of Fla. Rsch. Found., Inc. v. Gen. Elec. Co.,
+916 F.3d 1363, 1367 (Fed. Cir. 2019) (internal quotation marks omitted))).
+Moreover, as previously explained (supra), claim 1 does not require
+any particular type of analysis, calculations, or processes that cannot be
+performed by the human mind, with pencil and paper as an aid. In short,
+claim 1 recites mental processes, which are abstract ideas. We are not
+persuaded by Appellant’s arguments that the claim does not recite abstract
+mental processes. See MPEP §§ 2106.04(a)(2)(III)(C),
+2106.04(a)(2)(III)(B); 2019 Revised Guidance, 84 Fed. Reg. 50, 52 n.14
+(Jan. 7, 2019) (“If a claim, under its broadest reasonable interpretation,
+covers performance in the mind but for the recitation of generic computer
+components, then it is still in the mental processes category unless the claim
+cannot practically be performed in the mind.”); October 2019 Update:
+Subject Matter Eligibility 9, available at https://www.uspto.gov/sites/default/
+files/documents/peg_oct_2019_update.pdf (hereinafter “October 2019
+
+Appeal 2024-001413
+Application 16/860,594
+
+13
+Update”) (“The use of a physical aid (i.e., the pen and paper) to help perform
+a mental step (e.g., a mathematical calculation) does not negate the mental
+nature of this limitation.”).
+In summary, the relevant delineated operations in claim 1 fall within
+the grouping of mental processes, which are abstract ideas. See MPEP
+§ 2106.04(a)(2)(III). We conclude Appellant’s claim 1 recites a judicial
+exception (USPTO Step 2A, Prong 1) because claim 1 recites mental
+processes—i.e., determining a duty parameter that represents a flow rate
+fraction (a proportion of the period of time during which the flow rate is
+above a crossover flow rate).
+Step 2A, Prong 2: Is the Judicial Exception Integrated
+into a Practical Application?
+Having determined that claim 1 recites abstract ideas, we next
+determine, under USPTO Step 2A, Prong 2 of the 2019 Revised Guidance,
+whether claim 1 is directed to those abstract ideas, or whether the claim
+integrates the abstract ideas into a practical application. See MPEP
+§ 2106.04(d). Specifically, we consider any additional elements recited in
+the claim along with the limitations that recite an abstract idea to determine
+whether the claim integrates the abstract ideas into a practical application.
+See MPEP § 2106.04(d)(III); October 2019 Update 12.
+Claim 1 recites additional elements, including a “blood pump” and “a
+control circuit.” Appeal Br. 13 (Claims App.). The functionality of these
+additional elements is generally described in Appellant’s Specification, but
+neither the claims, nor the Specification describe in detail the technical
+features (sensors, computer hardware, and/or software) of these additional
+elements that are relevant to claim 1. See Spec. ¶¶ 35–44, 50–63; Figs. 1–3.
+
+Appeal 2024-001413
+Application 16/860,594
+
+14
+Indeed, Appellant’s Specification explains that the control circuit may
+comprise a “general-purpose processor” (Spec. ¶ 38) that is “well-known”—
+“processor 210 may be any well-known processor, such as commercially
+available processors” (Spec. ¶ 39).
+The Examiner determines that claim 1 recites additional elements but
+these elements do not integrate the abstract idea into a practical application
+because they amount to pre-solution data gathering and generic computing
+elements or components that are recited at a high-level of generality, amount
+to mere instructions to implement the judicial exception (abstract idea) on a
+computer, and merely use a computer (i.e., the additional elements) as a tool
+to perform an abstract idea. See Ans. 9–10; MPEP § 2106.05(f).
+Appellant contends that claim 1 “achieves the practical application of
+generating a suction detect signal.” Reply Br. 5. Appellant further contends
+that, similar to other Patent Trial and Appeal Board (“Board”) cases finding
+integration into a practical application, claim 1 “‘addresses a need’ in the
+field” (“detecting suction conditions in blood pumps”) “by its use of a new
+‘duty parameter representing a proportion of the period of time during which
+the flow rate is above a crossover flow rate,’ which had not previously been
+used, and ‘presents functional and palpable applications in the field.’” Id.
+Appellant argues that “the duty parameter of claim 1 may be used to more
+accurately identify suction conditions in blood pumps,” and claim 1,
+therefore, “is ‘focused on a specific articulated improvement’ in the field of
+detecting adverse cardiac events,” and is “not directed to an abstract idea for
+
+Appeal 2024-001413
+Application 16/860,594
+
+15
+at least the same reasons as the claims in CardioNet.” Reply Br. 5 (citing
+prior Board cases).7
+We find Appellant’s argument concerning integration of the abstract
+ideas into a practical application to be unpersuasive of Examiner error. With
+respect to the Board cases cited by Appellant, we note that these decisions
+are not controlling law, and we determine that Appellant’s claim 1 is
+distinguishable from the claims in these decisions. Specifically, Appellant’s
+claim 1 is not directed to the solution of a technical problem, nor is it
+directed to an improvement in computer functionality. Instead, claim 1
+implements the abstract idea (monitoring blood flow, determining a duty
+parameter, and generating an output (a suction detect signal, which is extrasolution (post-solution) activity)) through the use of conventional devices
+(e.g., using a generic processor), without providing any technological
+solution or improvement. Instead, any “improvement” or “solution” resides
+in the abstract idea itself. As explicitly explained by Appellant, it is the
+“duty parameter” and the determining operation that provide the purported
+improvement. See Reply Br. 5.
+Appellant’s claim broadly describes using “generic” computing
+components, i.e., the control circuit, to perform the delineated process
+operations. Implementing the abstract idea using generic computer elements
+does not integrate the abstract idea into a practical application. Ans. 9–10.
+Providing “simply generic descriptions of well-known computer
+components” does not integrate the abstract idea into a practical application.
+
+7 Appellant cites to Ex Parle Huber et al., Appeal No. 2018-005800, 2018
+WL 4941597 (PTAB Sept. 26, 2018) and Ex Parle Ohrn et al., Appeal No.
+2017-003914, 2017 WL 5649458 (PTAB Nov. 20, 2017).
+
+Appeal 2024-001413
+Application 16/860,594
+
+16
+Affinity Labs of Tex., LLC v. Amazon.com Inc., 838 F.3d 1266, 1270 (Fed.
+Cir. 2016) (“Affinity II”). Additionally, limiting the abstract ideas “to a
+particular existing technological environment does not render the claims any
+less abstract”—“[e]ven if all the details contained in the specification were
+imported into the [claims], the result would still not be a concrete
+implementation of the abstract idea. In fact, the specification underscores
+the breadth and abstract nature of the idea embodied in the claims.” Affinity
+Labs of Tex., LLC v. DIRECTV, LLC, 838 F.3d 1253, 1259 (Fed. Cir. 2016)
+(“Affinity I”) (citations omitted); see also id. at 1262 (“The patent in this
+case is not directed to the solution of a ‘technological problem,’ nor is it
+directed to an improvement in computer or network functionality. Instead, it
+claims the [abstract idea] through the use of conventional devices, without
+offering any technological means of effecting that concept.” (citation
+omitted)).
+In summary, “the focus of the claims is not on such an improvement
+in computers as tools, but on certain independently abstract ideas that use
+computers as tools.” Elec. Power Grp., 830 F.3d at 1354; see also MPEP
+§ 2106.05(f) (emphasis omitted) (instructing examiners to consider
+“[w]hether the claim invokes computers or other machinery merely as a tool
+to perform an existing process” in determining whether the claim recites
+mere instructions to apply the exception). For these reasons, we determine
+that claim 1 is not directed to a specific asserted improvement in computer
+technology or otherwise integrated into a practical application. See MPEP
+§§ 2106.05(a)–(c), (e), (f). Consequently, we conclude that claim 1 is
+“directed to” a judicial exception.
+
+Appeal 2024-001413
+Application 16/860,594
+
+17
+Step 2B – Does the Claim Include an “Inventive Concept”
+or “Significantly More”?
+Having concluded claim 1 is directed to an abstract idea under the
+2019 Revised Guidance (USPTO Step 2A analysis), we consider whether
+claim 1 has an inventive concept, that is, whether the claim has additional
+elements that “‘transform the nature of the claim’ into a patent-eligible
+application.” Alice, 573 U.S. at 217 (quoting Mayo, 566 U.S. at 78, 79). We
+determine “whether a claim recites significantly more than a judicial
+exception,” which requires us to evaluate whether “the additional element
+(or combination of elements)” add “a specific limitation other than what is
+well-understood, routine and conventional in the field” or simply append
+“well-understood, routine, conventional activities previously known to the
+industry,” specified “at a high level of generality.” MPEP § 2106.05(d).
+The Examiner concludes that claim 1 “do[es] not include additional
+elements that are sufficient to amount to significantly more than the judicial
+exception,” and the additional elements are well-understood, routine,
+conventional. Ans. 10.
+Appellant generally contends that claim 1 embodies an inventive
+concept, in that “[t]he elements of claim 1 improve[] the technical field at
+least because the method utilizes a control circuit to facilitate determinations
+of a suction condition in a blood pump” and, therefore, claim 1 “amounts to
+significantly more than an alleged abstract idea and represents a patenteligible inventive concept.” Reply Br. 6.
+Appellant does not persuade us of Examiner error with respect to the
+“inventive concept” analysis. In particular, Appellant does not specifically
+discuss how or why claim 1 embodies an inventive concept such that the
+
+Appeal 2024-001413
+Application 16/860,594
+
+18
+additional elements amount to more than the judicial exception—i.e., the
+additional elements are not well-understood, routine, conventional.
+We agree with the Examiner’s conclusion that the additional elements
+do not provide an inventive concept. See Ans. 10. Based on our analysis
+concerning integration into a practical application (supra), we further find
+that additional elements are well-understood, routine, and conventional
+computer components and functions. As discussed above with respect to
+USPTO Step 2A, Prong 2, the Specification describes the additional
+elements—the control circuit—in such broad terms so as to essentially
+define them as generic computer components performing generic
+instructions. Accordingly, the Specification itself describes the additional
+elements as being well-understood, routine, and conventional computing
+devices that perform standard computing processes. See, e.g., Spec. ¶¶ 38–
+39. Such conventional processes operating on conventional computer
+hardware “do not alone transform an otherwise abstract idea into patenteligible subject matter.” FairWarning IP, 839 F.3d at 1096.
+Thus, because claim 1 is directed to a judicial exception, without
+significantly more, we sustain the Examiner’s rejection under 35 U.S.C.
+§ 101 of independent claim 1, as well as claims 2–9 and 21 not separately
+argued with particularity (supra).
+CONCLUSION
+Appellant has not shown that the Examiner erred in rejecting claims
+1–9 and 21 as being directed to patent-ineligible subject matter under
+35 U.S.C. § 101. We, therefore, sustain the Examiner’s subject matter
+eligibility rejection of claims 1–9 and 21. Appellant has shown that the
+Examiner erred in rejecting claims 1–18, 20, and 21 as being anticipated
+
+Appeal 2024-001413
+Application 16/860,594
+
+19
+under 35 U.S.C. § 102. We, therefore, do not sustain the Examiner’s
+anticipation rejection of claims 1–18, 20, and 21.
+DECISION SUMMARY
+The following table summarizes our decision:
+Claim(s) Rejected 35 U.S.C. § Reference(s)/ Basis Affirmed Reversed
+1–18, 20, 21 102 Medvedev 1–18, 20, 21
+1–9, 21 101 Eligibility 1–9, 21
+Overall Outcome 1–9, 21 10–18, 20
+
+TIME PERIOD FOR RESPONSE
+No time period for taking any subsequent action in connection with
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R.
+§ 1.136(a)(1)(iv).
+AFFIRMED IN PART

@@ -1,0 +1,583 @@
+IPR2024 00577 2025 08 26 171168102
+
+Trials@uspto.gov Paper 25 
+571-272-7822 Entered: August 26, 2025  
+ 
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+ 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+ 
+ 
+ADC SOLUTIONS AUTO LLC, 
+Petitioner, 
+v. 
+THE NOCO COMPANY, 
+Patent Owner. 
+ 
+IPR2024-00577 
+Patent 11,447,023 B2 
+ 
+Before DAVID C. MCKONE, AVELYN M. ROSS, and  
+JASON M. REPKO, Administrative Patent Judges. 
+ROSS, Administrative Patent Judge.  
+ 
+JUDGMENT 
+Final Written Decision 
+Determining All Challenged Claims Unpatentable 
+35 U.S.C. § 318(a)  
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+2 
+I. INTRODUCTION 
+ADC Solutions Auto LLC (“Petitioner”) filed a corrected Petition 
+(Paper 6, “Pet.”)1 requesting an inter partes review of claims 1, 32, 38, 39, 
+47, 52, and 54 (Pet. 8) of U.S. Patent No. 11,447,023 B2 (Ex. 1001, 
+“the ’023 patent”).  The NOCO Company (“Patent Owner”) filed a 
+Preliminary Response to the Petition.  Paper 7 (“Prelim. Resp.”). 
+Upon consideration of the Petition, Preliminary Response, and the 
+parties’ evidence, we determined that Petitioner had demonstrated a 
+reasonable likelihood that it would prevail with respect to at least one claim 
+of the ’023 patent.  Paper 8 (“Decision on Institution” or “DI”).  Thus, 
+pursuant to the Supreme Court’s decision in SAS Institute Inc. v. Iancu, 584 
+U.S. 357, 364 (2018), and the USPTO Guidance,2 we instituted review of all 
+challenged claims on all challenged grounds.  Id. 
+Following institution of trial, Patent Owner filed a Patent Owner 
+Response (Paper 12, “PO Resp.”), Petitioner filed a Reply (Paper 15, “Pet. 
+Reply”), and Patent Owner filed a Sur-reply (Paper 18, “Sur-reply”).  
+In support of their respective positions, Petitioner relies on the testimony of 
+ 
+1 Petitioner filed a “[c]orrected” Petition (Paper 6) to address a duplication 
+of exhibits (namely, Exs. 1024–1025).  The duplication was resolved by 
+addressing the exhibits and does not cause any inconsistency between the 
+original petition (i.e., Paper 1) and present record (e.g., does not cause 
+incorrect citations).  This Decision thus addresses the Corrected Petition 
+(i.e., Paper 6).   
+2 In accordance with our rules, “[w]hen instituting inter partes review, the 
+Board will authorize the review to proceed on all of the challenged claims 
+and on all grounds of unpatentability asserted for each claim.”  37 C.F.R. 
+§ 42.108(a). 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+3 
+Dr. C. Arthur MacCarley (Ex. 1003 and 1044) and Patent Owner relies on 
+the testimony of Dr. Ayma Fayed (Ex. 2011). 
+We held an oral hearing on May 29, 2025, and a transcript of the 
+hearing is included in the record (Paper 24, “Tr.”). 
+We have jurisdiction under 35 U.S.C. § 6.  This Final Written 
+Decision is issued pursuant to 35 U.S.C. § 318(a) and 37 C.F.R. § 42.73.   
+For the reasons discussed below, we determine that Petitioner has 
+shown by a preponderance of the evidence that 1, 32, 38, 39, 47, 52, and 54 
+of the ’023 patent are unpatentable. 
+A. Real Parties-in-Interest 
+Petitioner identifies “ADC Solutions Auto LLC” as the sole real 
+party-in-interest.  Pet. 1. 
+Patent Owner identifies “The Noco Company” as the real 
+party -in -interest.  Paper 3 (Mandatory Notice), 2. 
+B. Related Proceedings 
+Petitioner identifies the following actions as related proceedings:  
+U.S. Patent No . 11,447,023 ( “the ’023 patent ”) is 
+presently asserted in the litigation proceedings bulleted below. 
+•  Actions in which Petitioner is a party: 
+○ The NOCO Company v . Winplus North America 
+Inc. et al., Case No. 8:23-cv-00269 (C.D. Cal.); and 
+○ Certain Portable Battery Jump Starters and 
+Components Thereof (II) , Inv . No. 337-TA-1359 
+(U.S. International Trade Commission) (“ITC Action”). 
+•  Actions in which Petitioner is not a party: 
+○ The NOCO Company v . Shenzhen Carku 
+Technology Co., Ltd., Case No. 1:23-cv-00911 (N.D. Ill.); 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+4 
+○ The NOCO Company v . Hulkman LLC et al. , Case 
+No. 3:23-cv-00642 (N.D. Cal.); 
+○ The NOCO Company v . Youxiangongsi, 
+Case No. 4:23-cv-00554 (S.D. Tex.); and 
+○ The NOCO Company v . Deltona Transformer 
+Corporation et al., Case No. 6:23-cv-02194 (M.D. Fla.). 
+Pet. 2–3.   
+Petitioner also states that the ’023 patent “stems from a line of 
+continuation applications claiming priority back to . . . U.S. Patent 
+No. 9,007,015 (EX1013)” and that  “[a]ll claims of the ’015 patent were 
+challenged in inter partes review, IPR2020-00944, which resulted in a Final 
+Written Decision (‘the ’015-FWD’) finding all claims, except claim 11, 
+unpatentable.”  Pet. 12 (citing Ex. 1001, code (60); Ex. 1003 ¶¶ 28–29; Ex. 
+1014).  The ’015-FWD was affirmed by the Federal Circuit under Federal 
+Circuit Rule 36.  Id. (citing Ex. 1015).   
+Patent Owner likewise identifies each and only the above actions as 
+related proceedings.  Paper 3 (Mandatory Notice).   
+C. The ’023 patent (Ex. 1001) 
+The ’023 patent, titled “Portable Vehicle Battery Jump Start 
+Apparatus with Safety Protection and Jumper Cable Device Thereof,” issued 
+on September 20, 2022.  Ex. 1001, codes (45), (54).  The “invention relates 
+generally to apparatus for jump-starting a vehicle having a depleted or 
+discharged battery.”  Id. at 1:8–10. 
+The ’023 patent discloses a “handheld battery booster according to 
+one aspect of the invention.”  Id. at 4:1–5.  “At the heart of the handheld 
+battery booster is a lithium polymer battery pack 32, which stores sufficient 
+energy to jump start a vehicle engine served by a conventional 12 volt 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+5 
+lead-acid or valve regulated lead-acid battery.”  Id. at 4:5–9.  Figure 3, 
+reproduced below, depicts an exemplary handheld battery booster device.  
+Id. at 7:38–39. 
+ 
+ 
+Figure 3 “is a perspective view of a handheld jump starter booster device in 
+accordance with one embodiment of the invention.”  Id. at 3:63–65.  Figure 
+3 illustrates the following:  power on switch 301; LED “fuel gauge” 
+indicators 302; a 12 volt output port 303 connectable to the cable device 
+400; flashlight control switch 304 for activating flashlight LEDs; USB input 
+port 305 for charging the internal lithium battery; USB output port 306 for 
+providing charge from the lithium battery to other portable devices such 
+smartphones; a “boost on” indicator 307 showing that power is being 
+provided to the 12 volt output port 303; a “reverse” indicator 308 showing 
+that the vehicle battery is improperly connected with respect to polarity; a 
+
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+6 
+“power on” indicator 309 showing that the device 300 is powered up for 
+operation.  Id. at 7:40–52.   
+Figure 4, reproduced below, depicts jumper cables useful for the 
+handheld jump starter shown in Figure 3.  Id. at 7:53–54.   
+ 
+Figure 4 “is a plan view of a jumper cable.”  Id. at 3:65–67.  Figure 4 
+illustrates the following:  plug 401 configured to plug into 12 volt output 
+port 303 of handheld device 300; a pair of cables 402a, 402b integrated with 
+plug 401 (having body 401a, surface protrusion 401b, and flat end 401c) and 
+respectively connected to positive and negative polarity battery terminal 
+clamps 403a, 403b via ring terminals 404a, 404b.  Id. at 7:55–60.  Handheld 
+booster device 300 is connected to a vehicle battery by connecting the plug 
+401 into the output port 303 and connecting the battery clamps 403a, 403b to 
+respective terminals of the battery.  Id. at 8:2–11.   
+Figure 1, reproduced below, illustrates an exemplary embodiment.   
+
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+7 
+Figure 1 “is a functional block diagram of a handheld battery booster 
+according to one aspect of the invention.”  Id. at 4:4–5.  A programmable 
+microcontroller unit MCU 1 receives inputs and produces outputs to read 
+and control the remaining elements.  Id. at 4:17–19.  Car battery reverse 
+sensor 10 detects, and informs MCU 1, whether the negative and positive 
+terminals of booster device 300  are respectively and thus correctly 
+connected to negative and positive terminals of the vehicle battery 72.  Id. at 
+4:27–33, 8:2–11.   
+USB charge circuit 52 converts power from “any USB charger power 
+source, charge voltage and current” to the power that charges lithium battery 
+pack 32.  Id. at 5:15–17.  In a specific example of Figure 2C, USB charge 
+circuit 52 converts power of “a standard USB charger” to the charging 
+power.  Id. at 7:21–23.  The input of charge circuit 52 is a “standard 
+micro-USB connector 48 allowing standard cables to be used.”  Id. at 7:23–
+
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+8 
+25.  “The 5V potential provided from standard USB chargers is 
+up-converted to the 12.4 VDC voltage required for charging the internal 
+lithium battery pack using a DC-DC converter 49.”  Id. at 7:25–28. 
+D. Illustrative Claim 
+Petitioner challenges claims 1, 32, 38, 39, 47, 52, and 54 of the ’023 
+patent.  Independent claim 1 is representative of the challenged claims and is 
+reproduced below with Petitioner’s annotations:3 
+[Preamble] A jump starting apparatus configured for boosting or 
+charging a depleted or discharged battery having a positive 
+polarity battery terminal and a negative polarity battery terminal, 
+the jump starting apparatus comprising: 
+[1(a)]  a power supply; 
+[1(b)] a positive polarity battery terminal connector configured 
+for connecting the jump starting apparatus to the positive polarity 
+battery terminal of the depleted or discharged battery; 
+[1(c)]  a negative polarity battery terminal connector configured 
+for connecting the jump starting apparatus to the negative 
+polarity battery terminal of the depleted or discharged battery; 
+[1(d)] a power switch or circuit configured to turn on power from 
+the power supply to the positive and negative polarity battery  
+terminal connectors; 
+[1(e)] a control system or circuit connected to and controlling the 
+power switch, the control system or circuit configured to detect  
+whether the positive and negative polarity battery terminal  
+connectors have a correct polarity connection with the positive  
+and negative polarity battery terminals of the depleted or  
+discharged battery prior to turning on the power switch or circuit; 
+ 
+3 For convenience, we adopt Petitioner’s annotated claim format. 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+9 
+[1(f)] a USB input circuit connected to the power supply, the 
+USB input circuit configured for converting power from a USB 
+power source to increase power voltage to the power supply; and 
+[1(g)] a USB input connector connected to the USB input circuit, 
+the USB input connector configured for connecting to the USB  
+power source and providing power input from the USB power  
+source through the USB input connector and the USB input  
+circuit to the power supply.  
+Ex. 1001, 8:40–9:6. 
+E. The Asserted Unpatentability Challenges 
+Petitioner asserts that claims 1, 32, 38, 39, 47, 52, and 54 would have 
+been unpatentable based on the following grounds:  
+Claim(s) Challenged 35 U.S.C. §4 Reference(s)/Basis 
+1, 32, 38, 39, 47, 52, 54 103 Richardson,5 Zhao6 
+1, 32, 38, 39, 47, 52, 54 103 Yu,7 Paparrizos8 
+Pet. 8.  Petitioner also relies on declaration testimony of C. Arthur 
+MacCarley to support its contentions.  Ex. 1003 (the “MacCarley 
+Declaration”). 
+ 
+4 The Leahy-Smith America Invents Act (“AIA”), Pub. L. No. 112-29, 125 
+Stat. 284 (2011), amended 35 U.S.C. § 103, effective March 16, 2013.  
+Because the application from which the ’023 patent issued was filed after 
+this date, the AIA version of § 103 applies. 
+5 US 2013/0154543 A1, published June 20, 2013 (Ex. 1005, “Richardson”). 
+6 US 9391467 B2, issued July 12, 2016 (Ex. 1006, “Zhao”). 
+7 CN 203211234U, September 25, 2013 (Ex. 1008 (certified English 
+translation), “Yu”). 
+8 US 9219372 B2, December 22, 2015 (Ex. 1009, “Paparrizos”). 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+10 
+II. ANALYSIS 
+A. Principles of Law 
+In an inter partes review, “the petitioner has the burden from the onset 
+to show with particularity why the patent it challenges is unpatentable.”  
+Harmonic Inc. v. Avid Tech., Inc., 815 F.3d 1356, 1363 (Fed. Cir. 2016) 
+(citing 35 U.S.C. § 312(a)(3) (2012) (requiring inter partes review petitions 
+to identify “with particularity . . . the evidence that supports the grounds for 
+the challenge to each claim”)).  This burden of persuasion never shifts to the 
+patent owner.  See Dynamic Drinkware, LLC v. Nat’l Graphics, Inc., 800 
+F.3d 1375, 1378 (Fed. Cir. 2015) (discussing the burden of proof in inter 
+partes review).   
+Obviousness is a question of law based on underlying determinations 
+of fact.  Graham v. John Deere Co., 383 U.S. 1, 17 (1966); Richardson-
+Vicks, Inc. v. Upjohn Co., 122 F.3d 1476, 1479 (Fed. Cir. 1997).  A claim is 
+unpatentable as obvious, under 35 U.S.C. § 103, if the differences between 
+the claimed invention and the prior art are such that the claimed invention, 
+as a whole, would have been obvious before the effective filing date of the 
+claimed invention to a person having ordinary skill in the art.  KSR Int’l 
+Co. v. Teleflex Inc., 550 U.S. 398, 406 (2007).  The question of obviousness 
+is resolved on the basis of underlying factual determinations including (1) 
+the scope and content of the prior art; (2) any differences between the 
+claimed subject matter and the prior art; (3) the level of ordinary skill in the 
+art; and (4) objective evidence of nonobviousness.9  Graham, 383 U.S. at 
+ 
+9 Patent Owner does not provide objective evidence of nonobviousness.  See 
+generally PO Resp.   
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+11 
+17–18.  Consideration of the Graham factors “helps inform the ultimate 
+obviousness determination.”  Apple Inc. v. Samsung Elecs. Co., 839 F.3d 
+1034, 1048 (Fed. Cir. 2016) (en banc), cert. denied, 583 U.S. 963 (2017).  
+“Obviousness does not require absolute predictability of success[;] . . . all 
+that is required is a reasonable expectation of success.”  In re O’Farrell, 853 
+F.2d 894, 903–04 (Fed. Cir. 1988) (citations omitted).  But, a petitioner 
+cannot satisfy its burden of proving obviousness by employing “mere 
+conclusory statements.”  In re Magnum Oil Tools Int’l, Ltd., 829 F.3d 1364, 
+1380 (Fed. Cir. 2016).   
+We analyze the challenges presented in the Petition in accordance 
+with the above-stated principles. 
+B. Level of Ordinary Skill in the Art 
+We review the grounds of unpatentability in view of the 
+understanding of a person having ordinary skill in the art (“PHOSITA”) 
+before the effective filing date of the claimed invention.  Graham, 383 
+U.S. at 17.   
+Petitioner contends that a person of ordinary skill in the art,  
+as of the claimed priority date of July 3, 2014, would have been 
+a person with at least a bachelor’s degree in electrical 
+engineering or its equivalent and at least two years of experience 
+in the field of electrical engineering including some experience 
+with DC power supply or battery charger design[;] . . . [l]ess 
+work experience could be compensated for by a higher level of 
+education, such as a master’s degree, and vice versa. 
+ 
+Pet. 22 (citing Ex. 1003 ¶¶ 39–42; Ex. 1014, 10–11).  Patent Owner “does 
+not propose a different level of skill in the art.”  PO Resp. 19. 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+12 
+In light of the record before us, and for purposes of this Decision, we 
+adopt Petitioner’s proposal regarding the level of ordinary skill in the art.  
+Based on our review of the ’023 patent and the prior art of record, we 
+determine that the definition offered by Petitioner comports with the 
+qualifications a person would have needed to understand the ’023 patent and 
+the prior art.   
+C. Claim Construction 
+We construe claim terms according to the standard set forth in Phillips 
+v. AWH Corp., 415 F.3d 1303, 1312–17 (Fed. Cir. 2005) (en banc).  
+37 C.F.R. § 42.100(b).  Under Phillips, we give claim terms “their ordinary 
+and customary meaning.”  Phillips, 415 F.3d at 1312.  “[T]he ordinary and 
+customary meaning of a claim term is the meaning that the term would have 
+to a person of ordinary skill in the art in question at the time of the 
+invention.”  Id. at 1313.  “Importantly, the person of ordinary skill in the art 
+is deemed to read the claim term not only in the context of the particular 
+claim in which the disputed term appears, but in the context of the entire 
+patent, including the specification.”  Id. 
+“Petitioner submits there are no formal claim constructions necessary 
+in this proceeding.”  Pet. 23.  Patent Owner “does not propose any terms 
+need to be construed.”  PO Resp. 18.   
+As neither party proposes an express construction for our 
+consideration and because we determine that claim construction is not 
+necessary to decide whether to institute, we do not expressly construe any 
+claim terms.  See Vivid Techs., Inc. v. Am. Sci. & Eng’g, Inc., 200 F.3d 795, 
+803 (Fed. Cir. 1999) (holding that “only those terms need be construed that 
+are in controversy, and only to the extent necessary to resolve the 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+13 
+controversy”); see also Nidec Motor Corp. v. Zhongshan Broad Ocean 
+Motor Co., 868 F.3d 1013, 1017 (Fed. Cir. 2017) (citing Vivid Techs. in the 
+context of an inter partes review). 
+D. Challenge Based on Richardson and Zhao (Ground 1) 
+Petitioner alleges that claims 1, 32, 38, 39, 47, 52, and 54 of the ’023 
+patent are rendered obvious by Richardson and Zhao.  Pet. 30.  
+1. Overview of the Prior Art 
+a) Richardson (Ex. 1005) 
+Richardson is titled “method and apparatus for providing 
+supplemental power to an engine.”  Ex. 1005, code (54).  Richardson 
+“relates to a portable power source for a motor vehicle and, more 
+particularly, to a method and apparatus to provide supplemental power to 
+start internal combustion and turbine engines.”  Id. ¶ 2.  Richardson explains 
+that if “the batteries [of a motor vehicle] are cross-connected or the clamps 
+inadvertently contact each other when one end of the jumper cables is 
+connected to a battery, sparking can occur resulting in . . . a potential for the 
+batteries exploding and fire.”  Id. ¶ 5.   
+Richardson states that  
+The present invention monitors the voltage of the battery 
+of the vehicle to be jump started and the current delivered by the 
+jump starter .  . . to determine if a proper connection has been 
+established and to provide fault monitoring.  For safety purposes, 
+only if the proper polarity is detected can the system operate. . . .  
+The system includes one or more internal batteries and capacitors 
+to provide the power to the battery of the vehicle to be jump 
+started.  Once the vehicle is started, the vehicle’s elec trical 
+system may recharge the batteries and capacitors before the unit 
+automatically electrically disconnects from the vehicle’s battery. 
+Id. ¶ 7.   
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+14 
+An example jump starter 10 (illustrated by a schematic of Figure 1 
+and by circuit diagrams of Figures 2A–D) includes microprocessor 12, 
+sensors, LED indicators, capacitors 21 and batteries 22 that collectively 
+supply charging power for charging a vehicle battery, two in-series shunt 
+cables 36, 37 that carry the charging power to the vehicle battery, and 
+contact relay 34 that selectively gates the charging power to the vehicle 
+battery (relaying between the shunt cables 36, 37).  Id. ¶¶ 12, 14, 16, Fig. 1.  
+When jump starter 10 is powered on, microprocessor 12 initializes the 
+hardware, reads all system parameters and variables, and initializes an 
+interrupt service routine.  Id. ¶ 22.  As part of the routine, a voltage is 
+measured to determine whether cables 36, 37 have been reverse connected to 
+the vehicle.  Id. ¶ 27.  If so, then microprocessor 12 prevents jump starting 
+until the reverse polarity condition is corrected.  Id.  Similarly, another 
+voltage is measured to determine whether jump starter batteries 22 are not 
+sufficiently charged.  Id. ¶ 28.  Microprocessor 12 prevents jump starting 
+until jump starter batteries 22 are sufficiently charged.  Id. ¶¶ 28–29.   
+When the jump starter has been successfully initiated, contact relay 34 
+is closed and jump starter capacitors 21 and batteries 22 connect to the 
+vehicle battery.  Id. ¶ 21.  Contact relay 34 is opened if the start cycle has 
+successfully completed, a start fault occurs, or the operator interrupts the 
+start cycle.  Id.   
+Jump starter 10 may be selectively configured for 12, 18, 24, 30, 36, 
+42, or 48 volts.  Id. ¶ 34.  For example, if batteries 23 are both 12-volt 
+batteries, the system may be configured for 12-volt or 24-volt operation.  Id.   
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+15 
+b) Zhao (Ex. 1006) 
+Zhao is titled “step-up battery charging management system and 
+control method thereof.”  Ex. 1006, code (54).  Zhao states that 
+Battery charging systems typically utilize .  . . an input 
+supplied by a power supply adapter[] and an output coupled to a 
+single-cell battery[] or multi-cell batteries.  A universal serial bus 
+(USB) power supply system usually has a rating power supply 
+voltage of 5V.  A single -cell lithium battery can employ 
+. . . step-down topology to charge the single-cell battery.  Step-up 
+topology can be used in battery management systems with series 
+connected multi -cell lithium batteries.  However, in some 
+circumstances, such as high input cur rent or short-circuit at the 
+output, if relatively large current is used directly for charging, the 
+electronic device and/or its battery can be damaged. 
+Id. at 1:19–30.  Figure 1, reproduced below, is an exemplary charger. 
+ 
+Figure 1 “is a schematic block diagram of a first example step-up battery 
+charger in accordance with embodiments of the present invention.”  Id. at 
+1:59–61.  Step-up battery charger 100 principally includes step-up converter 
+control circuit 102, charging control circuit 201, and power stage circuit 101.  
+Id. at 2:63–3:39.  Step-up converter portion 101, 102 of charger 100 receives 
+
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+16 
+and boosts a DC input voltage Vin to generate and output a boosted output 
+signal to charging control circuit 201 for charging of in-series lithium 
+batteries.  Id. at 3:1–7.  DC input voltage Vin is provided by a “universal 
+serial bus (USB) charger[] or any other suitable low voltage power supply 
+system.”  Id. at 3:8–11.   
+2. Analysis of Claim 1 
+Petitioner argues that the combination of Richardson and Zhao 
+renders claim 1 obvious.  Pet. 30.  Petitioner alleges that Richardson 
+discloses a jump starting apparatus with a power supply, i.e., Richardson’s 
+batteries 22.  Id. at 32–34 (citing Ex. 1005, Abstr., ¶¶ 2, 4, 6–7, 14, 16, 21, 
+35, Figs. 1, 2A, 2C, 3–8; Ex. 1003 ¶¶ 68, 70).  Petitioner contends that 
+Richardson’s positive (red clamp) terminal connector and negative (black 
+clamp) terminal connector (together jumper cables 60) teach a positive 
+polarity and negative polarity battery terminal configured for connecting the 
+jump starting apparatus to the positive/negative polarity battery terminal, as 
+claimed.  Id. at 34–37 (Ex. 1005, Abstr., claim 26, ¶¶ 16, 27–28, Fig. 2C; 
+Ex. 1003 ¶¶ 72–73).  Petitioner contends that limitation 1(d) is taught by 
+Richardson’s contact relay 34.  Id. at 37–39 (citing Ex. 1005 ¶¶ 21, 35–36, 
+54, claim 26, Figs. 1, 6 (step 268); Ex. 1003 ¶¶ 76–77).  Petitioner further 
+asserts that the control system or circuit of limitation 1(e) is taught by 
+Richardson’s microcontroller 12 and reverse voltage sensor 24.  Id. at 39–42 
+(citing Ex. 1005, Abstr., ¶¶ 14, 16, 18, 20, 27, 36, claim 26, Figs. 1, 2A–C; 
+Ex. 1003 ¶¶ 79–81).  Petitioner also notes that “Patent Owner admitted 
+‘Richardson discloses detecting proper polarity’ during prosecution.”  Id. 
+at 42 (Ex. 1002, 496; Ex. 1003 ¶ 82). 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+17 
+With respect to limitation 1(f), Petitioner argues that although 
+“Richardson teaches its system includes various features related to charging 
+the jump starter batteries, such as circuitry for detecting a charger voltage 
+and monitoring battery voltage to determine when the charging process is 
+complete,” “Richardson does not teach the jump starter’s charging circuitry 
+utilizes USB technology.”  Pet. 42–43 (citing Ex. 1005 ¶¶ 20, 28–29; 
+Ex. 1003 ¶ 84).  But, Petitioner contends that 
+Zhao teaches USB input circuits configured for converting 
+power from a USB power source (such as one providing a 5V 
+input) to increase power voltage to the power supply were well-
+known for portable battery -powered devices that require 
+charging a multicell battery pack with a voltage rating above the 
+voltage received from the power source. 
+Id. at 43 (citing Ex. 1006, Abstr., 1:22–23, 1:25–27, 3:6–11; Ex. 1003 ¶ 85).  
+Petitioner further alleges that Zhao teaches a technique to boost an input 
+voltage, such as a 5V USB power source, to a higher output voltage.  Id. 
+at 43–44 (citing Ex. 1006, Abstr., 1:22–23, 1:25–27, 1:34–45, 1:46–66, 
+2:51–62, 2:63–3:11; Ex. 1003 ¶¶ 85–86).   
+Petitioner alleges that a person of ordinary skill in the art  
+would have been motivated to modify the design of Richardson’s 
+jump starter to either (1) replace the existing charging circuitry 
+with Zhao’s step-up charging system and connect the output to 
+Richardson’s jump starter batteries, or (2) add Zhao’s step -up 
+charging system and connect the output to Richardson’s jump 
+starter batteries as an additional and alternatively pathway for 
+charging the jump starter batteries.  EX1003, ¶ 88.   
+Id. at 45.  According to Petitioner, either option identified would have been 
+beneficial: 
+For example, although option 1 may result in longer charging 
+times, it allows the supplier to avoid the need to supply a 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+18 
+proprietary charger or other type of AC “power brick” that would 
+be less ubiquitous or less standardized than a USB charger .  
+Id.  On the other hand, while option 2 would result in a slight 
+increase in cost for including an additional input connector and 
+DC-DC conversion circuitry in Richardson’s jump starter, the 
+desirable benefits would include increased flexibility so that the 
+jump starter batteries could be charged via a traditional AC 
+power brick when available, but alternatively by a USB charger 
+if the AC power brick is lost, damaged, or the user is otherwise 
+in a location where only USB power is readily available.   
+Id. at 45. 
+Petitioner further alleges that “the desirability of utilizing USB 
+technology to charge battery-powered devices was well-known before the 
+priority date.”  Pet. 46–49 (citing Ex. 1001, 7:21–25; Ex. 1025, 6; Ex. 1024 
+¶¶ 1–4, 8; Ex. 1016 ¶¶ 2, 11; Ex. 1003 ¶¶ 89–91; Ex. 1029; Ex. 1030; 
+Ex. 1009, 1:18–23; Ex. 1027, 26–28; Ex. 1026, 28:14–31:13; 32:22–38:24; 
+42:23–43:22; 44:2–19; 51:14–54:13, 54:25–56:14; Ex. 1026, 53:2–18; 
+Ex. 1018; Ex. 1019, Abstr., ¶¶ 4–5, Fig. 1, Fig. 2; Ex. 1020; Ex. 1021, 4; 
+Ex. 1017, 2:48–59; Ex. 1022; Ex. 1023, Abstr., claim 1, ¶¶ 3–9, 13, 16–17, 
+Fig. 1).  Petitioner identifies the “desired benefits of USB technology” as 
+including, inter alia, “(1) reducing the need for suppliers to ship product with 
+proprietary chargers (thus reducing cost of goods and avoiding electronic 
+waste), (2) providing device users with the desired result of reducing their 
+need to possess or carry multiple proprietary chargers and cables for their 
+battery-powered devices (e.g. the goal of universal compatibility), (3) ease 
+of use, and (4) durability.”  Id. at 46 (citing Ex. 1016 ¶ 2; Ex. 1003 ¶ 89). 
+As to use of a USB input connector, i.e., limitation (g), Petitioner 
+asserts that although “Richardson is not explicit regarding the type of input 
+connector utilized for charging the jump start batteries,” “a [person of 
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+19 
+ordinary skill in the art] would have been familiar with the relevant USB 
+standards and been motivated to implement USB technology when designing 
+a portable battery-powered device,” e.g., “implementation of 
+commercially-available USB receptacles (such as a micro-USB receptacle) 
+when designing a USB charging feature.”  Pet. 50.  According to Petitioner, 
+a person of ordinary skill in the art 
+would have known Zhao’s system implements a design requiring 
+the remaining portions of a USB charging system, especially a 
+USB-compliant receptacle (such as a micro-USB connector).  A 
+[person of ordinary skill in the art’s]  knowledge of these USB 
+input connectors—which the ’023 patent admits are “standard” 
+(see EX1001, 7:23 –25)—is further corroborated by the USB 
+standards and other prior art discussing these standard 
+connectors.  See, e.g., EX1009, 1:20 –23 (discussing USB, 
+mini-USB, and micro -USB connectors ); EX1018; EX1019, 
+¶ [0004] (discussing “Mini-USB interface”). 
+Id. at 50–51 (also citing Ex. 1003 ¶¶ 94–95).  
+Patent Owner does not challenge many of Petitioner’s allegations 
+regarding the teachings of Richardson10 and Zhao.  See generally PO Resp.  
+We have reviewed Petitioner’s arguments and evidence and agree—based on 
+the information provided in the Petition—that the preponderance of the 
+evidence supports Petitioner’s contention that the combination of 
+Richardson and Zhao teaches each limitation of claim 1 of the ’023 patent.  
+Patent Owner does assert, however, that the skilled artisan would not have 
+had reason to combine the teachings of Richardson and Zhao as Petitioner 
+suggests.  Id. at 25–38.  Specifically, Patent Owner contents that Petitioner 
+ 
+10 Petitioner notes “[t]he Board made similar factual findings regarding 
+Richardson in the ’015-FWD, which was affirmed on appeal.”  Pet. 32–42 
+(citing Ex. 1014 at 50–67; Ex. 1015 at 2; Ex. 1003 ¶¶ 69–83).   
+
+IPR2024-00577 
+Patent 11,447,023 B2  
+20 
+has failed to show a reason to combine because (1) Richardson’s device 
+would not function properly with Zhao’s USB charging port (id. at 25–31); 
+(2) no explanation is provided about how to incorporate Zhao’s USB 
+charging port into Richardson’s system (id. at 32–34); and (3) no evidence 
+suggests that Zhao’s step-up converter could charge Richardson’s device (id. 
+at 37–38).  We address Patent Owner’s argument below. 
+a) Whether Petitioner Has Shown a Reason to 
+Include a USB Charging Port in Richardson  
+Patent Owner argues that the reasons to combine the teachings of 
+Richardson and Zhao, provided by Petitioner, are insufficient to support the 
+combination.  PO Resp. 25–31.  Specifically, Patent Owner contends that 
+Richardson’s jump starter is used to charge a fleet of vehicles, having high 
+capacity batteries, over a short period of time and a person of ordinary skill 
+in the art would not have had reason to use Zhao’s USB system to charge a 
+high-voltage, large capacity battery system because Zhao does not teach 
+using its USB system at voltages above 8.4V or to charge large capacity 
+batteries.  Id.  According to Patent Owner, “charging such a large-capacity 
+battery with USB was counterintuitive, not because boost converting an 
+input voltage was not understood in the art, but instead because it was well 
+understood that the limited charging current that traditional USB provided 
+was not capable of quickly charging high-capacity battery systems.”  Id. at 
+27.  Patent Owner alleges that charging a 48V battery pack, like that 
+contemplated by Richardson, “would require four times the number of 
+series-connected battery cells of a typical 12V vehicle charger, assuming 
+peak current is maintained” and that “[c]harging Richardson’s system would 
+therefore take four times longer than a jump starter designed to jump start 

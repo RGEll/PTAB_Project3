@@ -1,0 +1,275 @@
+2024002880 2025 08 26 6583dc03 0b34 46bd a958 93345eb5e15c
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/852,175 04/17/2020 Ian Millard 101847-1153597-001510US 4509
+20350 7590 08/27/2025
+Kilpatrick Townsend & Stockton LLP - West Coast
+Mailstop: IP Docketing - 22
+1100 Peachtree Street
+Suite 2800
+Atlanta, GA 30309
+EXAMINER
+CHERN, CHRISTINA
+ART UNIT PAPER NUMBER
+1721
+NOTIFICATION DATE DELIVERY MODE
+08/27/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+KTSDocketing2@kilpatrick.foundationip.com
+ipefiling@kilpatricktownsend.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+——————
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+——————
+Ex parte IAN MILLARD
+——————
+Appeal 2024-002880
+Application 16/852,175
+Technology Center 1700
+——————
+
+Before JEFFREY T. SMITH, BEVERLY A. FRANKLIN, and
+JEFFREY R. SNAY, Administrative Patent Judges.
+SMITH, Administrative Patent Judge.
+DECISION ON APPEAL
+STATEMENT OF THE CASE
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the
+Examiner’s decision to reject claims 1, 4–6, 21–23, and 25–32. See Final
+Act. 1. We have jurisdiction under 35 U.S.C. § 6(b).
+We AFFIRM.
+
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant
+identifies the real party in interest as Ubiquitous Energy, Inc. Appeal Br. 3.
+
+Appeal 2024-002880
+Application 16/852,175
+2
+CLAIMED SUBJECT MATTER
+The claims are directed to methods and systems for insulated glass
+units with electrical connection to internal solar panels. Claim 1, reproduced
+below, illustrates the claimed subject matter:
+1. An insulated glass unit (IGU) including:
+a first glass lite;
+a transparent solar cell formed on the first glass lite,
+wherein the transparent solar cell includes one or more
+busbars;
+a spacer frame joined to the first glass lite and including a
+corner key integrated electrical connection unit;
+an electrical conductor passing through the corner key
+integrated electrical connection unit, wherein:
+the electrical conductor includes a molded cable and
+an electrical connector joined at a bonding location
+enclosed within the corner key integrated electrical
+connection unit; and
+the electrical conductor is electrically connected to
+one of the one or more busbars; and
+a second glass lite joined to the spacer frame.
+
+REFERENCES
+The Examiner relies on the following references to reject the claims:
+Name Reference Date
+Chubb US 2011/0248014 A1 Oct. 13, 2011
+Brown US 2014/0349497 A1 Nov. 27, 2014
+Hammond US 2017/0317305 A1 Nov. 2, 2017
+Rozbicki US 2018/0301578 A1 Oct. 18, 2018
+Plummer US 2018/0337630 A1 Nov. 22, 2018
+McNeil US 2020/0301234 A1 Sept. 24, 2020
+Nagao JP 2006165172 A June 22, 2006
+
+
+
+Appeal 2024-002880
+Application 16/852,175
+3
+REJECTIONS
+
+The Examiner maintains the following rejections:
+Claim(s)
+Rejected
+35 U.S.C.
+§ Reference(s)/ Basis
+25 112 Written Description
+25 112 Indefiniteness
+1, 26–31 103 Hammond, Chubb, Brown
+4 103 Hammond, Chubb, Brown, McNeil,
+5 103 Hammond, Chubb, Brown, McNeil, Plummer,
+and Rozbicki
+6, 21, 32 103 Hammond, Chubb, Brown, Nagao
+22 103 Hammond, Chubb, Brown, Nagao, McNeil,
+23 103 Hammond, Chubb, Brown, Nagao, McNeil,
+Plummer, and Rozbicki
+
+
+OPINION
+Rejections under 35 USC § 112 (a) and (b)
+The Examiner finally rejected claim 25 under 35 USC § 112 (a) and
+(b) as lacking written descriptive support in the Specification and as
+indefinite. (Final Act. 2–4.) Appellant does not identify these rejections as
+being appealed and presents no argument for their reversal. Accordingly, we
+summarily affirm the rejections. See Hyatt v. Dudas, 551 F.3d 1307, 1314
+(Fed. Cir. 2008) (explaining that summary affirmance without consideration
+of the substantive merits is appropriate where an appellant fails to contest a
+ground of rejection).
+
+
+
+Appeal 2024-002880
+Application 16/852,175
+4
+Rejections under 35 U.S.C. § 103
+We review the appealed rejections for error based upon the issues
+Appellant identifies, and in light of the arguments and evidence produced
+thereon. Ex parte Frye, 94 USPQ2d 1072, 1075 (BPAI 2010) (precedential),
+(cited with approval in In re Jung, 637 F.3d 1356, 1365 (Fed. Cir. 2011)
+(“[I]t has long been the Board’s practice to require an applicant to identify
+the alleged error in the examiner’s rejections.”). Upon review of the
+evidence and each of the respective positions set forth in the record, we find
+that the preponderance of evidence supports the Examiner’s position that the
+claims are obvious under 35 U.S.C. § 103 over the cited references.
+After weighing of the respective positions Appellant presents in the
+Appeal Brief and the Examiner provides in the Final Office Action and the
+Answer, we affirm the Examiner’s rejections of claims 1, 4–6, 21–23, and
+25–32 under 35 U.S.C. § 103 essentially for the reasons the Examiner
+presents. We add the following for emphasis.
+Appellant argues Hammond, Chubb, and Brown do not disclose or
+suggest “an electrical conductor passing through the comer key integrated
+electrical connection unit, wherein: the electrical conductor includes a
+molded cable and an electrical connector joined at a bonding location
+enclosed within the comer key integrated electrical connection unit,” as
+recited in claim 1. (Appeal Br. 15.)
+Appellant argues Chubb fails to teach the electrical conductor
+includes a molded cable and an electrical connector or joined at a bonding
+location enclosed within the corner key integrated electrical connection unit
+as required by the claimed invention. (Appeal Br. 14–15.) Appellant argues
+Chubb teaches “the electrical connector 41 and wire lead 44 that are
+
+Appeal 2024-002880
+Application 16/852,175
+5
+detachably coupled to each other, whereas the molded cable and the
+electrical connector of the pending Application are permanently bonded
+with each other at a bonding location. (Appeal Br. 13.)
+Appellant’s arguments are not persuasive of reversible error. As noted
+by the Examiner, the Specification does not require the bond to be
+permanent. (Ans. 3.) The Specification states “the molded cables and the
+electrical connectors are electrically bonded, for example, using a solder
+bond.” (Spec. ¶ 20.) The claim also does not require the molded cable and
+electrical connector to be permanently bonded, the claim only requires
+joining the molded cable and an electrical connector at a bonding location.
+Chubb discloses the wire lead and the electrical connector are in electrical
+contact with one another (Chubb ¶ 60.) The Examiner finds Chubb discloses
+crimp electrical connectors for connecting the wire lead. (Ans. 4, Chubb ¶
+15.)
+Appellant further argues that Chubb is non-analogous art because the
+insulating glass unit of Chubb is employed for use in refrigerated cabinets
+including heating film and different from the field of insulated glass units
+including solar panels. (Appeal Br. 16.)
+A reference qualifies as prior art for an obviousness determination
+when it is analogous to the claimed invention. Innovention Toys, LLC. v.
+MGA Ent., Inc., 637 F.3d 1314, 1321 (Fed. Cir. 2011). “Two separate tests
+define the scope of analogous art: (1) whether the art is from the same field
+of endeavor, regardless of the problem addressed, and (2) if the reference is
+not within the field of the inventor's endeavor, whether the reference still is
+reasonably pertinent to the particular problem with which the inventor is
+involved.” In re Bigio, 381 F.3d 1320, 1325 (Fed. Cir. 2004). The “field of
+
+Appeal 2024-002880
+Application 16/852,175
+6
+endeavor” test asks if the structure and function of the prior art is such that it
+would be considered by a person of ordinary skill in the art because of
+similarity to the structure and function of the claimed invention as disclosed
+in the application. Id. at 1325–26. “A reference is reasonably pertinent if, . . .
+it is one which, because of the matter with which it deals, logically would
+have commended itself to an inventor's attention in considering his
+problem.” In re Clay, 966 F.2d 656, 659 (Fed. Cir. 1992). “If a reference
+disclosure has the same purpose as the claimed invention, the reference
+relates to the same problem, and that fact supports use of that reference in an
+obviousness rejection.” Id. Whether a prior art reference is “analogous” is a
+question of fact. Id. at 658.
+Chubb describes a corner key assembly of an insulating glass unit.
+(Chubb, Abstract and ¶ 2). Chubb is analogous art because the reference is
+from the same field of endeavor related to insulated glass units, where the
+electrical connections utilize a corner key assembly that allows the use of
+highly automated manufacturing equipment for making IG units (Chubb ¶¶
+24, 25.) The use of a corner key allows the attachment of wire leads after the
+essentially complete assembly of the insulating glass unit without having
+wire leads interfering with the assembly or transport process. Thus, Chubb
+constitutes analogous art that falls with the scope and content of the prior art
+for purposes of the Examiner's obviousness analysis.
+Appellant’s arguments addressing Brown and Nagao are not
+persuasive. Appellant’s arguments do not address the reasons the Examiner
+cited these references. (Appeal Br. 16–17.) Accordingly, Appellant has not
+persuasively identified error in the Examiner’s position. See In re Lovin, 652
+F.3d 1349, 1357 (Fed. Cir. 2011).
+
+Appeal 2024-002880
+Application 16/852,175
+7
+Regarding the separate rejections of claims 4, 5, 6, 21–23, and 32
+under 35 U.S.C. § 103, we affirm these rejections advanced by the
+Examiner. Appellant has only presented arguments as to independent claim
+1 and dependent claims 26–31 (discussed above) and have not otherwise
+presented separate arguments on the merits for claims 4, 5, 6, 21–23, and 32.
+In this regard, Appellant does not assert non-obviousness based on the
+additional limitations set forth in claims 4, 5, 6, 21–23, and 32 and therefore
+has failed to establish the obviousness of the additional features recited in
+these separately rejected claims. Because we do not find Appellant’s
+arguments persuasive as to independent claim 1, it follows that these
+arguments are unpersuasive as to claims 4, 5, 6, 21–23, and 32.
+CONCLUSION
+The Examiner’s rejections are AFFIRMED.
+
+Appeal 2024-002880
+Application 16/852,175
+8
+DECISION SUMMARY
+The following table summarizes our decision:
+Claim(s)
+Rejected
+35
+U.S.C.
+§
+Reference(s)/ Basis Affirmed Reversed
+25 112 Written Description 25
+25 112 Indefiniteness 25
+1, 26–31 103 Hammond, Chubb, Brown 1, 26–31
+4 103 Hammond, Chubb, Brown,
+McNeil
+4
+5 103 Hammond, Chubb, Brown,
+McNeil, Plummer, Rozbicki
+5
+6, 21, 32 103 Hammond, Chubb, Brown,
+Nagao
+6, 21, 32
+22 103 Hammond, Chubb, Brown,
+Nagao, McNeil
+22
+23 103 Hammond, Chubb, Brown,
+Nagao, McNeil, Plummer,
+Rozbicki
+23
+Overall
+Outcome
+1, 4–6, 21–
+23, 25–32
+
+
+TIME PERIOD FOR RESPONSE
+No time period for taking any subsequent action in connection with
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R. §
+1.136(a)(1)(iv).
+AFFIRMED

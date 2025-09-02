@@ -1,0 +1,496 @@
+2024004106 2025 08 27 32f45f1a 66d2 4e87 82dc 67fa1196f3a5
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/743,462 01/15/2020 Masashi SAKAI 005700-ME0612 1074
+78198 7590 08/28/2025
+Studebaker Brackett PLLC
+8255 Greensboro Drive
+Suite 300
+Tysons, VA 22102
+EXAMINER
+KIM, JAY C
+ART UNIT PAPER NUMBER
+2815
+NOTIFICATION DATE DELIVERY MODE
+08/28/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+info@sbpatentlaw.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+—————— 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+—————— 
+Ex parte MASASHI SAKAI, YOICHIRO MITANI, and 
+TAKUYO NAKAMURA 
+—————— 
+Appeal 2024-004106 
+Application 16/743,462 
+Technology Center 2800 
+—————— 
+ 
+Before JENNIFER L. MCKEOWN, BETH Z. SHAW, and 
+AARON W. MOORE, Administrative Patent Judges. 
+MCKEOWN, Administrative Patent Judge. 
+DECISION ON APPEAL 
+STATEMENT OF THE CASE 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the 
+Examiner’s decision to reject claims 1, 2, and 6–9. See Final Act. 1. We 
+have jurisdiction under 35 U.S.C. § 6(b). 
+We REVERSE. 
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant 
+identifies the real party in interest as MITSUBISHI ELECTRIC  
+CORPORATION. Appeal Br. 2. 
+
+Appeal 2024-004106 
+Application 16/743,462 
+2 
+CLAIMED SUBJECT MATTER 
+The claims are directed to silicon carbide epitaxial wafer . 
+Spec. 1:6–7. The claimed silicon carbide epitaxial wafer  
+includes a silicon carbide substrate and silicon carbide epitaxial 
+layers formed on the silicon carbide substrate. Each of the silicon 
+carbide epitaxial layers has a triangular defect. The silicon 
+carbide epitaxial layer each have a step inside the triangular 
+defect in the surface morphology of the triangular defect. 
+Abstract.  
+Claim 1, reproduced below, illustrates the claimed subject matter: 
+1. A silicon carbide epitaxial wafer comprising: 
+ a silicon carbide substrate; and 
+ a silicon carbide epitaxial layer formed on the silicon 
+carbide substrate,  
+wherein the silicon carbide epitaxial layer has a 
+triangular defect and a step inside the triangular defect in a 
+surface morphology of the triangular defect,  
+a first surface of the triangular defect upstream of the 
+step in a step flow direction is lower than a second surface of 
+the triangular defect downstream of the step in the step flow 
+direction, the first surface being lower than the second surface 
+relative to a direction perpendicular to a plane comprising a 
+surface of the silicon carbide epitaxial layer surrounding the 
+triangular defect,  
+the step includes a surface directly connecting the first 
+surface and the second surface and extending from the first 
+surface to the second surface in a direction pointing away from 
+the silicon carbide substrate, and  
+the surface of the silicon carbide epitaxial layer 
+downstream of the triangular defect is higher than the first 
+surface and the second surface relative to the direction 
+perpendicular to the plane. 
+
+Appeal 2024-004106 
+Application 16/743,462 
+3 
+REJECTIONS 
+The Examiner maintains the following rejections: 
+Claims 1, 2, and 6–9 are rejected under 35 U.S.C. § 112(a) as failing 
+to comply with the written description requirement. Final Act. 4.  
+Claims 1, 2, and 6–9 are rejected under 35 U.S.C. § 112(b) as being 
+indefinite. Final Act. 10. 
+OPINION 
+THE WRITTEN DESCRIPTION REJECTION 
+Claims 1, 2, and 6–9 
+The Examiner finds lack of written description support for (1) “a first 
+surface of the triangular defect upstream of the step in a step flow direction 
+is lower than a second surface of the triangular defect downstream of the 
+step in the step flow direction” (hereafter “height difference limitation”) 
+(Final Act. 4); (2) “the first surface being lower than the second surface 
+relative to a direction perpendicular to a plane comprising a surface of the 
+silicon carbide epitaxial layer surrounding the triangular defect” (hereinafter 
+“surface plane limitation”) (Final Act. 7); (3) “the step includes a surface 
+directly connecting the first surface and the second surface and extending 
+from the first surface to the second surface in a direction pointing away from 
+the silicon carbide substrate” (hereinafter “step direction limitation”) (Final 
+Act. 8); and (4) “the surface of the silicon carbide epitaxial layer 
+downstream of the triangular defect is higher than the first surface and the 
+second surface relative to the direction perpendicular to the plane” 
+(hereinafter “downstream limitation”). Final Act. 8–9.  
+In assessing written description, we consider “whether the disclosure 
+of the application relied upon reasonably conveys to those skilled in the art 
+
+Appeal 2024-004106 
+Application 16/743,462 
+4 
+that the inventor had possession of the claimed subject matter as of the filing 
+date sought.” Ariad Pharm., Inc. v. Eli Lilly and Co., 598 F.3d 1336, 1351 
+(Fed. Cir. 2010) (en banc). This “test requires an objective inquiry into the 
+four corners of the specification from the perspective of a person of ordinary 
+skill in the art. Based on that inquiry, the specification must describe an 
+invention understandable to that skilled artisan and show that the inventor 
+actually invented the invention claimed.” Id. at 1351. Under this standard, 
+for the reasons discussed below, we are persuaded of error in the Examiner’s 
+rejection.  
+ 
+(1) “a first surface of the triangular defect upstream of the step in a step 
+flow direction is lower than a second surface of the triangular defect 
+downstream of the step in the step flow direction” 
+The Examiner provides four reasons why this height difference 
+limitation fails to comply with the written description requirement. First, the 
+Examiner identifies that the Specification describes the silicon carbide 
+substrate has an off angle and the claimed relative height difference does not 
+consider this off angle. Final Act. 5; see also Spec. 5:20 (disclosing that the 
+substrate “off angle is about 5° or less.”).  
+Second, the Examiner points out that the Specification describes the 
+height difference in the second silicon carbide epitaxial layer, not in the 
+triangular defect. Final Act. 4–5.  
+Third, the Examiner finds the Specification only describes the height 
+difference with respect to the step as a “portion” of the second silicon 
+carbide epitaxial layer. As such, this “portion” may be limited to the 
+immediate and narrow portion of the silicon carbide layer directly adjacent 
+
+Appeal 2024-004106 
+Application 16/743,462 
+5 
+to the step and does not describe the entire portion of the triangular defect 
+before the step is lower than the entire portion of the triangular defect after 
+the step. Final Act. 5–6.  
+Finally, the Examiner maintains that the top view of Figure 3 alone 
+does not sufficiently show the claimed height difference and, thus, the 
+Appellant is “attempting to claim [] an opinion, a misrepresentation or 
+misinterpretation, or an overinterpretation of the single micrograph shown in 
+Fig. 3 of current application.” Final Act. 6–7; see also Ans. 4 (finding that 
+Appellant relies on conjecture “rather than from actual measurement results” 
+and that the “low resolution micrograph” of Figure 3 does not clearly show 
+the detailed features or overall size of the claimed triangular defect). 
+Similarly, in the Answer, the Examiner maintains that Figure 3 is 
+insufficient because “there is no way to unambiguously tell whether the 
+plane in Fig. 3 of the current application is aligned with any structural 
+element of the claimed invention.” Ans. 3. See also Ans. 6–8 (citing prior art 
+top view figures to show that a top view is insufficient to depict a height 
+difference). 
+ Based on the record before us, we are persuaded of error in the 
+Examiner’s determination. First, the Examiner here does not sufficiently 
+explain why an off angle in the silicon carbide substrate shows lack of 
+written description support for the claimed relative height difference. Appeal 
+Br. 4. The Specification describes the silicon carbide epitaxial layer, which 
+includes first and second silicon carbide epitaxial layers, is formed on the 
+substrate. See, e.g., Spec. Fig. 1; 5:21–23. The Specification then describes 
+the height difference of the surface of the formed epitaxial layer. See, e.g., 
+Spec. 11:18–21 (disclosing a portion of the surface of the epitaxial layer on 
+
+Appeal 2024-004106 
+Application 16/743,462 
+6 
+the left side of the step is lower than a portion of the surface of the epitaxial 
+layer on the right side of the step). The surface plane limitation similarly 
+refers to the plane of the surface of the epitaxial layer. It is unclear, based on 
+the record before us, why a substrate off angle results in lack of written 
+description support for the recited height difference of the first surface and 
+second surface of the triangular defect in the epitaxial layer.  
+ For example, in the Examiner’s annotated hand drawn schematic side 
+views of Figure 3, namely Fig. 3` and 3`` (Ans. 14) reproduced below, the 
+plane of the surface of the epitaxial layer, i.e. the plane corresponding to the 
+line with point 33, tilts with the depicted off angle.   
+ 
+Examiner’s Hand Draw Schematic Side Views of Figure 3,  
+With and Without an Off Angle 
+As such, contrary to the Examiner’s assertion, in Fig. 3`` point 32 is lower 
+than point 33 relative to a direction perpendicular to the depicted tilted plane 
+corresponding to the surface of the silicon carbide epitaxial layer. Therefore, 
+the Examiner has not shown that the Specification’s disclosure of a substrate 
+off angle results in a lack of written description support for the recited height 
+difference limitation.  
+We likewise disagree with the Examiner’s second reason that the 
+surface height difference is described as outside the triangular defect. See 
+
+
+Appeal 2024-004106 
+Application 16/743,462 
+7 
+e.g., Ans. 5. The claim itself recites the step is “inside the triangular defect.” 
+Appeal Br. 16. The Specification also, with reference to Figure 3, describes  
+the surface of the second silicon carbide epitaxial layer 13 on 
+the left side of the step 31, that is, a portion before the step 31 
+along the step flow direction, is lower than the surface of the 
+second silicon carbide epitaxial layer 13 on the right side of the 
+step 31, that is, a portion after the step 31 along the step flow 
+direction. 
+11:18–21. While this disclosure refers to a surface of the second silicon 
+carbide epitaxial layer or a portion of the layer, Figure 3, reproduced below, 
+notably depicts cited step 31 only within triangular defect 30. See Reply 
+Br. 3.  
+ 
+Figure 3 Depicting a Photograph of an Exemplary Triangular Defect 
+Present in the Silicon Carbide Epitaxial Wafer Observed with an 
+Optical Surface Defect Evaluation Apparatus 
+
+
+Appeal 2024-004106 
+Application 16/743,462 
+8 
+See also Spec. 4:8–10 (disclosing “a step inside the triangular defect in the 
+surface morphology of the triangular defect.” (emphasis added)). As such, 
+contrary to the Examiner’s annotated Figure 3 in the Answer (Ans. 5), a 
+skilled artisan would understand that the Specification describes a surface 
+within the triangular defect and sufficiently supports the claimed limitation.  
+Regarding reason three, the claim does not recite the “entire” 
+triangular defect on each side of the step, but instead recites “a first surface” 
+and “a second surface” of the triangular defect. In other words, in view of 
+the Specification including Figure 3, a portion of the surface of the triangular 
+defect upstream of the step is lower than a portion of a surface of the 
+triangular defect downstream to the step. As such, the Examiner’s reasoning 
+fails to show lack of written description support.  
+Finally, regarding reason four, the Examiner finds Figure 3 alone does 
+not sufficiently describe the claimed height difference. See, e.g., Final Act. 6 
+(finding that Appellant is attempting to claim a misrepresentation of a single 
+micrograph of Figure 3); Ans. 6–7 (repeating that a top view photograph 
+cannot show a height difference). As Appellant points out though, the 
+Examiner’s reasoning is “especially inadequate considering that page 11, 
+lines 11-13 and 18-21 of the instant specification explicitly describe the 
+features of claim 1.” Reply Br. 3. See also Reply Br. 5 (“the Examiners’ 
+additional arguments regarding measurement conditions and the ‘size of the 
+micrograph’ are inadequate to establish that the disclosure fails to 
+demonstrate possession of the claimed features”). 
+We agree. While a side view may generally provide additional detail, 
+the lack of a side view or lack of measurement conditions, without more, 
+does not establish insufficient written description, particularly here, where 
+
+Appeal 2024-004106 
+Application 16/743,462 
+9 
+the Specification explicitly describes the height difference with respect to 
+Figure 3. See Spec. 11:11–21. As such, based on the record before us, we are 
+constrained to find that the Examiner does not demonstrate insufficient 
+written description support for the recited height difference limitation.   
+ 
+(2) “the first surface being lower than the second surface relative to a 
+direction perpendicular to a plane comprising a surface of the silicon 
+carbide epitaxial layer surrounding the triangular defect” 
+The Examiner finds that the Specification does not disclose “what the 
+‘plane comprising a surface of the epitaxial layer’ would be” or, in other 
+words, the Specification does not disclose that the triangular defect and the 
+remaining surface area of the silicon carbide epitaxial layer have the same 
+surface orientation. Final Act. 7; Reply Br. 3. The Examiner also finds that 
+the Specification does not describe “how the etching is carried out” or “the 
+surface orientation of the etched surface of the triangular defect.” Final 
+Act. 7.   
+ As discussed above, the Specification describes forming the silicon 
+carbide epitaxial layer on the substrate and describes the recited height 
+difference with respect to Figure 3. See, e.g., Spec. Fig. 1; 5:21–23; 11:11–
+21. This surface plane limitation merely identifies the height difference with 
+reference to a plane aligned with or corresponding to the surface of this 
+epitaxial layer. Based on the record before us, the Examiner does not 
+sufficiently explain how lack of description of the etching process or surface 
+orientation of the triangular defect demonstrate lack of written description 
+support for this limitation. See, e.g., Appeal Br. 6–7. Based on the record 
+
+Appeal 2024-004106 
+Application 16/743,462 
+10 
+before us, we are constrained to find that the Examiner’s reasoning does not 
+show lack of written description support for the surface plane limitation.2  
+   
+(3) “the step includes a surface. . . extending from the first surface to the 
+second surface in a direction pointing away from the substrate” 
+The Examiner explains “this limitation appears to suggest that the 
+silicon carbide substrate has a flat surface without an off angle” and 
+“appears to suggest ‘in a direction perpendicular to the substrate.’” Final 
+Act. 8. According to the Examiner, because of the described substrate off 
+angle, the surface should instead “extend along a direction forming an 
+oblique angle with respect to the substrate.” Final Act. 8. The Examiner also 
+notes that the Specification does not include the word “away” in the original 
+disclosure. Final Act. 8.   
+ We agree with Appellant that the Examiner’s interpretation is 
+unreasonably narrow. Appeal Br. 7. It is unclear, based on the record before 
+us, why pointing in a direction “away from the substrate” would require a 
+direction perpendicular to the substrate. For example, the oblique angle 
+noted by the Examiner also is a direction pointing away from the substrate. 
+As Appellant also points out, there is no verbatim requirement to satisfy the 
+written description requirement. Reply Br. 4. See Purdue Pharma L.P. v. 
+Faulding Inc., 230 F.3d 1320, 1323 (Fed. Cir. 2000) (“In order to satisfy the 
+written description requirement, the disclosure as originally filed does not 
+ 
+2 We also note that Appellant’s petition requesting withdrawal of the 
+Examiner’s objection to the drawings for failing to show this limitation was 
+granted. The petition found the limitation is illustrated in Figure 3 and 
+described on pages 4–5 of the Specification. Decision Granting Petition on 
+April 3, 2024, Control. No. 16/743,462, at 3–4.  
+
+Appeal 2024-004106 
+Application 16/743,462 
+11 
+have to provide in haec verba support for the claimed subject matter at 
+issue.”).  
+With respect to the substrate off angle, as discussed above, the 
+Examiner’s reasoning is misplaced. Namely, it is unclear how the substrate 
+off angle would show lack of possession of the claimed step direction 
+limitation. Based on the record before us then, we are constrained to find 
+that the Examiner, without more, fails to sufficiently show lack of written 
+description support for the step direction limitation.  
+ 
+(4) “the surface of the silicon carbide epitaxial layer downstream of the 
+triangular defect is higher than the first surface and the second surface 
+relative to the direction perpendicular to the plane” 
+The Examiner finds that there is an inconsistency in the claim 
+language in that the claim recites the surface of the epitaxial layer 
+surrounding the triangular defect (previous limitation) is downstream of the 
+triangular defect (this limitation). Final Act. 9. In other words, the surface of 
+the epitaxial surface downstream of the triangular defect does not surround 
+the triangular defect. The Examiner also finds there is no antecedent basis 
+for the surface downstream the triangular defect. Final Act. 9. 
+The Examiner next finds that Appellant merely claims “their opinion 
+or impression of the single micrograph shown in Fig. 3 of current application 
+rather than an actual structure.” Final Act. 9. In the Answer, the Examiner 
+again explains that the micrograph of Figure 3 is insufficient to show the 
+disputed claim limitations because Appellant’s Specification does not 
+disclose the size or measurement conditions of the micrograph nor does the 
+
+Appeal 2024-004106 
+Application 16/743,462 
+12 
+Specification describe the type of scientific tool used to create the 
+micrograph. Ans. 3.  
+For similar reasons to those discussed above, we are persuaded of 
+error in the Examiner’s determination. For example, while we agree there is 
+an inconsistency in reciting a surface of the epitaxial layer surrounding the 
+triangular defect as the antecedent basis for the surface of the epitaxial layer 
+downstream of the triangular defect, the Examiner fails to sufficiently 
+explain why this inconsistency in antecedent basis establishes lack of written 
+description. As Appellant explains, Figure 3 at least depicts a surface of the 
+epitaxial layer surrounding the triangular defect that would include a surface 
+of the epitaxial layer downstream of the triangular defect. See Appeal Br. 8–
+9; Spec. Fig. 3; 11:10–21. Similarly, as discussed above, the Examiner’s 
+speculation regarding structures, based on other prior art references, does not 
+show lack of written description in the present Specification. See Reply 
+Br. 3. Based on the record before us then, we are constrained to find that the 
+Examiner has not established lack of written description support for the 
+downstream limitation.3  
+Accordingly, we reverse the rejection of claims 1, 2, and 6–9 under 35 
+U.S.C. § 112(a) as failing to comply with the written description 
+requirement. 
+ 
+ 
+3 We again note that Appellant’s petition requesting withdrawal of the 
+Examiner’s objection to the drawings for failing to show this limitation was 
+granted. The petition found the limitation is illustrated in Figure 3 and 
+described on pages 4–5 of the Specification. Decision Granting Petition on 
+April 3, 2024, Control. No. 16/743,462, at 3–4. 
+
+Appeal 2024-004106 
+Application 16/743,462 
+13 
+THE INDEFINITENESS REJECTION 
+Claims 1, 2, and 6–9 
+“[A] claim is indefinite when it contains words or phrases whose 
+meaning is unclear,” and “claims are required to be cast in clear--as opposed 
+to ambiguous, vague, indefinite--terms.” In re Packard, 751 F.3d at 1310, 
+1313 (Fed. Cir. 2014) (per curiam). In assessing whether a claim is 
+indefinite, we determine whether those skilled in the art would have 
+understood what is claimed when the claim is read in light of the 
+Specification. See Orthokinetics, Inc. v. Safety Travel Chairs, Inc., 806 F.2d 
+1565, 1576 (Fed. Cir. 1986). 
+The Examiner determines the height difference limitation, the step 
+direction limitation, and claim 8 are indefinite because of the lack of 
+consideration of a substrate off angle. See, e.g., Final Act. 11 (finding “away 
+from the substrate” implies in a direction perpendicular to the substrate but 
+this is inconsistent with disclosure of a substrate off angle); Final Act. 15 
+(finding that the limitations of claim 1 and 8 suggest there is no substrate off 
+angle); Final Act. 16–17 (determining claim 8 indefinite because of the 
+disclosed substrate off angle). The Examiner also determines these 
+limitations are indefinite because of lack of written description. See, e.g., 
+Final Act. 15 (supporting the indefiniteness rejection and explaining “1 and 
+8 also fail to comply with the written description requirement.”); Ans. 12 
+(“[C]laim 1 fails to comply with the written description requirement, and 
+therefore, it is not clear whether the cited limitations of claims 1 and 8 would 
+require zero offcut angle.”).  
+Notably, the claims here do not recite a substrate off angle and the 
+Examiner fails to sufficiently explain why a substrate off angle would render 
+these recited limitations indefinite. As Appellant explains,  
+
+Appeal 2024-004106 
+Application 16/743,462 
+14 
+regardless of any off angle, the claimed “first surface” in FIG. 3 
+would be “lower than the second surface relative to a direction 
+perpendicular to a plane comprising a surface of the silicon 
+carbide epitaxial layer surrounding the triangular defect” as 
+claimed. 
+Nothing about this recitation is indefinite. Rather, the 
+Examiner merely inserts potential limitations into the claim 
+regarding an offcut or off-axis angle and then incorrectly asserts 
+that it is unclear whether the claim language requires these 
+additional limitations. 
+Appeal Br. 13. See also Appeal Br. 14 (with respect to claim 8 pointing out 
+that the Examiner again “is inserting limitations into the claim regarding an 
+offcut or off-axis angle to then assert that it is unclear whether modifying a 
+structure to include such limitations could read on the claim language” and 
+maintaining that “claim 8 is definite, especially when considered in light of 
+the present disclosure.”). Similarly, the Examiner does not explain why the 
+alleged lack of written description of a substrate off angle renders these 
+claim limitations indefinite. As also discussed above, we are persuaded the 
+Examiner erred in finding the claimed limitations fails to comply with the 
+written description requirement. As such, based on the record before us, we 
+are persuaded of error in the Examiner’s indefiniteness determination as to 
+these limitations. 
+With respect to the height difference limitation and the surface plane 
+limitation, the Examiner finds it is not clear “whether these two limitations 
+can be interpretated separately” and also “these two limitations are not 
+necessarily linked to each other.” Final Act. 11. The surface plane limitation 
+though expressly recites “the first surface” and “the second surface” of the 
+height difference limitation and, thus, there is a clear link between the 
+limitations. Appeal Br. 10. As such, based on the record before us, we are 
+
+Appeal 2024-004106 
+Application 16/743,462 
+15 
+similarly persuaded of error in the Examiner’s indefiniteness determination 
+as to these limitations. 
+Finally, the Examiner determines the recited “triangular defect” is 
+indefinite because the defect in Figure 3 is not triangular in shape but instead 
+has a complex shape with a triangle on the left hand side. Final Act. 11–12. 
+The Examiner reasons “any arbitrary defect such as a pentagonal or 
+hexagonal defect can also be referred to as “a triangular defect” since a 
+pentagonal or hexagonal defect has a triangular shape on a portion of the 
+pentagonal or hexagonal defect.” Final Act. 12. The Examiner finds that 
+Appellant’s submitted declaration “simply made allegations that one of 
+ordinary skill in the art would be able to know what the claimed triangular 
+defect is without explaining what the claimed triangular defect is.” Final 
+Act. 17. In the Answer, the Examiner further explains “one of ordinary skill 
+in the art would not know whether the alleged triangular defect has a 
+triangular shape in a part of the defect as shown in Fig. 3 of current 
+application, or the entirety of the defect should have an approximately 
+triangular shape overall.” Ans. 11.  
+We agree with Appellant that the Examiner “improperly conflates 
+breath of the claim with indefiniteness.” Appeal Br. 12. As Appellant 
+explains, “the claims are not required to delimit the exact shape of the 
+triangular defect.” Appeal Br. 12. Appellant, in particular, submits “one of 
+ordinary skill in the art would understand that a ‘triangular defect’ is a term 
+of art meaning a defect having a substantially triangular shape with an apex 
+upstream in the step flow direction and a base downstream in the step flow 
+direction.” Appeal Br. 11; see also Declaration under 37 C.F.R. § 1.132 by 
+Yoichiro Mitani, filed October 13, 2023. While the Examiner generally finds 
+
+Appeal 2024-004106 
+Application 16/743,462 
+16 
+this definition insufficient (Final Act. 17), the Examiner does not explain 
+why this definition is indefinite or why this definition would be 
+unreasonable. As such, based on the record before us, we are persuaded of 
+error in the Examiner’s indefiniteness determination.  
+Accordingly, we reverse the rejection of claims 1, 2, and 6–9 under 35 
+U.S.C. § 112(a) as indefinite. 
+CONCLUSION 
+We reverse the rejection of claims 1, 2, and 6–9 under 35 U.S.C. § 
+112(a) as failing to comply with the written description requirement and 
+reverse the rejection of claims 1, 2, and 6–9 under 35 U.S.C. § 112(a) as 
+indefinite. 
+DECISION SUMMARY 
+The following table summarizes our decision: 
+Claim(s) Rejected 35 U.S.C. § Reference(s)/ Basis Affirmed Reversed 
+ 1, 2, 6–9  112  Written Description   1, 2, 6–9 
+ 1, 2, 6–9  112  Indefiniteness    1, 2, 6–9 
+Overall Outcome     1, 2, 6–9 
+REVERSED 
+ 
+ 

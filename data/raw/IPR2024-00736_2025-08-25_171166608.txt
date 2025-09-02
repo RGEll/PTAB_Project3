@@ -1,0 +1,591 @@
+IPR2024 00736 2025 08 25 171166608
+
+Trials@uspto.gov                                                                                      Paper 40 
+Tel: 571-272-7822                                                               Date: August 25, 2025 
+ 
+ 
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+ 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+ 
+ 
+DISNEY MEDIA & ENTERTAINMENT DISTRIBUTION LLC, 
+Petitioner, 
+v. 
+DIGITAL MEDIA TECHNOLOGY HOLDINGS, LLC, 
+Patent Owner. 
+ 
+ 
+IPR2024-00736 
+Patent 7,574,725 B2 
+ 
+Before JAMESON LEE, SHEILA F. McSHANE, and LISA A. MURRAY, 
+Administrative Patent Judges. 
+MURRAY, Administrative Patent Judge. 
+ 
+ 
+ 
+JUDGMENT 
+Final Written Decision 
+Determining All Challenged Claims Unpatentable 
+35 U.S.C. § 318(a) 
+Granting Petitioner’s Motion to Exclude 
+37 C.F.R. § 42.64(c) 
+  
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+2 
+I. INTRODUCTION 
+We instituted inter partes review pursuant to 35 U.S.C. § 314 to review 
+claims 1, 4–7, 9, and 11 of U.S. Patent 7,574,725 B2 (“the ’725 patent”) owned 
+by Digital Media Technology Holdings, LLC (“Patent Owner”). We have 
+jurisdiction under 35 U.S.C. § 6(c). This Final Written Decision is entered 
+pursuant to 35 U.S.C. § 318(a) and 37 C.F.R. § 42.73. For the reasons discussed 
+below, Disney Media & Entertainment Distribution LLC (“Petitioner”) has 
+shown by a preponderance of the evidence that all the challenged claims of the 
+’725 patent are unpatentable.  
+II. BACKGROUND 
+Petitioner filed a petition requesting inter partes review of claims 1, 4–7, 9, 
+and 11 of the ’725 patent. Paper 2 (“Pet.”). Patent Owner filed a Preliminary 
+Response. Paper 8 (“Prelim. Resp.”). Petitioner filed a Preliminary Reply, Paper 
+11, and Patent Owner filed a Corrected Preliminary Sur-Reply, Paper 14. 
+After considering the merits of the Petition and the arguments presented 
+against institution by Patent Owner, we instituted inter partes review of all the 
+challenged claims of the ’725 patent on all grounds asserted in the Petition. See 
+37 C.F.R. § 42.108(a); Paper 15 (Decision Granting Institution (“Dec.”)). 
+During the trial phase, Patent Owner filed a Response to the Petition. Paper 
+18 (“PO Resp.”). Petitioner filed a Reply, Paper 27 (“Reply Br.”), and Patent 
+Owner filed a Sur-Reply, Paper 28 (“Sur-Reply Br.”). Oral argument was held on 
+July 9, 2025, the transcript of which is filed in the record. Paper 39 (“Tr.”).  
+A. Related Matters 
+The parties identify the following as a matter that may affect, or be 
+affected by, a decision in this proceeding: Digital Media Technology Holdings, 
+LLC v. Disney Media & Entertainment Distribution LLC, No. 2:22-cv-01642 (D. 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+3 
+Del.). Pet. 1; Paper 4, 1 (Patent Owner’s Mandatory Notice); see Ex. 1019 (First 
+Amended Compl. (D. Del.)).  
+B. The Patent-at-Issue 
+1. Prosecution History 
+U.S. Application No. 09/840,283, filed on April 23, 2001, now U.S. Patent 
+No. 7,574,725 B2, claims priority to Provisional Application No. 60/201,118 
+filed on May 2, 2000. See Ex. 1001 codes (21), (22), (60) (’725 patent); Ex. 1004 
+(’725 file history). During prosecution, the Examiner rejected claims of the ’725 
+patent in three Non-Final and three Final Office Actions, resulting in six rounds 
+of claim amendments. See generally Ex. 1004. As issued on August 11, 2009, the 
+’725 patent contains twenty-three claims, of which claims 1, 13–15, and 22 are 
+independent. Ex. 1001 at 16:19–20:30. 
+2. Overview 
+The ’725 patent discloses a method of marketing and distributing 
+multimedia. Ex. 1001, 1:20–21. A central server storing multimedia material in 
+digital format, such as motion pictures and television programming, is connected 
+to a communications network, such as the Internet. Id. at 2:53–57, 3:13–17. In 
+addition to the base media, advertising materials can be downloaded from the 
+server system. Id. at 3:20–21. Exhibitors, such as theaters and television stations, 
+can access the central server, preview available programming and download the 
+programming along with marketing materials for the program or movie. Id. 
+at 2:60–65, 3:12–21. The exhibitors show the multimedia material in a public 
+theater to individuals in exchange for a paid admission, or are broadcast 
+exhibitors. Id. at 2:64–65. Finally, “[i]n addition to providing multimedia to 
+users, the server system collects data about the users and information respecting 
+the economics and sales success of exhibitors and broadcasters.” Id. at 3:22–25.  
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+4 
+Figure 1 of the ’725 patent is illustrative and is reproduced below. 
+ 
+Ex. 1001, Fig. 1. As shown above, Figure 1 is “a block diagram generally 
+illustrating the inventive system for marketing and distributing multimedia 
+products.” Id. at 3:39–41. In the illustrated embodiment, “the system exchanges 
+information through the use of cyberspace 12, which may be either a private 
+computer-based communications system or a public system, such as that known 
+under the alleged trademark the Internet.” Id. at 4:5–9. Multimedia producer 14 is 
+linked to central server 16 which functions as a distribution web site. Id. at 4:10–
+12. “Multimedia producer 14 may also be connected to central server 16 via a 
+private network link 20, thus providing either a faster data link, a more secure 
+link, or both.” Id. at 4:13–16. “Similarly, a plurality of exhibitors, including a 
+movie theater 18a, a television station 18b, a satellite television operator 18c, a 
+cable television operator 18d[,] and a high school 18e, are also connected through 
+cyberspace 12 to central server 16.” Id. at 4:20–23. 
+
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+5 
+C. Illustrative Claim 
+Of the challenged claims of the ’725 patent, only claim 1 is independent. 
+Each of the remaining claims depends directly from claim 1. We reproduce claim 
+1 below, which is illustrative: 
+1. A method of marketing and distributing multimedia, the 
+method comprising: 
+a. receiving, by a server, multimedia material and advertising 
+material from a producer or owner of said multimedia material, said 
+advertising material being associated with said multimedia material, 
+said advertising material comprising audio and video components; 
+b. storing said multimedia material and associated advertising 
+material on a computer readable storage medium as correlated 
+information in digital format; 
+c. providing a server system accessible over a communication 
+network, said server system accessing said correlated information in 
+a digital format from said computer readable storage medium for 
+transfer of said correlated information in a digital format ove r said 
+communication network to potential purchasers; 
+d. providing samples of said correlated information in a digital 
+format from said server system over said communication network to 
+said potential purchasers, said purchasers being linked to the server 
+system through said communication network; 
+e. downloading to said purchasers, upon request of said 
+purchasers, over said communication network, said correlated 
+information in a digital format corresponding to said multimedia 
+material from said server system, said purchasers storing downloaded 
+correlated information in a digital format corresponding to said 
+multimedia material; and 
+f. providing said correlated information in a digital format 
+corresponding to said advertising material that is associated with said 
+multimedia material to said purchasers from said server system over 
+said communication network, allowing purchasers to locally  market 
+and sell said multimedia material, said purchasers downloading said 
+correlated information in a digital format corresponding to said 
+advertising material that is associated with said multimedia material, 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+6 
+said purchasers storing the downloaded correlated information in a 
+digital format corresponding to said advertising material; and 
+g. wherein said purchaser is an exhibitor exhibiting said 
+multimedia material, after deriving said multimedia material from 
+said stored correlated information in a digital format corresponding to 
+said multimedia material, in a public theater to a number of  
+individuals in exchange for a paid admission or a broadcast exhibitor, 
+said advertising material, after deriving of said advertising material 
+from said correlated information in a digital format corresponding to 
+said stored associated advertising material, being shown to the public 
+at a time or in a place different from the time or place at which said 
+associated multimedia material is displayed. 
+Ex. 1001, 16:19–17:2. 
+D. Asserted Grounds and Testimony of Record 
+Petitioner asserts the following prior art references: 
+Reference  Effective Date Exhibit 
+Budow US 5,521,631 May 28, 1996 1008 
+Garfinkle US 5,530,754 June 25, 1996 1005 
+Allen US 5,909,638 June 1, 1999 1006 
+Kosten 
+“Digital Distribution: A Coming 
+Attraction,” Film J. Int’l (Sept.–
+Dec. 1999) 
+Sept. 1999 1007 
+See Pet. 6–11. 
+Petitioner asserts the following grounds of unpatentability: 
+Ground Claims  35 U.S.C. § References 
+1 1, 4–7, 9  103(a)1 Garfinkle, Kosten 
+2 11 103(a) Garfinkle, Kosten, Allen 
+3 1, 4, 6, 7, 9, 11 103(a) Allen, Budow 
+4 5 103(a) Allen, Budow, Kosten 
+ 
+1 The relevant sections of the Leahy-Smith America Invents Act (“AIA”), Pub. L. 
+No. 112-29, 125 Stat. 284 (2011), took effect on March 16, 2013. Because the 
+application for the ’725 patent was filed before the effective date of the relevant 
+amendment, the pre-AIA version of Section 103 applies. 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+7 
+Pet. 3. 
+Petitioner also relies on a Declaration of Dr. Henry H. Houh, who is 
+proffered as an expert in the field of “web based systems, streaming multimedia 
+systems, distributed systems, and network architectures.” Ex. 1002 ¶ 24. 
+Dr. Houh also provided a Supplemental Declaration. Ex. 1022. In addition, 
+Petitioner relies on a Declaration of June Munford regarding the authenticity and 
+public availability of certain documents. Ex. 1014. 
+Patent Owner relies on a Declaration of Mr. Nick Stiliadis, the named 
+inventor on the ’725 patent. Ex. 2109. Patent Owner further relies on the 
+declarations of Mr. John Daniels, an entrepreneur with a background in 
+engineering physics (Ex. 2121), and Mr. Harris E. Tulchin, an entertainment 
+attorney (Ex. 2131). There is a pending motion to exclude the declarations of 
+Mr. Daniels and Mr. Tulchin on the basis that neither witness qualifies as a 
+person of ordinary skill in the art. Paper 33 (“Pet.’s Mot. to Exclude”). We 
+discuss this motion in Section II.E.2 below. 
+E. Level of Ordinary Skill in the Art 
+To determine whether an invention would have been obvious at the time it 
+was made, we consider the level of ordinary skill in the pertinent art at the time 
+of the invention. Graham v. John Deere Co. of Kansas City, 383 U.S. 1, 17 
+(1966). Various factors may be considered, including the “type of problems 
+encountered in the art; prior art solutions to those problems; rapidity with which 
+innovations are made; sophistication of the technology; and educational level of 
+active workers in the field.” In re GPAC, Inc., 57 F.3d 1573, 1579 (Fed. Cir. 
+1995) (citing Custom Accessories, Inc. v. Jeffrey-Allan Indus., Inc., 807 F.2d 955, 
+962–63 (Fed. Cir. 1986)). “[O]ne or more factors may predominate.” Id. 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+8 
+1. Determination of the Level of Ordinary Skill in the Art 
+Petitioner argues that one of ordinary skill in the art at the time the 
+invention was made “would have had a bachelor’s degree in electrical 
+engineering, computer engineering, computer science, or a related field, and at 
+least one year of experience in the field of multimedia processing or 
+communication networks, or the equivalent, with additional education 
+substituting for experience and vice versa.” Pet. 5–6. 
+In its Preliminary Response submitted prior to institution of trial, Patent 
+Owner contended that a person of ordinary skill in the art did not require a 
+technical degree. See Dec. 8–9. In its Response, Patent Owner revised its 
+position. PO Resp. 11. Patent Owner now proposes the following level of skill for 
+a person of ordinary skill in the art: “Bachelor of Science in electrical 
+engineering, engineering physics, computer engineering, computer science, or a 
+related field plus one year of experience related to marketing and distribution of 
+multimedia material over a computer network, or the equivalent.” Id. Patent 
+Owner contends that its current proposal is “substantially the same as” the 
+definition adopted by the Board in the Decision on Institution. Id.  
+In our Decision on Institution, we adopted the following definition of the 
+level of skill for one of ordinary skill in the art: “a Bachelor of Science degree in 
+electrical engineering, computer engineering, computer science, or a related field 
+plus one year of experience related to marketing and distribution of multimedia 
+material over a computer network, or the equivalent.” Dec. 9. Patent Owner’s 
+proposed definition differs from the Board’s only in that it adds a Bachelor of 
+Science in engineering physics to the list of degrees that one of ordinary skill in 
+the art might possess. See id. We view engineering physics as being related to the 
+fields of electrical engineering, computer engineering, and computer science. 
+Accordingly, following a review of the full record, we view Patent Owner’s 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+9 
+proposed definition in its Response as consistent with the ’725 patent and the 
+asserted prior art, and we apply it in our analysis below. 
+2. Petitioner’s Motion to Exclude 
+Petitioner has filed a motion to exclude from evidence the declarations of 
+Mr. Daniels (Ex. 2121) and Mr. Tulchin (Ex. 2131) on the basis that neither 
+witness possesses the requisite level of skill in the relevant art, as identified 
+above.2 Petitioner argues that: (1) Mr. Daniels and Mr. Tulchin are not persons of 
+ordinary skill in the art (“POSITAs”); (2) non-POSITA expert declarations are 
+inadmissible because they fail to meet the requirements of Fed. R. Evid. 702; and 
+(3) even if the declarations were relevant, the risk of confusion would outweigh 
+any alleged probative value that they might have, and therefore the declarations 
+should be excluded under Fed. R. Evid. 403. Paper 33, 1 (“Mot. to Exclude”). 
+Patent Owner opposes the Motion to Exclude, with Petitioner filing a Reply to 
+the opposition. Papers 34, 37.  
+Our reviewing court has held that if a declarant fails to qualify as a person 
+of ordinary skill in the art, then that person’s testimony regarding the knowledge 
+or motivations of one of ordinary skill in the art is irrelevant as a matter of law. 
+Kyocera Senco Indus. Tools Inc. v. International Trade Comm’n, 22 F.4th 1369, 
+1377–78 (Fed. Cir. 2022) (“To offer expert testimony from the perspective of a 
+skilled artisan in a patent case—like for claim construction, validity, or 
+infringement—a witness must at least have ordinary skill in the art.  Without that 
+skill, the witness’ opinions are neither relevant nor reliable.”). Mr. Daniels’ 
+declaration consists of an analysis of the cited prior art in comparison to the 
+challenged claims and a discussion of whether there would have been a 
+ 
+2 The motion does not seek to exclude the declaration of the named inventor of 
+the ’725 patent, Nick Stiliadis. See Ex. 2109 (Stiliadis Declaration). 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+10 
+motivation to combine the prior art. Ex. 2121 ¶¶ 4–20. Mr. Tulchin’s declaration 
+addresses claim construction issues. Ex. 2131 ¶¶ 5–35. Each declarant, therefore, 
+addresses issues that must be considered from the vantage point of a POSITA at 
+the time of the invention, meaning a person with the level of ordinary skill 
+defined in Section II.E.1 above. See Phillips v. AWH Corp., 415 F.3d 1303 (Fed. 
+Cir. 2005) (en banc) (claim construction); KSR Int’l Co. v. Teleflex Inc., 550 U.S. 
+398, 406 (2007) (obviousness). If Mr. Daniels and Mr. Tulchin do not qualify as 
+POSITAs, as Petitioner alleges, then their opinion testimony is inadmissible 
+under Federal Rules of Evidence 702 (Testimony by Expert Witnesses). 
+We find that there is insufficient evidence in the record to establish that 
+Mr. Daniels qualifies as a POSITA in relation to the ’725 patent. Mr. Daniels has 
+an undergraduate degree in engineering physics in addition to a law degree. 
+Ex. 2121 ¶ 2. His declaration, however, does not establish that he also has “one 
+year of experience related to marketing and distribution of multimedia material 
+over a computer network, or the equivalent.” See Section II.E.1 above. 
+Mr. Daniels characterizes his non-legal work experience as follows: 
+The rest of my professional career has been spent working in 
+my own companies in the research, development and 
+prototyping/commercialization of a number of different technologies, 
+principally including fishing rod technology, digital video file 
+transport, storage and processing, LED -based light -emitting tapes, 
+drone control systems, wearable medical related electronic devices 
+and breath-based diagnostic devices.  
+Ex. 2121 ¶ 3; see also Ex. 1023, 99 (Daniels Deposition) (describing work on “a 
+suite of interactive television innovations,” including “the first working pause 
+button”). None of the projects identified appears to relate to “marketing and 
+distribution of multimedia material over a computer network.”  
+Patent Owner argues that Mr. Daniels “was involved (at the time of the 
+filing of the application which matured into the ’725 patent) in making 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+11 
+inventions, that dealt with interactive television, video pause buttons and video 
+file provision over the Internet.” Sur-Reply Br. 6. However, neither Mr. Daniels’ 
+declaration nor his deposition testimony assert that he ever worked on “video file 
+provision over the Internet,” let alone that he did so for one year or more. See 
+Ex. 2121 ¶ 3; Ex. 1023, 98–100. We find that the evidence in the record is not 
+sufficient for us to conclude that Mr. Daniels qualifies as one of ordinary skill in 
+the art.  
+We further find a lack of evidence establishing that Mr. Tulchin qualifies 
+as a POSITA in relation to the ’725 patent. Mr. Tulchin is an entertainment 
+lawyer. Ex. 1028, 8:23–24. He is also involved in “motion picture production 
+finance and distribution.” Id. at 8:24–25; see also Ex. 2131 ¶ 4. He has earned a 
+Bachelor of Science in industrial labor relations as well as a law degree, but he 
+does not have a technical degree. Ex. 1028, 10:2–17. In his declaration, he 
+acknowledges that he has “no specialized computer science training.” Ex. 2131 
+¶ 10. Mr. Tulchin therefore has neither the educational background of a POSITA, 
+as defined above, nor, as far as the record evidence indicates, the requisite one 
+year of experience in “marketing and distribution of multimedia material over a 
+computer network.” See Section II.E.1 above. While there is evidence that 
+Mr. Tulchin is highly knowledgeable about the movie industry in general, there is 
+insufficient evidence to conclude that he meets our determined definition of a 
+POSITA. Accordingly, we grant Petitioner’s Motion to exclude the declarations 
+of Mr. Daniels and Mr. Tulchin from evidence. 
+III. CLAIM CONSTRUCTION 
+In an inter partes review proceeding based on a petition filed on or after 
+November 13, 2018, such as this, we construe claims using the same claim 
+construction standard that would be used in a civil action under 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+12 
+35 U.S.C. § 282(b), as articulated in Phillips, 415 F.3d at 1303, and its progeny. 
+See 37 C.F.R. § 42.100(b). 
+Patent Owner’s claim construction arguments in its Response to the 
+Petition, in toto, read as follows: 
+A. “Exhibition” – a public showing. 
+B. “Exhibitor” – one in the exhibition business. 
+C. “Broadcast Exhibitor” – one in the business of over-the-air 
+broadcasting 
+D. “Distribution” – the business of marketing films and providing 
+copies to venues 
+E. “Marketing” – actions taken to interest individuals in seeing a film. 
+F. “Storing” – electronically saving on a non-volatile storage element. 
+PO Resp. 10. The Response contains no citations to intrinsic evidence that might 
+support Patent Owner’s constructions. See Phillips, 415 F.3d at 1314 (the proper 
+definition is the “definition that one of ordinary skill in the art could ascertain 
+from the intrinsic evidence in the record”) (quoting Unitherm Food Sys., Inc. v. 
+Swift–Eckrich, Inc., 375 F.3d 1341, 1351 (Fed. Cir. 2004)). Nor do Patent 
+Owner’s briefs cite to any extrinsic evidence.3 Patent Owner’s Sur-Reply 
+contains a section with the heading “Claim Construction and Insufficiencies of 
+ 
+3 We note that even if Patent Owner had cited to Mr. Tulchin’s declaration or 
+deposition testimony in support of any proposed claim construction, Mr. Tulchin 
+is not qualified to opine on claim construction in this proceeding because he does 
+not possess the requisite level of ordinary skill in the relevant art. See Phillips, 
+415 F.3d at 1314 (“[T]he ordinary and customary meaning of a claim term is the 
+meaning that the term would have to a person of ordinary skill in the art in 
+question at the time of the invention, i.e., as of the effective filing date of the 
+patent application.”); Multiform Desiccants, Inc. v. Medzam, Ltd., 133 F.3d 1473, 
+1477 (Fed. Cir. 1998) (“It is the person of ordinary skill in the field of the 
+invention through whose eyes the claims are construed.”). 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+13 
+the Prior Art.” Sur-Reply Br. 7–16. The section, however, does not present any 
+support, intrinsic or extrinsic, for Patent Owner’s proposed claim constructions, 
+focusing instead on the reasons why the prior art allegedly does not disclose 
+“distribution” or “storage” or an “exhibitor,” as Patent Owner proposes to 
+construe those terms. Id. at 13–16. Thus, Patent Owner has identified no evidence 
+in the record to support its position that the claim terms listed above should be 
+construed as narrowly as Patent Owner proposes. 
+Petitioner argues that no term requires explicit construction to resolve the 
+grounds presented in the Petition, and provides several reasons why Patent 
+Owner’s proposed constructions should not be adopted. Reply Br. 2–11. 
+Petitioner argues that if any of the terms identified by Patent Owner are 
+construed, they should have the following meanings: 
+“Exhibition”: According to Petitioner, “Claim 1 does not include an 
+“exhibition” step, but dependent Claim 5 recites ‘the exhibition of multimedia is 
+the public showing of a motion picture.’ . . . Under the doctrine of claim 
+differentiation, broader independent Claim 1 is not so limited.” Reply Br. 9 
+(citing Ex. 1001, code (57), 1:20–25, 2:64–65, 3:23–26, 4:20–27, 6:8–10, 11:64–
+12:4, 12:38–44, 15:46–60, 16:58–63, 17:14–15, Fig. 1). 
+“Exhibitor”: According to Petitioner, “the term ‘exhibitor’ must be 
+construed—if at all—broad enough to cover entities not specifically ‘in the 
+exhibition business.’” Id. at 7 (citing Ex. 1001, Fig. 1, 4:20–27, 12:38–44 
+(disclosing that exhibitors may include “schools, libraries, and other non–profit 
+organizations”)). 
+“Broadcast Exhibitor”: Petitioner argues that “‘Broadcast exhibitor’ should 
+be construed—if at all— broad enough to encompass the disclosed embodiments, 
+including various exhibitors that may not conduct ‘over–the–air’ broadcasting 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+14 
+(e.g., satellite and cable television operators), and not limited to a particular 
+business context.” Id. at 8–9 (citing Ex. 1001, 4:20–23, 16:58–63, Fig. 1). 
+“Distribution”: Petitioner further argues that “‘distribution’ should be 
+construed—if at all—broad enough to encompass the disclosed embodiments, 
+which include the distribution of other types of multimedia to any type of 
+exhibitor contemplated in the specification and the technical steps required for 
+distribution as recited in the claims and specification. The construction should 
+also not be limited to a particular business context and cannot be understood to 
+exclude ‘downloading.’” Id. at 6 (citing Ex. 1001, Abstract, 1:20–25, 2:48–51, 
+3:17–19, 16:19–20). 
+“Marketing”: According to Petitioner, “‘marketing’ should be construed—
+if at all—broad enough to encompass generally creating interest in a public 
+showing or broadcast of some multimedia content.” Id. at 4 (citing Ex. 1001, 
+4:20–27, 12:38–44, 16:58, Fig. 1). 
+“Storing”: Finally, Petitioner contends that “‘storing’ should be 
+construed—if at all—broad enough to encompass appropriate data storage media 
+regardless of whether it is volatile or non–volatile.” Id. at 7 (citing Ex. 1001, 
+14:54–15:3, 16:26–28, 16:43–46, 16:55–57, Figs. 1, 9). 
+When interpreting the meaning of a claim, “we need only construe terms 
+‘that are in controversy, and only to the extent necessary to resolve the 
+controversy.’” Nidec Motor Corp. v. Zhongshan Broad Ocean Motor Co., 868 
+F.3d 1013, 1017 (Fed. Cir. 2017) (quoting Vivid Techs., Inc. v. Am. Sci. & Eng’g, 
+Inc., 200 F.3d 795, 803 (Fed. Cir. 1999)). Patent Owner has, briefly, proposed six 
+claim terms for construction: exhibition; exhibitor; broadcast exhibitor; 
+distribution; marketing; and storing. PO Resp. 10. The Petition states that “[t]o 
+resolve the grounds presented herein, Petitioner does not believe that any term 
+requires explicit construction.” Pet. 12.  
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+15 
+We see no reason why “exhibition” and “exhibitor” should be understood 
+as having a meaning as narrow as Patent Owner proposes. “Exhibition” and 
+“exhibitor” encompass more than just a showing by “one in the exhibition 
+business” because the specification of the ’725 patent identifies certain 
+“exhibitors” that are not “in the exhibition business”: e.g., a high school, 
+libraries, and other non-profit organizations. Ex. 1001, 12:38–41 (“schools, 
+libraries, and other non-profit organizations”), Fig. 1 (“high school”). The plain 
+and ordinary meaning of “exhibitors” is at least broad enough to encompass the 
+types of exhibitors identified in the specification: movie theaters, television 
+stations, satellite television operators, cable television operators, and non-profit 
+organizations such as high schools. Ex. 1001, 4:20–22, Fig. 1. We further 
+determine that some of these exhibitor types, including at least satellite and cable 
+television operators, are “broadcast exhibitors.” 
+Moreover, we find that the plain and ordinary meaning of the term 
+“distribution” is not so narrow as to be limited to “the business of marketing films 
+and providing copies to venues,” as Patent Owner proposes. See PO Resp. 10 
+(emphasis added). The claimed invention is a “method of marketing and 
+distributing multimedia,” which is not limited to films. We agree with Petitioner 
+that the term is at least broad enough to encompass distribution of any type of 
+multimedia to any type of exhibitor contemplated in the specification. See 
+Ex. 1001, 1:20–25 (multimedia types); Reply Br. 6.  
+Similarly, the plain and ordinary meanings of “marketing” and “storing” 
+are not limited to Patent Owner’s specific examples: interesting individuals in 
+seeing a film and saving to non-volatile storage, respectively. See PO Resp. 10; 
+Tr. at 57:3–7. The invention is directed to marketing and distributing multimedia, 
+not just films, Ex. 1001, 16:21, and while the Specification refers to storing 
+multimedia on “hard drives,” id. at 4:35–37, 4:44–52, there is nothing in the 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+16 
+Specification, claims, or prosecution history that would limit storage only to hard 
+drives or other non-volatile storage. 
+The intrinsic evidence suggests that the proper construction of each 
+disputed term is considerably broader than that which Patent Owner has 
+proposed. Accordingly, we reject Patent Owner’s proposed constructions and 
+instead interpret the challenged claims according to their plain and ordinary 
+meaning. 
+IV. OBVIOUSNESS 
+Petitioner alleges that claims 1, 4–7, 9, and 11 of the ’725 patent are 
+unpatentable for obviousness over the cited prior art. Pet. 1, 3. For the reasons 
+discussed below, we determine that Petitioner has provided persuasive evidence 
+and argument in support of its obviousness challenges. We discuss the asserted 
+prior art, and the combination of the prior art, in Section IV.B below. In Sections 
+IV.C.1 and IV.C.2, we consider whether the combination of Garfinkle and 
+Kosten teaches each element of claims 1, 4–7, and 9. In Section IV.C.3, we 
+consider whether the combination of Garfinkle, Kosten, and Allen teaches each 
+element of claim 11. In Section IV.D, we consider Patent Owner’s objective 
+evidence of nonobviousness and weigh it against the evidence of obviousness 
+provided by Petitioner. 
+Because consideration of Petitioner’s first two grounds results in 
+unpatentability of all challenged claims, we do not address Petitioner’s remaining 
+grounds. See SAS Inst. Inc. v. Iancu, 138 S. Ct. 1348, 1359 (2018) (holding a 
+petitioner “is entitled to a final written decision addressing all of the claims it has 
+challenged” (emphasis added)); Boston Scientific Scimed, Inc. v. Cook Grp. Inc., 
+809 F. App’x. 984, 990 (Fed. Cir. 2020) (non-precedential) (recognizing that the 
+“Board need not address issues that are not necessary to the resolution of the 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+17 
+proceeding” and, thus, agreeing that the Board has “discretion to decline to 
+decide additional instituted grounds once the petitioner has prevailed on all its 
+challenged claims”).  
+A. Legal Framework 
+A claim is unpatentable under 35 U.S.C. § 103 if the differences between 
+the claimed subject matter and the prior art are such that the subject matter, as a 
+whole, would have been obvious to one of ordinary skill in the art. KSR, 550 U.S. 
+at 406. “Once all relevant facts are found, the ultimate legal determination [of 
+obviousness] involves the weighing of the fact findings to conclude whether the 
+claimed combination would have been obvious to an ordinary artisan.” Arctic Cat 
+Inc. v. Bombardier Recreational Prods. Inc., 876 F.3d 1350, 1361 (Fed. Cir. 
+2017). Relevant factors include: (1) the scope and content of the prior art; (2) any 
+differences between the claimed subject matter and the prior art; (3) the level of 
+ordinary skill in the art; and (4) objective evidence of nonobviousness, if present. 
+See Graham, 383 U.S. at 17–18. “[O]bjective evidence of nonobviousness 
+includes copying, long felt but unsolved need, failure of others, commercial 
+success, unexpected results created by the claimed invention, unexpected 
+properties of the claimed invention, licenses showing industry respect for the 
+invention, and skepticism of skilled artisans before the invention.” In re Rouffet, 
+149 F.3d 1350, 1355 (Fed. Cir. 1998) (internal citations omitted). For objective 
+evidence of nonobviousness to be given substantial weight, “its proponent must 
+establish a nexus between the evidence and the merits of the claimed invention.” 
+Wyers v. Master Lock Co., 616 F.3d 1231, 1246 (Fed. Cir. 2010).  
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+18 
+B. The Asserted Prior Art and Motivation to Combine 
+We begin with a review of the prior art references cited in Grounds 1 and 2 
+of the Petition. The relevant references are Garfinkle and Kosten, as well as Allen 
+for Ground 2 only. 
+1. Garfinkle (Ex. 1005) 
+Garfinkle discloses a video-on-demand (“VOD”) system that provides 
+access at local user sites to catalog data of video products available from a central 
+station. Ex. 1005, 1:54–57. Figure 1 of Garfinkle is reproduced below: 
+ 
+Garfinkle Figure 1 is a block diagram of one embodiment of a video-on-
+demand system. Ex. 1005, 2:20–22. Central station 10 includes an inventory of 
+video products stored in product store memory 12. Id. at 2:40–44. “In addition, 
+
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+19 
+the central station 10 has a digital data bank 14 in which is stored catalog 
+information identifying the video products available in product store 12 and 
+certain materials related to these products.” Id. at 2:44–47. The catalog data is 
+periodically transferred to user sites 18, where it is stored. Id. at 2:1–3. “This 
+catalog data includes listings of the video products available at the central station, 
+so-called trailers or previews for certain of the video products, and lead-ins for 
+the initial portions of certain products to provide a seamless lead in to program 
+material ordered from the central station.” Id. at 2:4–8.  
+In a preferred embodiment, “menu driven software allows a user to control 
+the display of catalog data and to order video products from the central station 
+interactively with displayed catalog material.” Id. at 2:9–12. Within user site 18, 
+control processor 20 couples catalog store 22 memory and product store 24 
+memory to video display 26, such as a CRT video display or a LCD video 
+display. Id. at 3:19–21. User input device 28 allows the user to “use the catalog 
+data stored in catalog store 22 to, in some cases, preview video products available 
+from the central station 10, and to order any available video product in the 
+catalog store.” Id. at 3:26–31. 
+2. Kosten (Ex. 1007) 
+Kosten is a trade journal article that discloses “[i]mproved feature film 
+distribution.” Ex. 1007, 54. Kosten includes the following figure: 
+
+IPR2024-00736 
+Patent 7,574,725 B2 
+20 
+ 
+The Kosten figure reproduced above depicts a studio transferring a film to a 
+“CyberStar Network Operations Center,” which in turn transmits the film and 
+related content by satellite to a theater, which stores the content on a video server. 
+Ex. 1007, 54. The server is also connected to a “modem for accounting.” Id. The 
+Figure indicates that the data stored on the video server may be forwarded to one 
+or more theater screens (using a video projector and a digital audio processor), or 
+to one or more lobby displays that show advertising and/or trailers. Id. 
+Kosten describes a system in which “[a] digital film file is simply 
+transferred to and stored in the secure server system of a satellite distribution 
+company, which then ‘beams’ the film to theatres across the U.S. or around the 
+world, who then store it on their servers for later digital projection.” Ex. 1007, 
+54. Kosten also states that “[i]mproved feature film distribution is only one of the 
+many benefits ushered in by this distribution process. Exhibitors could turn 
+theatre lobbies into smart advertising networks, targeting digital trailers and ad 
+spots based on the demographic of their community and the film itself.” Id. 

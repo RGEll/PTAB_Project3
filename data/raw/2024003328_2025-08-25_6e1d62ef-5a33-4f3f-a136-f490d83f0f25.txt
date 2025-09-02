@@ -1,0 +1,355 @@
+2024003328 2025 08 25 6e1d62ef 5a33 4f3f a136 f490d83f0f25
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/929,475 07/15/2020 Raymond W. LAU 24000NV-000618-US 8087
+127542 7590 08/26/2025
+Harness, Dickey & Pierce-Altria
+P.O. Box 8910
+Reston, VA 20195
+EXAMINER
+MOORE, STEPHANIE LYNN
+ART UNIT PAPER NUMBER
+1747
+NOTIFICATION DATE DELIVERY MODE
+08/26/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+dcmailroom@hdp.com
+gyacura@hdp.com
+jhill@hdp.com
+PTOL-90A (Rev. 04/07)
+
+ 
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+____________ 
+ 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+____________ 
+ 
+Ex parte RAYMOND W. LAU and ERIC HAWES 
+____________ 
+ 
+Appeal 2024-003328 
+Application 16/929,475 
+Technology Center 1700 
+____________ 
+ 
+ 
+ 
+Before JEFFREY B. ROBERTSON, JON B. TORNQUIST, and   
+JANE E. INGLESE, Administrative Patent Judges. 
+ 
+INGLESE, Administrative Patent Judge. 
+ 
+ 
+ 
+DECISION ON APPEAL 
+The Appellant1 requests review under 35 U.S.C. § 134(a) of the 
+Examiner’s final rejection of claims 1, 2, 4–6, and 9–20.2  We have 
+jurisdiction over the appeal under 35 U.S.C. § 6(b). 
+We reverse. 
+ 
+ 
+1 “Appellant” refers to the “applicant” as defined in 37 C.F.R. § 1.42.  The 
+Appellant identifies the real party in interest as Altria Client Services LLC.  
+Appeal Brief filed April 2, 2024 (“Appeal Br.”) at 2.   
+2 Final Office Action entered November 7, 2023 (“Final Act.”) at 1. 
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+2 
+  CLAIMED SUBJECT MATTER 
+Claim 1 illustrates the subject matter on appeal, and reads as follows: 
+1.  A non-nicotine cartridge for a non-nicotine e-vaping 
+device, comprising: 
+a housing defining a reservoir containing a non-nicotine 
+pre-vapor formulation; 
+a wick configured to transport the non-nicotine pre-vapor 
+formulation by capillary action; 
+an integral heater-thermocouple configured to heat the 
+non-nicotine pre-vapor formulation in the wick to generate a 
+non-nicotine vapor, the integral heater-thermocouple including 
+a first segment made of a first alloy and a second segment made 
+of a second alloy, the first segment being downstream from the 
+second segment; 
+a first vapor channel; and 
+a second vapor channel, the first vapor channel and the 
+second vapor channel spaced apart by the reservoir, 
+wherein the housing has a first longitudinal axis, and the 
+integral heater-thermocouple has a second longitudinal axis 
+that intersects the first longitudinal axis to form an oblique 
+angle. 
+ 
+Appeal Br. 15–16 (Claims Appendix) (emphasis added).   
+Independent claim 17 recites a non-nicotine e-vaping device that 
+includes a device body having a first longitudinal axis, and an integral 
+heater-thermocouple having a second longitudinal axis that intersects the 
+first longitudinal axis to form an oblique angle.  Id. at 17–18. 
+REJECTIONS 
+The Examiner maintains the following rejections in the Examiner’s 
+Answer entered May 10, 2024 (“Ans.”): 
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+3 
+I. claims 1, 2, 4–6, and 9–18 under 35 U.S.C. § 103 as 
+unpatentable over Boham3 in view of Moloney4 and Batista;5 and 
+II. claims 19 and 20 under 35 U.S.C. § 103 as unpatentable over 
+Boham in view of Moloney, Batista, and Fraser.6 
+ 
+FACTUAL FINDINGS AND ANALYSIS 
+After considering the evidence relied upon in this appeal and each of 
+the Appellant’s contentions, we reverse the Examiner’s rejections under 
+35 U.S.C. § 103 for reasons set forth in the Appeal Brief, the Reply Brief, 
+and below.  
+We need address independent claims 1 and 17 only, which recite a 
+non-nicotine cartridge for a non-nicotine e-vaping device that includes a 
+housing or device body having a first longitudinal axis, and an integral 
+heater-thermocouple having a second longitudinal axis that intersects the 
+first longitudinal axis to form an oblique angle. 
+The Examiner rejects claims 1 and 17 as obvious over Boham in view 
+of Moloney and Batista. 
+Boham discloses aerosol provision system 1, illustrated in Boham’s 
+Figure 1: 
+ 
+3 Boham, WO2021009483 A1, published January 1, 2021. 
+4 Moloney, US 2022/0175042 A1, published June 9, 2022. 
+5 Batista et al., US 2017/0340003 A1, published November 30, 2017. 
+6 Fraser, US 2017/0224014 A1, published August 10, 2017. 
+ 
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+4 
+ 
+Figure 1 is a cross-sectional schematic representation of Boham’s aerosol 
+provision system.  Boham 3:6–7. 
+As shown in Figure 1, aerosol provision system 1 includes reservoir 
+44 containing liquid aerosolisable material (e-liquid) within housing 42.  
+Boham 5:21–22.  Reservoir 44 has an annular shape defined by housing 42 
+and an inner wall that defines air path 52.  Id. at 5:23–24.  Aerosol provision 
+system 1 further includes wick 63 and heater 65 formed of an electrically 
+resistive wire coiled around wick 63.  Id. at 5:31–32, 6:7–8.  Wick 63 
+extends transversely across air path 52 and its ends extend into openings in 
+the inner wall of reservoir 44.  Id. at 5:33–34.  In operation, electrical power 
+is supplied to heater 65, which vaporizes aerosolizable material (e-liquid) 
+drawn to the vicinity of heater 65 by wick 63.  Id. at 6:10–12.  Vaporised e-
+liquid then becomes entrained in air drawn along air path 52 to form a 
+
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+5 
+condensation aerosol that exits the system through mouthpiece outlet 50 for 
+user inhalation.  Id. at 6:12–14. 
+The Examiner finds that Boham does not disclose first and second 
+vapor channels spaced apart by a reservoir, and the Examiner turns to 
+Moloney.  Final Act. 3.  
+Moloney discloses a vapor provision system that includes housing 42 
+having interior wall 48 positioned within inner volume 100 so as to divide 
+inner volume 100 into three regions: inner reservoir 50 for storing 
+aerosolizable material, and two air flow passages 54 located on each side of 
+reservoir 50.  Moloney ¶ 79, Fig. 4.  Each air flow passage 54 has a lower air 
+inlet 52 to allow air carrying vapor to enter each flow passage 54, and upper 
+air outlet 56 to allow air carrying vapor to exit each flow passage 54 for 
+delivery of aerosol to a user via a mouthpiece.  Id. ¶ 82, Fig. 4. 
+In view of these disclosures in Moloney, the Examiner concludes that 
+it would have been obvious to one of ordinary skill in the art to modify 
+Boham’s device to include two vapor channels spaced apart by a reservoir as 
+taught in Moloney because “doing so would carry vapor to the exit for 
+delivery to a user.”  Final Act. 3 (citing Moloney ¶ 82).  
+The Examiner finds that neither Boham nor Moloney discloses a 
+housing having a first longitudinal axis and an integral heater thermocouple 
+having a second longitudinal axis that intersects the first longitudinal axis to 
+form an oblique angle, and the Examiner turns to Batista.  Final Act. 4. 
+Batista discloses an aerosol-generating device that includes electric 
+heaters extending across an annular airflow passage formed by first and 
+second hollow shaft portions.  Batista ¶¶ 36, 50, Fig. 1.  Paragraph 52 of 
+Batista states that “[w]here one or more of the electric heaters extend across 
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+6 
+the airflow passage, the longitudinal axis of one or more of the electric 
+heaters may be perpendicular to the longitudinal axis of the hollow shaft 
+portion.”  The next sentence in paragraph 52 states that “[o]ne or more of the 
+electric heaters extending across the airflow passage may be arranged such 
+that its longitudinal axis is oblique to the longitudinal axis of the hollow 
+shaft portion.” 
+In the following paragraph (53), Batista describes, in general terms, 
+embodiments of its device in which electric heaters are disposed as 
+described in the first sentence of paragraph 52—their longitudinal axes are 
+perpendicular to the longitudinal axis of the airflow passage (hollow shaft 
+portion)—but the longitudinal axis of one or more of the heaters is rotated 
+within the airflow passage relative to that of the other heaters.  Batista later 
+describes (and also illustrates) three embodiments of its aerosol-generating 
+device in which the longitudinal axes of the electric heaters are 
+perpendicular to the longitudinal axis of the airflow passage (hollow shaft 
+portion) and either parallel to each other or rotated relative to each other, as 
+described in paragraph 53.  Batista ¶¶ 132, 154, 155, Figs. 1, 6A, 6B, 6C, 
+7A, 7B. 
+In the first embodiment, the longitudinal axes of electric heaters 400 
+are parallel and rotationally aligned within airflow passage 306.  Id. ¶ 132, 
+Fig. 1.  In the second embodiment (illustrated below in Figures 6A and 6B), 
+the longitudinal axis of central heater 403 is rotated by 90 degrees about the 
+longitudinal axis of the airflow passage (hollow shaft portions 604, 624) 
+relative to first 401 and second 405 heaters, such that the longitudinal axis of 
+heater 403 is perpendicular to that of heaters 401, 405.  Id. ¶ 154, Figs. 6A, 
+6B, 6C.  In the third embodiment (illustrated below in Figures 7A and 7B), 
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+7 
+the longitudinal axes of electric heaters 401, 403, 405 are each rotated about 
+the longitudinal axis of the airflow passage (hollow shaft portions 702, 704) 
+relative to each other.  Id. ¶ 155 (“[t]he longitudinal axis of each electric 
+heater 401, 403, 405 is rotated by a uniform amount of less than about 90 
+degrees from its adjacent electric heater or heaters”); see also id. Figs. 7A, 
+7B.   
+ 
+ 
+Figure 6A illustrates a longitudinal cross-section of a second embodiment of 
+Batista’s heater, Figure 6B illustrates a distal end view of the heater 
+assembly of FIG. 6A, Figure 7A illustrates a longitudinal cross-section of a 
+second embodiment of Batista’s heater, and Figure 7B illustrates a distal end 
+view of the heater assembly of FIG. 7A.  Id. ¶¶ 16, 17, 19, 20. 
+ 
+
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+8 
+The longitudinal axes of the electric heaters of all three of Batista’s 
+embodiments thus extend across the airflow passage transverse (or 
+perpendicular) to the airflow passage’s longitudinal axis, and in the second 
+and third embodiments, the longitudinal axes of one or two of the heaters is 
+rotated about the longitudinal axis of the airflow passage relative to that of 
+the other heaters.   
+Back to paragraph 53, Batista describes advantages of such rotated 
+configurations of the electric heaters (the arrangements of the second and 
+third embodiments) relative to an arrangement in which the longitudinal 
+axes of electric heaters are aligned within the airflow passage (hollow shaft 
+portions) (the first embodiment): (1) the heaters may more readily intercept 
+air flowing through the devices, (2) the devices may more uniformly 
+consume aerosol-forming substrate, reducing waste, and (3) leaked liquid 
+may more readily be intercepted and absorbed into an adjacent electric 
+heater, reducing liquid leakage.  Id. ¶ 53. 
+In view of the disclosures in Batista’s paragraphs 52 and 53, the 
+Examiner determines that it would have been obvious to one of ordinary 
+skill in the art to modify Boham’s device as modified by Moloney “to 
+provide wherein the housing has a first longitudinal axis, and integral heater 
+thermocouple has a second longitudinal axis that intersects the first 
+longitudinal axis to form an oblique angle,” as disclosed in Batista.  Final 
+Act. 5 (citing Batista ¶¶ 52, 53).  The Examiner reasons that “[a] person of 
+ordinary skill in the art would obviously place the heater at an oblique angle 
+to the housing because doing so would more readily intercept air flowing 
+[through the device] allowing for the device to more uniformly consume 
+aerosol-forming substrate thereby reducing waste.”  Id. (citing Batista ¶ 53).  
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+9 
+As the Appellant correctly points out (Appeal Br. 10–11), however, 
+and as discussed above, Batista discloses that these advantageous features 
+result from disposing the longitudinal axes of Batista’s electric heaters 
+perpendicular to the longitudinal axis of the airflow passage, but rotated 
+relative to each other.  Batista ¶ 53.  Contrary to the Examiner’s findings, 
+Batista does not disclose that these advantages stem from disposing the 
+longitudinal axes of one or more of Batista’s electric heaters at an oblique 
+angle relative to the longitudinal axis of Batista’s airflow passage. 
+ The Examiner’s rationale for modifying the angle of the longitudinal 
+axis of Boham’s heater 65 relative to that of Boham’s housing 42, therefore, 
+lacks rational underpinning.  Stated another way, the Examiner does not 
+provide sound technical reasoning supported by objective evidence 
+sufficient to persuasively explain why the relied-upon disclosures of Batista 
+would have led one of ordinary skill in the art to modify the angle of the 
+longitudinal axis of Boham’s heater 65 as the Examiner proposes. 
+ Furthermore, as discussed above, the Examiner initially proposes 
+modifying Boham’s system to include two vapor channels spaced apart by a 
+reservoir as Moloney discloses.  The Examiner does not explain where 
+Boham’s heater would be disposed in this modified system.  Nonetheless, 
+the Examiner proposes further modifying Boham’s device in view of Batista 
+to change the angle at which the longitudinal axis of Boham’s heater is 
+positioned relative to the longitudinal axis of Boham’s housing (as discussed 
+above).  But because the Examiner does not explain in the first instance 
+where Boham’s heater would be located in Boham’s device as initially 
+modified in view of Moloney, the Examiner does not explain how Boham’s 
+device would be further modified—while preserving the device’s intended 
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+10 
+functionality—to position the longitudinal axis of Boham’s heater at an 
+oblique angle relative to the housing’s longitudinal axis.   
+In particular, as the Appellant argues (Reply Br. 7–9), the Examiner’s 
+proposed modification of Boham’s device in view of Moloney would 
+apparently replace Boham’s inner air path 52 and outer reservoir 44 with an 
+inner reservoir and outer air path, resulting in Boham’s heater 65 no longer 
+extending across Boham’s inner air path 52.  The Examiner does not explain 
+where Boham’s heater 65 would be positioned after this modification.  
+Batista’s electric heaters, like Boham’s heater, function by extending across 
+an airflow passage (as discussed above).  The Examiner does not explain 
+how the intended function of Boham’s heater 65, and Boham’s device as a 
+whole, would be preserved if heater 65 no longer extended across an inner 
+air path. 
+ The Examiner, therefore, does not provide a sufficient factual basis to 
+establish that the relied-upon disclosures of Boham, Moloney, and Batista 
+would have suggested a non-nicotine cartridge having an integral heater-
+thermocouple positioned as recited in claims 1 and 17.    
+We, accordingly, do not sustain the Examiner’s obviousness rejection 
+of claims 1, 2, 4–6, and 9–18 (Rejection I).  We also do not sustain the 
+Examiner’s obviousness rejection of claims 19 and 20 (Rejection II) because 
+the Examiner does not rely on any disclosure in Fraser that remedies the 
+deficiencies of the Examiner’s reliance on Boham, Moloney, and Batista. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Appeal 2024-003328 
+Application 16/929,475 
+ 
+11 
+DECISION SUMMARY 
+ 
+Claims 
+Rejected  
+35 U.S.C. 
+§ 
+Reference(s)/Basis Affirmed Reversed 
+1–2, 4–6, 
+9–18 
+103 Boham, Moloney, 
+Batista 
+ 1–2, 4–6, 9–
+18 
+19, 20 103 Boham, Moloney, 
+Batista, Fraser 
+ 19, 20 
+Overall 
+Outcome 
+   1–2, 4–6, 9–
+20 
+ 
+REVERSED 
+ 

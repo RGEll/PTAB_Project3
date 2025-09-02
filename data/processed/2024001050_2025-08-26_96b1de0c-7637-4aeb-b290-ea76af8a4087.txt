@@ -1,0 +1,472 @@
+2024001050 2025 08 26 96b1de0c 7637 4aeb b290 ea76af8a4087
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+16/428,977 06/01/2019 Suzanne Labombarda 126655 4434
+25702 7590 08/27/2025
+SCOTT C. RAND, ESQ.
+MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION
+900 ELM STREET, P.O. BOX 326
+MANCHESTER, NH 03105-0326
+EXAMINER
+GEBREMICHAEL, BRUK A
+ART UNIT PAPER NUMBER
+3715
+NOTIFICATION DATE DELIVERY MODE
+08/27/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+lindsay.millette@mclane.com
+patents.nh@mclane.com
+scott.rand@mclane.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+Ex parte SUZANNE LABOMBARDA
+Appeal 2024-001050
+Application 16/428,977
+Technology Center 3700
+Before ELENI MANTIS MERCADER, DENISE M. POTHIER, and
+JEREMY J. CURCURI, Administrative Patent Judges.
+CURCURI, Administrative Patent Judge.
+DECISION ON APPEAL
+STATEMENT OF THE CASE
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the
+Examiner’s decision to reject claims 1–12, 14–17, 19, 20, 22, and 23. Claims
+13, 18, 21, and 24–27 are canceled. We have jurisdiction under
+35 U.S.C. § 6(b).
+We AFFIRM.
+
+1 We use the word Appellant to refer to “applicant” as defined in 37 C.F.R.
+§ 1.42(a). Appellant identifies the real party in interest as Suzanne
+Labombarda. Appeal Br. 1.
+
+Appeal 2024-001050
+Application 16/428,977
+2
+CLAIMED SUBJECT MATTER
+The claims are directed to a “[m]ethod for achieving goals through
+emphasis on persistence.” Title. Claim 1, reproduced below, is illustrative of
+the claimed subject matter:
+1. A method for enhancing a student’s likelihood of
+achieving success, said method comprising the steps of:
+a) encouraging the student to set a goal;
+b) encouraging the student to formulate milestones
+toward achieving the goal;
+c) encouraging the student to attempt to progress through
+the milestones;
+d) encouraging the student to record her progress through
+the milestones;
+e) monitoring the student’s progress through the
+milestones;
+f) determining whether the student is using maximal
+effort to proceed through the milestones;
+g) providing positive feedback to the student upon her
+success in proceeding through one or more milestones while
+using maximal effort;
+h) providing positive feedback to the student upon her
+failure to proceed through one or more milestones while using
+maximal effort;
+i) emphasizing that struggle and failure are expected and
+necessary aspects of achieving the goal and that effort and
+persistence are the most important factors in achieving the goal;
+and
+l) training a teacher to perform said steps a) through i) by
+providing the teacher with access to an online portal that
+
+Appeal 2024-001050
+Application 16/428,977
+3
+provides at least information regarding said steps a) through i)
+and resources pertaining to steps a) through i).
+REFERENCE
+The prior art relied upon by the Examiner is:
+Name Reference Date
+Brock US 2016/0314694 A1 Oct. 27, 2016
+
+REJECTIONS
+Claims 1–12, 14–17, 19, 20, 22, and 23 are rejected under 35 U.S.C.
+§ 101 as directed to patent-ineligible subject matter. Final Act. 15–20.
+Claims 1–12, 14–17, 19, 20, 22, and 23 are rejected under 35 U.S.C.
+§ 103 as obvious over Brock. Final Act. 50–53.
+OPINION
+The Eligibility Rejection of Claims 1–12, 14–17, 19, 20, 22, and 23
+The Examiner determines independent claim 1 is directed to a judicial
+exception without significantly more. Final Act. 15–20. The Examiner
+determines certain claim limitations fall within certain methods of
+organizing human activity and/or mental processes groupings of abstract
+ideas. See Final Act. 18 (“Thus, the limitations identified above recite an
+abstract idea since the limitations correspond to certain methods of
+organizing human activity, and/or mental processes, which are part of the
+enumerated groupings of abstract ideas identified according to the current
+eligibility standard (see MPEP 2106.04(a) [(9th ed. rev. 07.2022 Feb.
+2023)]). For instance, the current claims correspond to managing personal
+behavior or evaluation, wherein a student is presented with one or more
+advices in order to increase the student’s chance to succeed in achieving a
+
+Appeal 2024-001050
+Application 16/428,977
+4
+goal, etc.”). The Examiner further determines the judicial exception is not
+integrated into a practical application. Final Act. 18–19. The Examiner
+further determines the claims do not include additional elements that are
+sufficient to amount to significantly more than the judicial exception. Final
+Act. 19–20.
+Appellant presents the following principal arguments:
+Step 2A, Prong 2
+Regarding claim 1, “the combination of at least steps h), i), and l)
+implements the abstract idea with a particular machine or manufacture,
+namely the online portal, that is integral to the claim.” Appeal Br. 16.
+Although an online portal may be a conventional
+element, it is the appropriate element to solve for the particular
+problem of providing the information to many different types of
+people in many different types of settings. Access by anyone,
+anywhere is integral to the claim and the online portal
+addresses this requirement.
+
+Appeal Br. 17. “That being provided with this information and resources is
+integral to enabling steps h) and i) is supported by ¶ 8 of the declarations of
+Ms. Bruce, Mr. Alfonso, and Ms. Johnson.” Appeal Br. 18.
+Step 2B
+“[T]he additional element of the online portal, in combination with
+novel, nonobvious steps h) and i) and the remainder of step l), amounts to
+significantly more than an abstract idea.” Appeal Br. 18. “The additional
+element of the online portal in step 1) is not a well-understood, routine, or
+conventional activity because the content it is providing is novel.” Appeal
+Br. 19. “[T]he Examiner has not established that the online portal is wellunderstood, routine, or conventional when considered in combination with
+the steps of the present invention.” Appeal Br. 21.
+
+Appeal 2024-001050
+Application 16/428,977
+5
+We review the appealed rejections for error based upon the issues
+identified by Appellant, and in light of the arguments and evidence produced
+thereon. Ex parte Frye, 94 USPQ2d 1072, 1075 (BPAI 2010) (precedential).
+We select claim 1 as representative.
+Are the claims patent-eligible?
+Step 1
+Claim 1 is the sole independent claim. Claim 1 recites a method,
+which falls within the “process” category of 35 U.S.C. § 101.
+Thus, we must determine whether the claim recites a judicial
+exception, and fails to integrate the exception into a practical application. If
+both elements are satisfied, the claim is directed to a judicial exception under
+the first step of the Alice/Mayo test. Alice Corp. v. CLS Bank Int’l, 573 U.S.
+208 (2014); Mayo Collaborative Servs. v. Prometheus Labs., Inc., 566 U.S.
+66 (2012).
+Step 2A, Prong 1
+Claim 1 recites the following steps:
+a) encouraging the student to set a goal;
+b) encouraging the student to formulate milestones
+toward achieving the goal;
+c) encouraging the student to attempt to progress through
+the milestones;
+d) encouraging the student to record her progress through
+the milestones;
+e) monitoring the student’s progress through the
+milestones;
+f) determining whether the student is using maximal
+effort to proceed through the milestones;
+
+Appeal 2024-001050
+Application 16/428,977
+6
+g) providing positive feedback to the student upon her
+success in proceeding through one or more milestones while
+using maximal effort;
+h) providing positive feedback to the student upon her
+failure to proceed through one or more milestones while using
+maximal effort;
+i) emphasizing that struggle and failure are expected and
+necessary aspects of achieving the goal and that effort and
+persistence are the most important factors in achieving the goal;
+and
+l) training a teacher to perform said steps a) through i) by
+providing the teacher with access to an online portal that
+provides at least information regarding said steps a) through i)
+and resources pertaining to steps a) through i).
+We determine steps a)–i) describe “managing personal behavior or
+relationships or interactions between people, (including social activities,
+teaching, and following rules or instructions).” MPEP § 2106.04(a)(2)(II). In
+short, the various steps a)–i) describe teaching—a fundamental activity that
+has been long been performed by humans—which falls within the “[c]ertain
+methods of organizing human activity” grouping of abstract ideas. MPEP
+§ 2106.04(a)(2)(II); see also Final Act 18.
+Step 2A, Prong 1 determines whether the claims recite a judicial
+exception, while Step 2A, Prong 2 determines whether the claims are
+directed to the judicial exception. Appellant’s arguments do not squarely
+focus on the Step 2A, Prong 1 inquiry.
+Thus, we determine claim 1 recites a judicial exception under Step
+2A, Prong 1.
+
+Appeal 2024-001050
+Application 16/428,977
+7
+Step 2A, Prong 2
+Because claim 1 recites a judicial exception, we next determine if the
+claim recites additional elements that integrate the judicial exception into a
+practical application.
+In addition to the limitations of claim 1 discussed above that recite
+abstract concepts, claim 1 further recites the step “l) training a teacher to
+perform said steps a) through i) by providing the teacher with access to an
+online portal that provides at least information regarding said steps a)
+through i) and resources pertaining to steps a) through i).”
+We determine step “l) training a teacher to perform said steps a)
+through i) by providing the teacher with access to an online portal that
+provides at least information regarding said steps a) through i) and resources
+pertaining to steps a) through i)” does not add meaningful limitations to the
+judicial exception because it is merely directed to the insignificant postsolution activity of data outputting. See MPEP § 2106.05(g); see also Final
+Act. 19 (“[T]he above additional element is utilized merely to facilitate the
+abstract idea (e.g. providing access to information or resources via an
+online portal). The above demonstrates that the claimed additional element
+is utilized merely as a tool to implement the abstract idea.”); Ans. 31–36.
+Contrary to Appellant’s arguments, we do not agree that the abstract
+idea is implemented with a particular machine. Although Appellant argues
+that the online portal solves a particular problem, we determine the online
+portal is insignificant post-solution activity. In short, providing an online
+portal, with nothing more, is no more than extra-solution, conventional data
+outputting.
+Further, Appellant’s argument “[t]hat being provided with this
+information and resources is integral to enabling steps h) and i) is supported
+
+Appeal 2024-001050
+Application 16/428,977
+8
+by ¶ 8 of the declarations of Ms. Bruce, Mr. Alfonso, and Ms. Johnson”
+(Appeal Br. 19) also does not show reversible error. Steps h) and i) are part
+of the abstract idea, and thus, do not integrate the abstract idea into a
+practical application. Step l) recites providing information; however,
+providing information as recited provides no more than extra-solution,
+conventional data outputting.
+Thus, we determine claim 1 is directed to a judicial exception under
+Step 2A, Prong 2.
+
+Is there something else in the claims that ensures that they are
+directed to significantly more than a patent ineligible concept?
+Step 2B
+Because claim 1 is directed to a judicial exception, we must
+determine, according to Alice, whether the claim recites an element or
+combination of elements that is enough to ensure that the claim is directed to
+significantly more than a judicial exception.
+In addition to the limitations of claim 1 discussed above that recite
+abstract concepts, claim 1 further recites the step “l) training a teacher to
+perform said steps a) through i) by providing the teacher with access to an
+online portal that provides at least information regarding said steps a)
+through i) and resources pertaining to steps a) through i).”
+Regarding step “l) training a teacher to perform said steps a) through
+i) by providing the teacher with access to an online portal that provides at
+least information regarding said steps a) through i) and resources pertaining
+to steps a) through i),” our reviewing court has recognized that sending and
+receiving data are well-understood, routine, and conventional activities. See
+buySAFE, Inc. v. Google, Inc., 765 F.3d 1350, 1355 (Fed. Cir. 2014) (“That
+
+Appeal 2024-001050
+Application 16/428,977
+9
+a computer receives and sends the information over a network—with no
+further specification—is not even arguably inventive.”); see also MPEP
+2106.05(d), Final Act. 19 (“[T]he claimed additional element is directed to
+conventional computer element, which is serving merely to perform
+conventional computer functions. Accordingly, none of the current claims
+recites an element—or a combination of elements—directed to an ‘inventive
+concept’.”), Ans. 36–43.
+Contrary to Appellant’s arguments, we do not agree that the additional
+element of the online portal amounts to significantly more than the abstract
+idea. Further, although Appellant argues that the content provided is novel,
+the content from the previous steps in claim 1 is part of the abstract idea and
+does not provide significantly more than a patent ineligible concept. In short,
+step l) recites providing information; however, providing information as
+recited provides no more than extra-solution, conventional data outputting.
+Thus, we determine claim 1 is not directed to significantly more than
+a patent ineligible concept.
+We, therefore, sustain the rejection of claim 1.
+We also sustain the rejection of claims 2–12, 14–17, 19, 20, 22, and
+23, which are not separately argued with particularity. See Appeal Br. 16–
+21.
+
+The Obviousness Rejection of Claims 1–12, 14–17, 19, 20, 22, and 23
+The Examiner finds Brock teaches all limitations of claim 1. Final
+Act. 50–51. In particular, the Examiner finds,
+Although Brock does not explicitly describe, “g)
+providing positive feedback to the student upon her success in
+proceeding through one or more milestones while using maximal
+
+Appeal 2024-001050
+Application 16/428,977
+10
+effort; h) providing positive feedback to the student upon her
+failure to proceed through one or more milestones while using
+maximal effort; i) emphasizing that struggle and failure are
+expected and necessary aspects of achieving the goal and that
+effort and persistence are the most important factors in achieving
+the goal ”, the above limitations are directed to interactions or
+conversations that a user —such as an educator —makes with a
+student.
+In this regard, Brock already describes that the educator
+interacts with the student; for example, by asking t he student
+various questions regarding the student’s goals, etc. ([0035]).
+Accordingly, it would have been obvious to one of
+ordinary skill in the art, before the effective filing date of the
+claimed invention, to modify Brock’s implementation; for
+example, by making an arrangement that allows the educator to
+provide advice and/or some recommendations to the student,
+etc., so that the student would not face significant burden to
+achieve his/her goals.
+Final Act. 51.
+Appellant presents the following principal arguments:
+“[T]he content of the messages provided in steps h) and i) must be
+given patentable weight.” Appeal Br. 7; see also Appeal Br. 12–16 (arguing
+that steps h), i), and l) include printed matter that should be given patentable
+weight).
+While [Brock’s outcomes are] laudable, these outcomes
+accurately represent the entirety of Brock in that they do not
+touch on the importance of the student using maximal effort to
+achieve her goals and do not touch on the paramount messages
+of steps h) and i) of the present invention —that failure while
+using maximal effort is to be praised; that struggle and failure are
+expected and necessary aspects of goal achievement; and that
+effort and persistence are the most important factors in goal
+achievement.
+Appeal Br. 8.
+
+Appeal 2024-001050
+Application 16/428,977
+11
+“Contrary to the Examiner’s statement, it would not have been
+obvious to one of ordinary skill in the art, before the effective filing date of
+the claimed invention, to modify Brock’s implementation. This is because
+steps h) and i) were not known prior to the present invention.” Appeal Br. 9
+(citing Declarations of Christi Leigh, Melissa Bruce, Erick Alfonso,
+Christine Johnson).
+In response, the Examiner explains “the content/topic of the feedback
+(verbal remark) does not have a patentable weight since it is directed to
+nonfunctional descriptive matter.” Ans. 4.
+We review the appealed rejections for error based upon the issues
+identified by Appellant, and in light of the arguments and evidence produced
+thereon. Frye, 94 USPQ2d at 1075.
+We select claim 1 as representative.
+“Claim limitations directed to printed matter are not entitled to
+patentable weight unless the printed matter is functionally related to the
+substrate on which the printed matter is applied.” Praxair Distribution, Inc.
+v. Mallinckrodt Hosp. Prods. IP Ltd., 890 F.3d 1024, 1031 (Fed. Cir. 2018)
+(emphasis added). Our reviewing court has also explained that this printed
+matter doctrine is not strictly limited to “printed” materials. Praxair, 890
+F.3d at 1032. More specifically, “a claim limitation is directed to printed
+matter ‘if it claims the content of information.’” Praxair, 890 F.3d at 1032
+(quoting In re Distefano, 808 F.3d 845, 848 (Fed. Cir. 2015)).
+“Where the printed matter is not functionally related to the substrate,
+the printed matter will not distinguish the invention from the prior art in
+terms of patentability.” In re Gulack, 703 F.2d 1381, 1385 (Fed. Cir. 1983)
+(footnote omitted). As a general proposition, we need not give patentable
+weight to non-functional descriptive material absent a new and nonobvious
+
+Appeal 2024-001050
+Application 16/428,977
+12
+structural or functional relationship between the descriptive material and the
+substrate. See In re Ngai, 367 F.3d 1336, 1339 (Fed. Cir. 2004); see also
+King Pharm., Inc. v. Eon Labs, Inc., 616 F.3d 1267, 1279 (Fed. Cir. 2010);
+MPEP § 2111.05.
+In Ex parte Nehls, 88 USPQ2d 1883, 1888 (BPAI 2008)
+(precedential), the Board held that the nature of the information being
+manipulated by the computer should not be given patentable weight absent
+evidence that the information is functionally related to the process “by
+changing the efficiency or accuracy or any other characteristic” of the steps.
+See also Ex parte Curry, 84 USPQ2d 1272, 1274 (BPAI 2005) (nonprecedential) (holding “wellness-related” data stored in a database and
+communicated over a network was non-functional descriptive material as
+claimed because the data “does not functionally change” the system).
+“Today, printed matter encompasses any information claimed for its
+communicative content, and the doctrine prohibits patenting such printed
+matter unless it is ‘functionally related’ to its ‘substrate,’ which encompasses
+the structural elements of the claimed invention.” C R Bard Inc. v.
+AngioDynamics, Inc., 979 F.3d 1372, 1381 (Fed. Cir. 2020) (citing Praxair,
+890 F.3d at 1032; Distefano, 808 F.3d at 848–49). To determine whether a
+functional relationship exists, Bard instructs us to consider “whether the
+printed matter merely informs people of the claimed information, or whether
+it instead interacts with the other elements of the claim to create a new
+functionality in a claimed device or to cause a specific action in a claimed
+process.” Bard, 979 F.3d at 1381.
+Regarding the step “h) providing positive feedback to the student upon
+her failure to proceed through one or more milestones while using maximal
+effort” (claim 1 (emphasis added)), this subject matter recites information—
+
+Appeal 2024-001050
+Application 16/428,977
+13
+positive feedback—claimed for its communicative content, and thus, recites
+printed matter. Further, this printed matter merely informs the student of the
+claimed information and the claim does not recite using or otherwise
+interacting with the content; therefore, the content is non-functional
+descriptive material that does not patentably distinguish over Brock.
+Similarly, the step “i) emphasizing that struggle and failure are
+expected and necessary aspects of achieving the goal and that effort and
+persistence are the most important factors in achieving the goal” (claim 1
+(emphasis added)) recites information claimed for its communicative
+content, and thus, recites printed matter. Further, this printed matter also
+merely informs the student of the claimed information and the claim does
+not recite using or otherwise interacting with the content; therefore, the
+content is non-functional descriptive material that does not patentably
+distinguish over Brock.
+Finally, the step “l) training a teacher to perform said steps a) through
+i) by providing the teacher with access to an online portal that provides at
+least information regarding said steps a) through i) and resources
+pertaining to steps a) through i)” recites information claimed for its
+communicative content, and thus, recites printed matter. Further, this printed
+matter merely informs the teacher of the claimed information and the claim
+does not recite using or otherwise interacting with the content; therefore, the
+content is non-functional descriptive material that does not patentably
+distinguish over Brock.
+Appellant’s arguments do not show reversible error for the reasons
+discussed above. In short, we do not give patentable weight to the
+information claimed for its communicative content.
+We, therefore, sustain the rejection of claim 1.
+
+Appeal 2024-001050
+Application 16/428,977
+14
+We also sustain the rejection of claims 2–12, 14–17, 19, 20, 22, and
+23, which are not separately argued with particularity. See Appeal Br. 6–16.
+CONCLUSION
+The Examiner’s decision to reject claims 1–12, 14–17, 19, 20, 22, and
+23 is affirmed.
+DECISION SUMMARY
+In summary:
+Claims
+Rejected
+35 U.S.C.
+§
+Reference(s)/Basis Affirmed Reversed
+1–12, 14–
+17, 19, 20,
+22, 23
+101 Eligibility 1–12, 14–
+17, 19, 20,
+22, 23
+
+1–12, 14–
+17, 19, 20,
+22, 23
+103 Brock 1–12, 14–
+17, 19, 20,
+22, 23
+
+Overall
+Outcome
+1–12, 14–
+17, 19, 20,
+22, 23
+
+
+TIME PERIOD FOR RESPONSE
+No time period for taking any subsequent action in connection with
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R.
+§ 1.136(a)(1)(iv) (2025).
+AFFIRMED

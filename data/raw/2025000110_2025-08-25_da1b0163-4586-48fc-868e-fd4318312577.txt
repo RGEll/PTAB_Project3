@@ -1,0 +1,171 @@
+2025000110 2025 08 25 da1b0163 4586 48fc 868e fd4318312577
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/058,901 11/25/2020 Matthias LEPIORZ 5068.1341 1047
+23280 7590 08/26/2025
+Davidson Kappel LLC
+589 8th Avenue
+22nd Floor
+New York, NY 10018
+EXAMINER
+D'ANIELLO, NICHOLAS P
+ART UNIT PAPER NUMBER
+1723
+NOTIFICATION DATE DELIVERY MODE
+08/26/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+ddk@davidsonkappel.com
+dk@davidsonkappel.com
+tquinones@davidsonkappel.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+—————— 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+—————— 
+Ex parte MATTHIAS LEPIORZ, ROBERT STANGER, MOSES ENDER, 
+BERND ZIEGLER, KLAUS HAUSER, NORA MARTINY, and 
+KATHRIN SAX 
+—————— 
+Appeal 2025-000110 
+Application 17/058,901 
+Technology Center 1700 
+—————— 
+ 
+Before JEFFREY B. ROBERTSON, BRIAN D. RANGE, and 
+SHELDON M. McGEE, Administrative Patent Judges. 
+RANGE, Administrative Patent Judge. 
+DECISION ON APPEAL 
+STATEMENT OF THE CASE 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the 
+Examiner’s decision to reject claims 31–33. See Final Act. 1. We have 
+jurisdiction under 35 U.S.C. § 6(b). 
+We REVERSE. 
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant 
+identifies the real party in interest as Hilti Aktiengesellschaft. Appeal Br. 2. 
+
+Appeal 2025-000110 
+Application 17/058,901 
+2 
+CLAIMED SUBJECT MATTER 
+The claims are directed to a safety device for battery packs having 
+pouch cells. Claim 31, reproduced below with emphasis added to a recitation 
+key to this appeal, illustrates the claimed subject matter: 
+31. A rechargeable battery pack comprising: 
+ at least one pouch cell defining a top surface and a 
+bottom surface; and 
+ an electrical circuit with at least one interrupter designed 
+to at least temporarily interrupt a current draw from the pouch 
+cell or from the rechargeable battery pack, the interrupter 
+tripped by an expansion of the pouch cell; 
+ the interrupter being designed as a mechanical switch or 
+button; 
+ the electrical circuit fully surrounding a cross section of 
+the at least one pouch cell so as to encircle the top surface and 
+the bottom surface. 
+Appeal Br. 6 (Claims App.) 
+REFERENCE 
+The Examiner relies on the following references to reject the claims: 
+Name Reference Date 
+ Roh  US 2014/0248523 A1  Sept. 4, 2014 
+REJECTION 
+The Examiner maintains the rejection of claims 31–33 under 35 
+U.S.C. § 102 as being anticipated by Roh. Final Act. 3. 
+OPINION 
+The Examiner determines that Roh anticipates claim 31. Final Act. 3. 
+With respect to the final recitation of claim 31, the Examiner finds that 
+Figure 10 of Roh teaches “the electrical circuit fully surrounding a cross 
+section of the at least one pouch cell so as to encircle the top surface and the 
+bottom surface.” Id. Appellant argues that Roh does not teach an electrical 
+
+Appeal 2025-000110 
+Application 17/058,901 
+3 
+circuit that fully surrounds a cross section of the at least one pouch cell so as 
+to encircle the top surface and bottom surface. Appeal Br. 4. Appellant’s 
+argument persuades us of Examiner error for the reasons we explain below. 
+As a threshold matter, we agree with Appellant that Appellant’s 
+Specification explains operation of its device differently than the explanation 
+Roh provides for the Roh device. Reply Br. 2. Appellant’s Specification 
+explains that, when battery cells expand, the fusible link will narrow. 
+Spec.¶ 34. The narrowing will create a higher current that causes the fusible 
+link to melt. Id. As the pouch cells expand further, the fusible link breaks 
+mechanically. Id. ¶ 35; see also id. at Figs. 3A, 3B, 3B´. 
+Roh’s explanation of its device is less clear. Roh explains that an 
+“expansion force is transmitted to the circuit breaker 500 located at the side 
+of the outermost battery module.” Roh ¶ 93. Roh explains that “[h]igh 
+electric current flows in the electrical connection circuit 801 of the battery 
+pack 700” results in breaking cut-off portion 800. Id. ¶ 94. While evaluation 
+of the Examiner’s rejection does not squarely hinge on the distinction 
+between the Specification’s and Roh’s description of their devices’ function, 
+the distinction does, somewhat, weigh against interpreting any ambiguity in 
+favor of Roh having the same structure as claim 31.  
+With this context in mind, we consider Appellant’s argument that Roh 
+Figure 10 does not adequately establish an “electrical circuit fully 
+surrounding a cross section of the at least one pouch cell so as to encircle the 
+top surface and the bottom surface” as claim 31 recites. Appeal Br. 4. In 
+particular, Appellant argues that Figure 10 is a schematic. Id.  
+We agree with Appellant that Roh Figure 10 is, at least in part, a 
+schematic. We reproduce Roh Figure 10 below. 
+
+Appeal 2025-000110 
+Application 17/058,901 
+4 
+ 
+Roh describes Figure 10 as “a view showing circuitry of the battery pack 
+according to an embodiment of the present description.” Roh ¶ 60. From this 
+text, it is not clear whether Figure 10 is intended to be a schematic or not. 
+On inspection, Figure 10 appears to be at least partially a schematic. Figure 
+10 depicts what a battery pack and terminals could actually look like in the 
+real world (for example, anode terminal 306, cathode conduction part 561, 
+anode conduction part 562, and battery module 301). Id. ¶¶ 91–94. Figure 10 
+also, however, presents abstract symbols rather than a real-world depiction 
+to show, for example, HV Fuse 800 and, importantly, electrical connection 
+circuit 801. The HV Fuse 800 is instead represented as a rectangle, and the 
+electrical connection circuit 801 is represented by a line that turns at 
+perfectly square 90° corners as in a schematic. 
+
+
+Appeal 2025-000110 
+Application 17/058,901 
+5 
+ Because Figure 10 appears to be a schematic in its depiction of the 
+electrical connection circuit 801, we do not understand Roh as necessarily 
+teaching that the circuit must be located such that it would “surround[] a 
+cross section of the at least one pouch cell so as to encircle the top surface 
+and the bottom surface” as claim 31 recites. Rather, to the extent the 
+depiction of electrical connection circuit 801 is a schematic, Roh only 
+teaches what points should be electrically connected rather than how the 
+wiring should be physically arranged in the real-world. Also, because Roh 
+describes the functional operation of its device differently than how 
+Appellant’s Specification describes the operation of its device, consideration 
+of the devices’ operation does not resolve any ambiguity.  
+ Because Roh’s teachings are unclear as explained above, we do not 
+sustain the Examiner’s rejection of claim 31. We also do not sustain the 
+rejection of claims 32 and 33 because those claims depend from claim 31, 
+and the Examiner’s treatment of those claims does not cure the error with 
+respect to claim 31. 
+CONCLUSION 
+The Examiner’s rejection is REVERSED. 
+
+Appeal 2025-000110 
+Application 17/058,901 
+6 
+DECISION SUMMARY 
+The following table summarizes our decision: 
+Claim(s) Rejected 35 U.S.C. § Reference(s)/ Basis Affirmed Reversed 
+ 31–33  102  Roh   31–33 
+REVERSED 
+ 
+ 

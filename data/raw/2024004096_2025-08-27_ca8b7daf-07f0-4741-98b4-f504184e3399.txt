@@ -1,0 +1,256 @@
+2024004096 2025 08 27 ca8b7daf 07f0 4741 98b4 f504184e3399
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address:  COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/076,088 10/21/2020 Chewn-Pu JOU T5057-1172UB 6086
+95496 7590 08/28/2025
+Hauptman Ham, LLP (TSMC)
+2318 Mill Road
+Suite 1400
+Alexandria, VA 22314
+EXAMINER
+MAINI, RAHUL
+ART UNIT PAPER NUMBER
+2858
+NOTIFICATION DATE DELIVERY MODE
+08/28/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+pair_lhhb@firsttofile.com
+sramunto@ipfirm.com
+tsmc@ipfirm.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+—————— 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+—————— 
+Ex parte CHEWN-PU JOU and MIN-JER WANG 
+—————— 
+Appeal 2024-004096 
+Application 17/076,088 
+Technology Center 2800 
+—————— 
+ 
+Before MARC S. HOFF, ELENI MANTIS MERCADER, and 
+JENNIFER L. MCKEOWN, Administrative Patent Judges. 
+MCKEOWN, Administrative Patent Judge. 
+DECISION ON APPEAL 
+STATEMENT OF THE CASE 
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the 
+Examiner’s decision to reject claims 1–20. See Final Act. 1. We have 
+jurisdiction under 35 U.S.C. § 6(b). 
+We AFFIRM. 
+ 
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant 
+identifies the real party in interest as TAIWAN SEMICONDUCTOR 
+MANUFACTURING CO. Appeal Br. 2. 
+
+Appeal 2024-004096 
+Application 17/076,088 
+2 
+CLAIMED SUBJECT MATTER 
+The claims are directed to an integrated circuit testing system and 
+method. Claim 1, reproduced below, illustrates the claimed subject matter: 
+1. A method of testing an integrated circuit, the method 
+comprising: 
+ connecting a conductive line to a ground voltage; 
+ directly physically contacting the conductive line with a 
+first conductive structure without marring the first conductive 
+structure; 
+ contacting the conductive line with a second conductive 
+structure different from the first conductive structure; 
+ supplying a first test voltage to the conductive line 
+through the first conductive structure; 
+ supplying a second test voltage to the conductive line 
+through the second conductive structure; and 
+ generating a report indicating whether the first 
+conductive structure is capable of carrying the first test voltage 
+based on feedback from a first test circuit connected to the first 
+conductive structure. 
+REFERENCES 
+The Examiner relies on the following references to reject the claims: 
+Name Reference Date 
+ Fjelstad  US 6,086,386  July 11, 2000 
+ Dishongh  US 6,452,502  Sept. 17, 2002 
+ Spuhler  US 7,501,832 B2  Mar. 10, 2009 
+ Yao  US 9,024,315 B2  May 5, 2015 
+ Wu  US 2014/0266283 A1  Sept. 18, 2014 
+ 
+REJECTIONS 
+The Examiner maintains the following rejections: 
+Claims 1–3, 8–10, and 17–20 are rejected under 35 U.S.C. § 103 as 
+being unpatentable over Spuhler, Wu, and Fjelstad. Final Act. 3.  
+
+Appeal 2024-004096 
+Application 17/076,088 
+3 
+Claims 4 and 11–16 are rejected under 35 U.S.C. § 103 as being 
+unpatentable over Spuhler, Wu, Fjelstad, and Yao. Final Act. 16, 20.  
+Claims 5–7 are rejected under 35 U.S.C. § 103 as being unpatentable 
+over Spuhler, Wu, Fjelstad, and Dishongh. Final Act. 18.  
+OPINION 
+THE OBVIOUSNESS REJECTION BASED ON SPUHLER, WU, AND FJELSTAD 
+Claims 1–3, 8–10, and 17–20 
+Appellant asserts that the combination of Spuhler and Fjelstad would 
+render Spuhler unsatisfactory for its intended purpose. Appeal Br. 8. 
+According to Appellant, to satisfy the claim language of “directly physically 
+contacting,” Spuhler must be modified to remove the LAND 128, which as 
+shown below in Figure 5, is between the node 154, i.e. conductive line, and 
+solder balls 124, i.e. first conductive structure. Id.  
+
+Appeal 2024-004096 
+Application 17/076,088 
+4 
+ 
+Spuhler’s Figure 5 Depicting An Exemplary Embodiment 
+With LANDS Contacting Solder Balls 
+Appellant maintains that removal of the LAND 128 would reduce the 
+effectiveness of Spuhler and render Spuhler unsatisfactory for its intended 
+purpose “of accurately evaluating the condition of solder joints in the 
+electronic package.” Appeal Br. 8; Reply Br. 4.  
+More particularly, Appellant argues that removal of LAND 128 would 
+remove Spuhler’s ability to detect failures in the printed wired board (PWB) 
+LAND interface. Appeal Br. 9. Appellant explains that Spuhler’s stated 
+purpose is to detect failures at multiple locations and that  
+
+
+Appeal 2024-004096 
+Application 17/076,088 
+5 
+One of ordinary skill in the art would understand that whether a 
+failure occurs at a first location or at a second location, the overall 
+result is that the entire device fails. Sampling at just a singl e 
+location, instead of the multiple locations of Spuhler, reduces the 
+likelihood of precisely identifying whether “any such failure will 
+result in a defective electronic package. ” The modification 
+asserted by the Examiner reduces the number of testing locations 
+by half. This reduction in testing locations will increase the risk 
+of producing a defective device, which Spuhler is explicitly 
+described as seeking to avoid. One of ordinary skill in the art 
+would understand that removing the ability to detect failure at the 
+PWB/LAND interface would inhibit Spuhler from helping to 
+ensure high overall device yield. 
+Appeal Br. 9–10. See also, e.g., Reply Br. 4 (citing Spuhler’s background to 
+show that the PWB LAND and solder ball interface is a location typical for 
+failures and asserting that performing a test that excludes a typical location 
+of failures “will inherently reduce the effectiveness of a determining the 
+presence of defects by failing to test a location where defects typically 
+occur” and the further the test “result would be degraded to the point of 
+being usable.”). 
+We are not persuaded of error in the Examiner’s rejection and adopt 
+the Examiner’s findings and conclusions as our own. See, e.g., Final Act. 2–
+7; Ans. 3–7. As the Examiner points out (Ans. 6), “[t]he test for obviousness 
+is not whether the features of a secondary reference may be bodily 
+incorporated into the structure of the primary reference . . . . Rather, the test 
+is what the combined teachings of those references would have suggested to 
+those of ordinary skill in the art.” In re Keller, 642 F.2d 413, 425 (CCPA 
+1981). The Examiner, here, relies on the teachings of the reference as a 
+whole to arrive at the claimed limitation. See, e.g., Ans. 6. Moreover, we 
+understand Spuhler’s LAND 128 to be a contact of the node 154, i.e. 
+
+Appeal 2024-004096 
+Application 17/076,088 
+6 
+conductive line. Given the broad disclosure of conductive line in the 
+Specification, a skilled artisan would understand Spuhler’s LAND is part of 
+Spuhler’s conductive line.  See Spec. ¶ 25 (noting that “[i]n some 
+embodiments, conductive line 113 is a conductive plane.”).  
+Nevertheless, even if the Examiner’s combination did require LAND 
+128 removal, Appellant fails to identify persuasive support for the alleged 
+intended purpose of Spuhler nor does Appellant persuasively explain how 
+the proposed combination would render Spuhler unsatisfactory for that 
+alleged purpose. As the Examiner explains, the cited portions of Spuhler 
+identify that failures may occur at the PWB LAND and solder ball interface, 
+but not that the interface is “specifically being used to determine whether 
+failures are likely to occur within the electronic package.” Ans. 4. For 
+example, Spuhler, at cited column 3, lines 5–42, describes different failure 
+types, such as intermittent and hard failures, different failure evaluation 
+mechanisms, such as temperature operation and storage tests, and different 
+methods of analyzing solder joints, such as with or without opening the 
+package. See also Ans. 4–5. As noted by the Examiner, we find no support 
+in the cited disclosures for Appellant’s assertion that Spuhler uses the solder 
+ball and LAND interface to determine “whether failures are likely to occur 
+within the electronic package resulting in defects.” Appeal Br 8.    
+Moreover, Appellant does not demonstrate that removal of Spuhler’s 
+LAND would reduce the overall effectiveness of Spuhler’s testing. As the 
+Examiner explains,  
+Because the internal solder-joint connections are tested directly, 
+a test of the solder -joint/LAND interface is not required to 
+determine the connectivity of the internal solder -joint 
+connections. In other words, the internal solder-joint connections 
+are t ested even in the absence of LAND 128. Therefore, the 
+
+Appeal 2024-004096 
+Application 17/076,088 
+7 
+ability to detect failure does not reduce the number of testing 
+locations by half, does not increase the risk of producing a 
+defective device and does not inhibit Spuhler from ensuring high 
+overall yield. 
+Ans. 7. As such, based on the record before us, we are not persuaded in the 
+Examiner’s determination.  
+Finally, contrary to Appellant’s assertion (Reply Br. 5–7), we do not 
+understand the Examiner to modify the rejection to rely on internal 
+connections of Spuhler instead of the cited node 154 and solder ball 128. 
+Rather, the Examiner, in responding to Appellant’s unsatisfactory for 
+intended use argument, explains that Spuhler is directed to testing a variety 
+of locations, such as testing the internal connection, such that removing one 
+or more interfaces does not render the entire testing device unusable or less 
+effective. Ans.  4–5, 7.  
+Accordingly, we affirm the rejection of claims 1–3, 8–10, and 17–20 
+under 35 U.S.C. § 103 as unpatentable over Spuhler, Wu, and Fjelstad. 
+ 
+THE REMAINING OBVIOUSNESS REJECTIONS  
+Claims 4–7 and 11–16  
+Appellant does not present separate arguments of patentability for 
+claims 4–7 and 11–16, but instead rely on the arguments presented for claim 
+1. See, e.g., Appeal Br. 11–12. As discussed above, we are not persuaded of 
+error in the Examiner’s rejection of claim 1. Similarly, for the same reasons, 
+we are also not persuaded of error in the Examiner’s rejections of 4–7 and 
+11–16 and affirm the rejections of these claims.     
+CONCLUSION 
+The Examiner’s rejections are AFFIRMED. 
+
+Appeal 2024-004096 
+Application 17/076,088 
+8 
+DECISION SUMMARY 
+The following table summarizes our decision: 
+Claim(s) 
+Rejected 
+35 U.S.C. 
+§ Reference(s)/ Basis Affirmed Reversed 
+ 1–3, 8–10, 17–
+20 
+ 103  Spuhler, Wu, Fjelstad  1–3, 8–10, 
+17–20 
+ 
+ 4  103  Spuhler, Wu, Fjelstad, 
+Yao 
+ 4  
+ 5–7  103  Spuhler, Wu, Fjelstad, 
+Dishongh 
+ 5–7  
+ 11–16  103  Spuhler, Wu, Fjelstad, 
+Yao 
+ 11–16  
+Overall 
+Outcome 
+   1–20  
+ 
+ 
+TIME PERIOD FOR RESPONSE 
+No time period for taking any subsequent action in connection with 
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R. § 
+1.136(a)(1)(iv). 
+AFFIRMED 
+ 

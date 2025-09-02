@@ -1,0 +1,300 @@
+2024004072 2025 08 25 b30245b5 2908 4020 9060 4cb28aad4ac5
+
+U NITED STATES PATENT AND TRADEMARK O FFICE
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+www.uspto.gov
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+17/035,110 09/28/2020 Tye Brady 110.0998-US 7088
+136715 7590 08/26/2025
+Athorus, PLLC
+P.O. Box 579
+Mount Vernon, WA 98273
+EXAMINER
+LOGAN, KYLE O
+ART UNIT PAPER NUMBER
+3655
+NOTIFICATION DATE DELIVERY MODE
+08/26/2025 ELECTRONIC
+Please find below and/or attached an Office communication concerning this application or proceeding.
+The time period for reply, if any, is set in the attached communication.
+Notice of the Office communication was sent electronically on above-indicated "Notification Date" to the
+following e-mail address(es):
+athorus.docket@athorus.com
+eofficeaction@appcoll.com
+PTOL-90A (Rev. 04/07)
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+——————
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+——————
+Ex parte TYE BRADY, GREGORY LONGTINE, and
+TIMOTHY STALLMAN
+——————
+Appeal 2024-004072
+Application 17/035,110
+Technology Center 3600
+——————
+
+Before JOSEPH A. FISCHETTI, MICHAEL C. ASTORINO, and
+BRADLEY B. BAYAT, Administrative Patent Judges.
+BAYAT, Administrative Patent Judge.
+DECISION ON APPEAL
+STATEMENT OF THE CASE
+Pursuant to 35 U.S.C. § 134(a), Appellant1 appeals from the
+Examiner’s decision to reject claims 1–20, which constitute all pending
+claims in the application. See Final Act. 1. We have jurisdiction under
+35 U.S.C. § 6(b).
+We AFFIRM IN PART.
+
+1 “Appellant” refers to “applicant” as defined in 37 C.F.R. § 1.42. Appellant
+identifies Amazon Technologies, Inc. as the real party in interest. Appeal Br.
+2.
+
+Appeal 2024-004072
+Application 17/035,110
+2
+CLAIMED SUBJECT MATTER
+The claims are directed to flexible, robotic automated storage and
+retrieval system. Claims 1 and 5, reproduced below, illustrate the claimed
+subject matter:
+1. An automated storage and retrieval system, comprising:
+a plurality of floors, individual floors including a
+plurality of storage grid locations connected via a plurality of
+highway grids;
+a plurality of elevators connecting the plurality of floors;
+a plurality of totes, individual totes being positioned at
+respective storage grid locations, and individual totes being
+configured to receive respective items;
+a plurality of robotic drive units configured to traverse
+the plurality of floors and the plurality of storage grid locations
+by traveling on respective surfaces of the plurality of highway
+grids, the plurality of elevators, and the plurality of storage grid
+locations, individual robotic drive units configured to lift,
+move, and place respective totes;
+a plurality of processing stations associated with the
+automated storage and retrieval system, individual processing
+stations configured to process items associated with respective
+totes; and
+a plurality of service access zones associated with the
+automated storage and retrieval system, the plurality of service
+access zones configured to enable access to the plurality of
+floors, the plurality of storage grid locations, the plurality of
+highway grids, and the plurality of elevators.
+
+5. A system, comprising:
+a plurality of floors, individual floors including a
+plurality of storage grid locations and a plurality of highway
+grids, and individual storage grid locations configured to
+receive respective totes;
+at least one elevator configured to traverse the plurality
+of floors; and
+a robotic drive unit configured to traverse the plurality of
+storage grid locations via respective surfaces of the plurality of
+
+Appeal 2024-004072
+Application 17/035,110
+3
+highway grids, the at least one elevator, and the plurality of
+storage grid locations, the robotic drive unit configured to move
+a respective tote.
+
+Appeal Br. (Claims App.).
+REFERENCES
+The Examiner relies on the following references to reject the claims:
+Name Reference Date
+Dewitt US 2018/0037410 A1 Feb. 8, 2018
+Bastian US 11,235,930 B2 Feb. 1, 2022
+REJECTIONS2
+The Examiner maintains the following rejections:
+Claims 5–7, 10, and 13 are rejected under 35 U.S.C. § 102(a)(2) as
+being anticipated by Bastian. Final Act. 5.
+Claims 1–4, 8, 9, and 14–20 are rejected under 35 U.S.C. § 103 as
+being unpatentable over Bastian and Dewitt. Final Act. 7.
+Claims 11 and 12 are rejected under 35 U.S.C. § 103 as being
+unpatentable over Bastian. Final Act. 17.
+OPINION
+Anticipation by Bastian
+Independent claim 5 and dependent claims 6, 7, 10, and 13
+Independent claim 5 requires, inter alia, “a robotic drive unit
+configured to traverse the plurality of storage grid locations via respective
+
+2 “[T]he rejection of claims 1–20 under 35 U.S.C. [§] 112(a) for lack of
+written description is withdrawn.” Adv. Act. 2 (Advisory Action mailed
+Dec. 28, 2023, hereinafter “Advisory Act.”).
+
+Appeal 2024-004072
+Application 17/035,110
+4
+surfaces of the plurality of highway grids, the at least one elevator, and the
+plurality of storage grid locations, the robotic drive unit configured to move
+a respective tote.” Appeal Br. 11.
+In contesting the rejection of claim 5 as being anticipated by Bastian,
+Appellant argues that
+the cited sections of Bastian do not disclose a robotic drive unit
+that is configured to traverse “via respective surfaces of the
+plurality of highway grids, the at least one elevator, and the
+plurality of storage grid locations. ” Appellant respectfully
+submits that the shuttle of Bastian does not traverse at least via
+surfaces of the plurality of storage grid locations because the
+shuttle travels along rails of the shuttle frame “and on a surface
+outside of the rack system,” in which the “rack has storage
+locations for containers. ” As a result, the Abstract of Bastian
+makes clear that its shuttle at least does not traverse via surfaces
+of the storage locations of its rack because the shuttle remains
+“outside of the rack system.”
+
+Appeal Br. 6.
+In particular, Appellant argues that “the cited sections related to the
+container transfer mechanism of Bastian are inapplicable to the aboverecited features of claim 5” because “nowhere do the cited sections of
+Bastian describe or suggest that the shuttle itself traverses via respective
+surfaces of the plurality of storage grid locations.” Id. at 7 (citing Final
+Act. 3; Adv. Act. 2). Appellant states that “the plain meaning of the term
+‘via’ is defined as ‘by way of’ or ‘by means of,’ such that the robotic drive
+unit traverses, travels on, or moves to storage grid locations by way of, or by
+means of, respective surfaces of . . . the plurality of storage grid locations”
+(Reply Br. 7). According to Appellant, “[a]lthough the container transfer
+mechanism of Bastian may extend from the shuttle toward storage locations
+of the rack, there is absolutely no discussion of the shuttle of Bastian
+
+Appeal 2024-004072
+Application 17/035,110
+5
+traversing along any surfaces of the plurality of storage grid locations” and
+“one of ordinary skill in the art would not consider extension of the
+container transfer mechanism of Bastian from the shuttle toward storage
+locations to somehow constitute disclosure of the shuttle of Bastian
+traversing via respective surfaces of the plurality of storage grid locations.”
+Id. at 5. We are persuaded by Appellant’s argument.
+Bastian does not anticipate claim 5 because “rejections under 35
+U.S.C. § 102 are proper only when the claimed subject matter is identically
+disclosed or described in the prior art.” In re Arkley, 455 F.2d 586, 587
+(CCPA 1972) (emphasis and internal quotation marks omitted). Here, in
+response to Appellant’s argument, the Examiner maintains that Bastian’s
+container transfer mechanism including “extendable conveyors (740)
+configured to extend laterally from the shuttle to a position underneath a
+target container inside a storage rack location” anticipates the limitation “a
+robotic drive unit configured to traverse the plurality of storage grid
+locations via respective surfaces of . . . the plurality of storage grid
+locations” as required by claim 5. Ans. 5. We agree with Appellant “that the
+shuttle of Bastian does not traverse at least via surfaces of the plurality of
+storage grid locations because the shuttle travels along rails of the shuttle
+frame ‘and on a surface outside of the rack system,’ in which the ‘rack has
+storage locations for containers.’” Reply Br. 3–4. In other words, even
+though Bastian’s “extendable conveyors or other container transfer
+mechanisms can store and retrieve containers from storage locations, the
+shuttles of Bastian clearly do not traverse via respective surfaces of the
+storage locations of the rack system.” Id. at 6.
+
+Appeal 2024-004072
+Application 17/035,110
+6
+The Examiner admits that Bastian’s “rack system includes a plurality
+of racks (205) with storage locations in which items are stored, and a shuttle
+frame (210) on which the shuttles are able to travel alongside the racks
+when storing and retrieving containers from storage locations” and that the
+shuttles “access various storage locations along the racks at different storage
+rack levels.” Ans. 4. Yet, the Examiner states, without any supporting
+citations or evidence, that “Bastian expressly teaches an autonomous mobile
+robot configured to travel vertically and horizontally across storage grid
+locations via travel lanes and elevator sections of the shuttle frame within
+the rack system” (id. at 6).
+We have reviewed the citations to Bastian and we agree with
+Appellant that “[n]one of the cited sections of Bastian describes that its
+shuttles ‘travel vertically and horizontally across storage grid locations . . .
+within the rack system.’” Reply Br. 6. Rather, Bastian expressly discloses
+that “[t]he shuttle frame 3615 allows the shuttles 3605 to travel along the
+racks 3610 and service the various storage rows 215, rack columns 220, and
+rack levels 225” (Bastian 19:63–65), “the travel lanes 310 of the shuttle
+frame 3615 includes one or more rack rails 320 along which the shuttles
+3605 travel between the racks 3610” and “[t]he shuttles 3605 are able to
+independently move along the floor outside of the storage rack system 3600
+so as to transfer items between various external service locations and the
+storage rack system 3600.” Bastian 20:6–12 (emphasis added). As such, the
+cited sections of Bastian do not anticipate the disputed limitation of claim 5.
+Accordingly, we do not sustain the rejection of claim 5 as being
+anticipated by Bastian and claims 6, 7, 10 and 13, which depend from
+claim 5.
+
+Appeal 2024-004072
+Application 17/035,110
+7
+Obviousness over Bastian
+Dependent claims 11 and 12
+We do not sustain the rejection of claims 11 and 12, which depend
+from claim 5, for the reasons discussed above.
+Obviousness over Bastian & DeWitt
+Independent claim 1 and dependent claims 2–4, 8, 9, 14, and 15
+Independent claim 1 recites “a plurality of robotic drive units
+configured to traverse the plurality of floors and the plurality of storage grid
+locations by traveling on respective surfaces of … the plurality of storage
+grid locations” which is similarly rejected as claim 5 under Bastian. See
+Final Act. 7. For the same reasons discussed above, we do not sustain the
+rejection of claim 1 and dependent claims 2–4.
+We do not sustain the rejection of claims 8, 9, 14, and 15, which
+depend from claim 5, for the same reasons. Additionally, we note that the
+Examiner does not rely on DeWitt to remedy the deficiency discussed
+above.
+Independent claim 16 and dependent claims 17–20
+Independent claim 16 recites:
+A method, comprising:
+determining, by a controller, a respective floor of a
+plurality of floors associated with a respective tote, the plurality
+of floors being connected by at least one elevator;
+determining, by the controller, a respective storage grid
+location of a plurality of storage grid locations on the respective
+floor associated with the respective tote; and
+instructing, by the controller, a robotic drive unit to move
+to the respective tote at the respective floor and the respective
+storage grid location via respective surfaces of at least a portion
+of a plurality of highway grids, the at least one elevator, and the
+plurality of storage grid locations.
+
+Appeal 2024-004072
+Application 17/035,110
+8
+In contesting the rejection of claim 16 as unpatentable over Bastian
+and DeWitt, Appellant only argues that instructing step of claim 16. See
+Appeal Br. 5. Appellant’s arguments however are directed to Bastian
+because Appellant asserts: “Claims 1 and 16 include features similar to those
+discussed above with respect to claim 5. Further, DeWitt is not asserted to
+cure the deficiencies noted above with respect to Bastian.” Appeal Br. 18;
+Reply Br. 8.
+In rejecting claim 16 as unpatentable over Bastian and DeWitt, the
+Examiner however relies on Dewitt not Bastian to reject the disputed
+instructing step. See Final Act. 11–14. As such, Appellant’s arguments do
+not apprise us of error in the Examiner’s finding as to DeWitt. Thus, we
+sustain the rejection of claims 16 and dependent claims 17–20, which are not
+argued.
+CONCLUSION
+The rejection of claims 5–7, 10, and 13 as anticipated by Bastian is
+REVERSED.
+The rejection of claims 1–4, 8, 9, 14, and 15 as unpatentable over
+Bastian and DeWitt is REVERSED.
+The rejection of claims 16–20 as unpatentable over Bastian and
+DeWitt is AFFIRMED.
+The rejection 11 and 12 as unpatentable over Bastian is REVERSED.
+
+
+Appeal 2024-004072
+Application 17/035,110
+9
+DECISION SUMMARY
+The following table summarizes our decision:
+Claim(s)
+Rejected 35 U.S.C. § Reference(s)/Basis Affirmed Reversed
+5–7, 10, 13 102 Bastian 5–7, 10, 13
+1–4, 8, 9, 14–20 103 Bastian, Dewitt 16–20 1–4, 8, 9, 14,
+15
+11, 12 103 Bastian 11, 12
+Overall
+Outcome
+16–20 1–15
+TIME PERIOD FOR RESPONSE
+No time period for taking any subsequent action in connection with
+this appeal may be extended under 37 C.F.R. § 1.136(a). See 37 C.F.R.
+§ 1.136(a)(1)(iv).
+AFFIRMED IN PART
